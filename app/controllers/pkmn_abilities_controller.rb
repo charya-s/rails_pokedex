@@ -1,2 +1,2 @@
-class PkmnAbilitiesController < ApiController
+class PkmnAbilitiesController < ApplicationController
 end

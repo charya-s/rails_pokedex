@@ -1,2 +1,2 @@
-class PkmnBreedingsController < ApiController
+class PkmnBreedingsController < ApplicationController
 end

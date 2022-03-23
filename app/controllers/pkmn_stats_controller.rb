@@ -1,2 +1,2 @@
-class PkmnStatsController < ApiController
+class PkmnStatsController < ApplicationController
 end
