@@ -5,7 +5,7 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
-AdminUser.create!(email: 'admin@pkmn', password: 'password', password_confirmation: 'password')
+AdminUser.create!(email: 'admin@pkmn', password: 'password', password_confirmation: 'password') unless AdminUser.find_by(email: 'admin@pkmn')
 
 # GENERAL TABLE #
 generals_csv_text = File.read(Rails.root.join('lib', 'seeds', 'pkmn_general.csv'))
