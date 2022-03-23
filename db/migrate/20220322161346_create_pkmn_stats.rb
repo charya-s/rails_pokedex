@@ -5,9 +5,9 @@ class CreatePkmnStats < ActiveRecord::Migration[7.0]
       t.integer :total_points
       t.integer :hp
       t.integer :attack
-      t.integer :defence
+      t.integer :defense
       t.integer :sp_attack
-      t.integer :sp_defence
+      t.integer :sp_defense
       t.integer :speed
 
       t.timestamps
