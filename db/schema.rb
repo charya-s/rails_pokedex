@@ -60,7 +60,6 @@ ActiveRecord::Schema[7.0].define(version: 2022_03_22_161459) do
   end
 
   create_table "pkmn_generals", force: :cascade do |t|
-    t.integer "pkmn_general_id"
     t.string "dex_num"
     t.string "name"
     t.string "gen"

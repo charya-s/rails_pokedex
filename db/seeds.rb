@@ -24,7 +24,6 @@ pkmn_count = 0
 
 generals_csv.each do |row|
     curr_pkmn = PkmnGeneral.create(
-        pkmn_general_id: pkmn_count,
         dex_num: row['dex_num'],
         name: row['name'],
         gen: row['gen'],
