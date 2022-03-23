@@ -1,0 +1,2 @@
+class PkmnStatsController < ApiController
+end

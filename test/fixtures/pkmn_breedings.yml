@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pkmn_general_id: 1
+  growth_rate: MyString
+  catch_rate: 1
+  percentage_male: 1.5
+  egg_type_1: MyString
+  egg_type_2: MyString
+
+two:
+  pkmn_general_id: 1
+  growth_rate: MyString
+  catch_rate: 1
+  percentage_male: 1.5
+  egg_type_1: MyString
+  egg_type_2: MyString

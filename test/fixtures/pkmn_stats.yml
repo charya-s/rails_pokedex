@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pkmn_general_id: 1
+  total_points: 1
+  hp: 1
+  attack: 1
+  defence: 1
+  sp_attack: 1
+  sp_defence: 1
+  speed: 1
+
+two:
+  pkmn_general_id: 1
+  total_points: 1
+  hp: 1
+  attack: 1
+  defence: 1
+  sp_attack: 1
+  sp_defence: 1
+  speed: 1

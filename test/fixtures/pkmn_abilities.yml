@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pkmn: one
+  abilities_num: 1
+  ability_1: MyString
+  ability_2: MyString
+  ability_hidden: MyString
+
+two:
+  pkmn: two
+  abilities_num: 1
+  ability_1: MyString
+  ability_2: MyString
+  ability_hidden: MyString

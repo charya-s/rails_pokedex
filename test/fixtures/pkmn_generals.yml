@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pkmn_id: MyString
+  dex_num: MyString
+  name: MyString
+  gen: MyString
+  species: MyString
+  type_count: 1
+  type_1: MyString
+  type_2: MyString
+  height: MyString
+  weight: MyString
+
+two:
+  pkmn_id: MyString
+  dex_num: MyString
+  name: MyString
+  gen: MyString
+  species: MyString
+  type_count: 1
+  type_1: MyString
+  type_2: MyString
+  height: MyString
+  weight: MyString

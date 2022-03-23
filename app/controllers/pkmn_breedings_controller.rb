@@ -1,0 +1,2 @@
+class PkmnBreedingsController < ApiController
+end

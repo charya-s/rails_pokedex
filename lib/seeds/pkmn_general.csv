@@ -1,0 +1,1029 @@
+﻿pkmn_id,dex_num,name,ger_name,jap_name,gen,status,species,type_count,type_1,type_2,height,weight
+999,1,Bulbasaur,Bisasam,ãƒ•ã‚·ã‚®ãƒ€ãƒ (Fushigidane),1,Normal,Seed PokÃ©mon,2,Grass,Poison,0.7,6.9
+1,2,Ivysaur,Bisaknosp,ãƒ•ã‚·ã‚®ã‚½ã‚¦ (Fushigisou),1,Normal,Seed PokÃ©mon,2,Grass,Poison,1,13
+2,3,Venusaur,Bisaflor,ãƒ•ã‚·ã‚®ãƒãƒŠ (Fushigibana),1,Normal,Seed PokÃ©mon,2,Grass,Poison,2,100
+3,3,Mega Venusaur,Bisaflor,ãƒ•ã‚·ã‚®ãƒãƒŠ (Fushigibana),1,Normal,Seed PokÃ©mon,2,Grass,Poison,2.4,155.5
+4,4,Charmander,Glumanda,ãƒ’ãƒˆã‚«ã‚² (Hitokage),1,Normal,Lizard PokÃ©mon,1,Fire,,0.6,8.5
+5,5,Charmeleon,Glutexo,ãƒªã‚¶ãƒ¼ãƒ‰ (Lizardo),1,Normal,Flame PokÃ©mon,1,Fire,,1.1,19
+6,6,Charizard,Glurak,ãƒªã‚¶ãƒ¼ãƒ‰ãƒ³ (Lizardon),1,Normal,Flame PokÃ©mon,2,Fire,Flying,1.7,90.5
+7,6,Mega Charizard X,Glurak,ãƒªã‚¶ãƒ¼ãƒ‰ãƒ³ (Lizardon),1,Normal,Flame PokÃ©mon,2,Fire,Dragon,1.7,110.5
+8,6,Mega Charizard Y,Glurak,ãƒªã‚¶ãƒ¼ãƒ‰ãƒ³ (Lizardon),1,Normal,Flame PokÃ©mon,2,Fire,Flying,1.7,100.5
+9,7,Squirtle,Schiggy,ã‚¼ãƒ‹ã‚¬ãƒ¡ (Zenigame),1,Normal,Tiny Turtle PokÃ©mon,1,Water,,0.5,9
+10,8,Wartortle,Schillok,ã‚«ãƒ¡ãƒ¼ãƒ« (Kameil),1,Normal,Turtle PokÃ©mon,1,Water,,1,22.5
+11,9,Blastoise,Turtok,ã‚«ãƒ¡ãƒƒã‚¯ã‚¹ (Kamex),1,Normal,Shellfish PokÃ©mon,1,Water,,1.6,85.5
+12,9,Mega Blastoise,Turtok,ã‚«ãƒ¡ãƒƒã‚¯ã‚¹ (Kamex),1,Normal,Shellfish PokÃ©mon,1,Water,,1.6,101.1
+13,10,Caterpie,Raupy,ã‚­ãƒ£ã‚¿ãƒ”ãƒ¼ (Caterpie),1,Normal,Worm PokÃ©mon,1,Bug,,0.3,2.9
+14,11,Metapod,Safcon,ãƒˆãƒ©ãƒ³ã‚»ãƒ« (Transel),1,Normal,Cocoon PokÃ©mon,1,Bug,,0.7,9.9
+15,12,Butterfree,Smettbo,ãƒã‚¿ãƒ•ãƒªãƒ¼ (Butterfree),1,Normal,Butterfly PokÃ©mon,2,Bug,Flying,1.1,32
+16,13,Weedle,Hornliu,ãƒ“ãƒ¼ãƒ‰ãƒ« (Beedle),1,Normal,Hairy Bug PokÃ©mon,2,Bug,Poison,0.3,3.2
+17,14,Kakuna,Kokuna,ã‚³ã‚¯ãƒ¼ãƒ³ (Cocoon),1,Normal,Cocoon PokÃ©mon,2,Bug,Poison,0.6,10
+18,15,Beedrill,Bibor,ã‚¹ãƒ”ã‚¢ãƒ¼ (Spear),1,Normal,Poison Bee PokÃ©mon,2,Bug,Poison,1,29.5
+19,15,Mega Beedrill,Bibor,ã‚¹ãƒ”ã‚¢ãƒ¼ (Spear),1,Normal,Poison Bee PokÃ©mon,2,Bug,Poison,1.4,40.5
+20,16,Pidgey,Taubsi,ãƒãƒƒãƒ (Poppo),1,Normal,Tiny Bird PokÃ©mon,2,Normal,Flying,0.3,1.8
+21,17,Pidgeotto,Tauboga,ãƒ”ã‚¸ãƒ§ãƒ³ (Pigeon),1,Normal,Bird PokÃ©mon,2,Normal,Flying,1.1,30
+22,18,Pidgeot,Tauboss,ãƒ”ã‚¸ãƒ§ãƒƒãƒˆ (Pigeot),1,Normal,Bird PokÃ©mon,2,Normal,Flying,1.5,39.5
+23,18,Mega Pidgeot,Tauboss,ãƒ”ã‚¸ãƒ§ãƒƒãƒˆ (Pigeot),1,Normal,Bird PokÃ©mon,2,Normal,Flying,2.2,50.5
+24,19,Rattata,Rattfratz,ã‚³ãƒ©ãƒƒã‚¿ (Koratta),1,Normal,Mouse PokÃ©mon,1,Normal,,0.3,3.5
+25,19,Alolan Rattata,Rattfratz,ã‚³ãƒ©ãƒƒã‚¿ (Koratta),1,Normal,Mouse PokÃ©mon,2,Dark,Normal,0.3,3.8
+26,20,Raticate,Rattikarl,ãƒ©ãƒƒã‚¿ (Ratta),1,Normal,Mouse PokÃ©mon,1,Normal,,0.7,18.5
+27,20,Alolan Raticate,Rattikarl,ãƒ©ãƒƒã‚¿ (Ratta),1,Normal,Mouse PokÃ©mon,2,Dark,Normal,0.7,25.5
+28,21,Spearow,Habitak,ã‚ªãƒ‹ã‚¹ã‚ºãƒ¡ (Onisuzume),1,Normal,Tiny Bird PokÃ©mon,2,Normal,Flying,0.3,2
+29,22,Fearow,Ibitak,ã‚ªãƒ‹ãƒ‰ãƒªãƒ« (Onidrill),1,Normal,Beak PokÃ©mon,2,Normal,Flying,1.2,38
+30,23,Ekans,Rettan,ã‚¢ãƒ¼ãƒœ (Arbo),1,Normal,Snake PokÃ©mon,1,Poison,,2,6.9
+31,24,Arbok,Arbok,ã‚¢ãƒ¼ãƒœãƒƒã‚¯ (Arbok),1,Normal,Cobra PokÃ©mon,1,Poison,,3.5,65
+32,25,Pikachu,Pikachu,ãƒ”ã‚«ãƒãƒ¥ã‚¦ (Pikachu),1,Normal,Mouse PokÃ©mon,1,Electric,,0.4,6
+33,25,Partner Pikachu,Pikachu,ãƒ”ã‚«ãƒãƒ¥ã‚¦ (Pikachu),1,Normal,Mouse PokÃ©mon,1,Electric,,0.4,6
+34,26,Raichu,Raichu,ãƒ©ã‚¤ãƒãƒ¥ã‚¦ (Raichu),1,Normal,Mouse PokÃ©mon,1,Electric,,0.8,30
+35,26,Alolan Raichu,Raichu,ãƒ©ã‚¤ãƒãƒ¥ã‚¦ (Raichu),1,Normal,Mouse PokÃ©mon,2,Electric,Psychic,0.7,21
+36,27,Sandshrew,Sandan,ã‚µãƒ³ãƒ‰ (Sand),1,Normal,Mouse PokÃ©mon,1,Ground,,0.6,12
+37,27,Alolan Sandshrew,Sandan,ã‚µãƒ³ãƒ‰ (Sand),1,Normal,Mouse PokÃ©mon,2,Ice,Steel,0.7,40
+38,28,Sandslash,Sandamer,ã‚µãƒ³ãƒ‰ãƒ‘ãƒ³ (Sandpan),1,Normal,Mouse PokÃ©mon,1,Ground,,1,29.5
+39,28,Alolan Sandslash,Sandamer,ã‚µãƒ³ãƒ‰ãƒ‘ãƒ³ (Sandpan),1,Normal,Mouse PokÃ©mon,2,Ice,Steel,1.2,55
+40,29,Nidoran ♀,Nidoranâ™€,ãƒ‹ãƒ‰ãƒ©ãƒ³â™€ (Nidoranâ™€),1,Normal,Poison Pin PokÃ©mon,1,Poison,,0.4,7
+41,30,Nidorina,Nidorina,ãƒ‹ãƒ‰ãƒªãƒ¼ãƒŠ (Nidorina),1,Normal,Poison Pin PokÃ©mon,1,Poison,,0.8,20
+42,31,Nidoqueen,Nidoqueen,ãƒ‹ãƒ‰ã‚¯ã‚¤ãƒ³ (Nidoqueen),1,Normal,Drill PokÃ©mon,2,Poison,Ground,1.3,60
+43,32,Nidoran ♂,Nidoranâ™‚,ãƒ‹ãƒ‰ãƒ©ãƒ³â™‚ (Nidoranâ™‚),1,Normal,Poison Pin PokÃ©mon,1,Poison,,0.5,9
+44,33,Nidorino,Nidorino,ãƒ‹ãƒ‰ãƒªãƒ¼ãƒŽ (Nidorino),1,Normal,Poison Pin PokÃ©mon,1,Poison,,0.9,19.5
+45,34,Nidoking,Nidoking,ãƒ‹ãƒ‰ã‚­ãƒ³ã‚° (Nidoking),1,Normal,Drill PokÃ©mon,2,Poison,Ground,1.4,62
+46,35,Clefairy,Piepi,ãƒ”ãƒƒãƒ” (Pippi),1,Normal,Fairy PokÃ©mon,1,Fairy,,0.6,7.5
+47,36,Clefable,Pixi,ãƒ”ã‚¯ã‚·ãƒ¼ (Pixy),1,Normal,Fairy PokÃ©mon,1,Fairy,,1.3,40
+48,37,Vulpix,Vulpix,ãƒ­ã‚³ãƒ³ (Rokon),1,Normal,Fox PokÃ©mon,1,Fire,,0.6,9.9
+49,37,Alolan Vulpix,Vulpix,ãƒ­ã‚³ãƒ³ (Rokon),1,Normal,Fox PokÃ©mon,1,Ice,,0.6,9.9
+50,38,Ninetales,Vulnona,ã‚­ãƒ¥ã‚¦ã‚³ãƒ³ (Kyukon),1,Normal,Fox PokÃ©mon,1,Fire,,1.1,19.9
+51,38,Alolan Ninetales,Vulnona,ã‚­ãƒ¥ã‚¦ã‚³ãƒ³ (Kyukon),1,Normal,Fox PokÃ©mon,2,Ice,Fairy,1.1,19.9
+52,39,Jigglypuff,Pummeluff,ãƒ—ãƒªãƒ³ (Purin),1,Normal,Balloon PokÃ©mon,2,Normal,Fairy,0.5,5.5
+53,40,Wigglytuff,Knuddeluff,ãƒ—ã‚¯ãƒªãƒ³ (Pukurin),1,Normal,Balloon PokÃ©mon,2,Normal,Fairy,1,12
+54,41,Zubat,Zubat,ã‚ºãƒãƒƒãƒˆ (Zubat),1,Normal,Bat PokÃ©mon,2,Poison,Flying,0.8,7.5
+55,42,Golbat,Golbat,ã‚´ãƒ«ãƒãƒƒãƒˆ (Golbat),1,Normal,Bat PokÃ©mon,2,Poison,Flying,1.6,55
+56,43,Oddish,Myrapla,ãƒŠã‚¾ãƒŽã‚¯ã‚µ (Nazonokusa),1,Normal,Weed PokÃ©mon,2,Grass,Poison,0.5,5.4
+57,44,Gloom,Duflor,ã‚¯ã‚µã‚¤ãƒãƒŠ (Kusaihana),1,Normal,Weed PokÃ©mon,2,Grass,Poison,0.8,8.6
+58,45,Vileplume,Giflor,ãƒ©ãƒ•ãƒ¬ã‚·ã‚¢ (Ruffresia),1,Normal,Flower PokÃ©mon,2,Grass,Poison,1.2,18.6
+59,46,Paras,Paras,ãƒ‘ãƒ©ã‚¹ (Paras),1,Normal,Mushroom PokÃ©mon,2,Bug,Grass,0.3,5.4
+60,47,Parasect,Parasek,ãƒ‘ãƒ©ã‚»ã‚¯ãƒˆ (Parasect),1,Normal,Mushroom PokÃ©mon,2,Bug,Grass,1,29.5
+61,48,Venonat,Bluzuk,ã‚³ãƒ³ãƒ‘ãƒ³ (Kongpang),1,Normal,Insect PokÃ©mon,2,Bug,Poison,1,30
+62,49,Venomoth,Omot,ãƒ¢ãƒ«ãƒ•ã‚©ãƒ³ (Morphon),1,Normal,Poison Moth PokÃ©mon,2,Bug,Poison,1.5,12.5
+63,50,Diglett,Digda,ãƒ‡ã‚£ã‚°ãƒ€ (Digda),1,Normal,Mole PokÃ©mon,1,Ground,,0.2,0.8
+64,50,Alolan Diglett,Digda,ãƒ‡ã‚£ã‚°ãƒ€ (Digda),1,Normal,Mole PokÃ©mon,2,Ground,Steel,0.2,1
+65,51,Dugtrio,Digdri,ãƒ€ã‚°ãƒˆãƒªã‚ª (Dugtrio),1,Normal,Mole PokÃ©mon,1,Ground,,0.7,33.3
+66,51,Alolan Dugtrio,Digdri,ãƒ€ã‚°ãƒˆãƒªã‚ª (Dugtrio),1,Normal,Mole PokÃ©mon,2,Ground,Steel,0.7,66.6
+67,52,Meowth,Mauzi,ãƒ‹ãƒ£ãƒ¼ã‚¹ (Nyarth),1,Normal,Scratch Cat PokÃ©mon,1,Normal,,0.4,4.2
+68,52,Alolan Meowth,Mauzi,ãƒ‹ãƒ£ãƒ¼ã‚¹ (Nyarth),1,Normal,Scratch Cat PokÃ©mon,1,Dark,,0.4,4.2
+69,52,Galarian Meowth,Mauzi,ãƒ‹ãƒ£ãƒ¼ã‚¹ (Nyarth),1,Normal,Scratch Cat PokÃ©mon,1,Steel,,0.4,7.5
+70,53,Persian,Snobilikat,ãƒšãƒ«ã‚·ã‚¢ãƒ³ (Persian),1,Normal,Classy Cat PokÃ©mon,1,Normal,,1,32
+71,53,Alolan Persian,Snobilikat,ãƒšãƒ«ã‚·ã‚¢ãƒ³ (Persian),1,Normal,Classy Cat PokÃ©mon,1,Dark,,1.1,33
+72,54,Psyduck,Enton,ã‚³ãƒ€ãƒƒã‚¯ (Koduck),1,Normal,Duck PokÃ©mon,1,Water,,0.8,19.6
+73,55,Golduck,Entoron,ã‚´ãƒ«ãƒ€ãƒƒã‚¯ (Golduck),1,Normal,Duck PokÃ©mon,1,Water,,1.7,76.6
+74,56,Mankey,Menki,ãƒžãƒ³ã‚­ãƒ¼ (Mankey),1,Normal,Pig Monkey PokÃ©mon,1,Fighting,,0.5,28
+75,57,Primeape,Rasaff,ã‚ªã‚³ãƒªã‚¶ãƒ« (Okorizaru),1,Normal,Pig Monkey PokÃ©mon,1,Fighting,,1,32
+76,58,Growlithe,Fukano,ã‚¬ãƒ¼ãƒ‡ã‚£ (Gardie),1,Normal,Puppy PokÃ©mon,1,Fire,,0.7,19
+77,59,Arcanine,Arkani,ã‚¦ã‚¤ãƒ³ãƒ‡ã‚£ (Windie),1,Normal,Legendary PokÃ©mon,1,Fire,,1.9,155
+78,60,Poliwag,Quapsel,ãƒ‹ãƒ§ãƒ­ãƒ¢ (Nyoromo),1,Normal,Tadpole PokÃ©mon,1,Water,,0.6,12.4
+79,61,Poliwhirl,Quaputzi,ãƒ‹ãƒ§ãƒ­ã‚¾ (Nyorozo),1,Normal,Tadpole PokÃ©mon,1,Water,,1,20
+80,62,Poliwrath,Quappo,ãƒ‹ãƒ§ãƒ­ãƒœãƒ³ (Nyorobon),1,Normal,Tadpole PokÃ©mon,2,Water,Fighting,1.3,54
+81,63,Abra,Abra,ã‚±ãƒ¼ã‚·ã‚£ (Casey),1,Normal,Psi PokÃ©mon,1,Psychic,,0.9,19.5
+82,64,Kadabra,Kadabra,ãƒ¦ãƒ³ã‚²ãƒ©ãƒ¼ (Yungerer),1,Normal,Psi PokÃ©mon,1,Psychic,,1.3,56.5
+83,65,Alakazam,Simsala,ãƒ•ãƒ¼ãƒ‡ã‚£ãƒ³ (Foodin),1,Normal,Psi PokÃ©mon,1,Psychic,,1.5,48
+84,65,Mega Alakazam,Simsala,ãƒ•ãƒ¼ãƒ‡ã‚£ãƒ³ (Foodin),1,Normal,Psi PokÃ©mon,1,Psychic,,1.2,48
+85,66,Machop,Machollo,ãƒ¯ãƒ³ãƒªã‚­ãƒ¼ (Wanriky),1,Normal,Superpower PokÃ©mon,1,Fighting,,0.8,19.5
+86,67,Machoke,Maschock,ã‚´ãƒ¼ãƒªã‚­ãƒ¼ (Goriky),1,Normal,Superpower PokÃ©mon,1,Fighting,,1.5,70.5
+87,68,Machamp,Machomei,ã‚«ã‚¤ãƒªã‚­ãƒ¼ (Kairiky),1,Normal,Superpower PokÃ©mon,1,Fighting,,1.6,130
+88,69,Bellsprout,Knofensa,ãƒžãƒ€ãƒ„ãƒœãƒŸ (Madatsubomi),1,Normal,Flower PokÃ©mon,2,Grass,Poison,0.7,4
+89,70,Weepinbell,Ultrigaria,ã‚¦ãƒ„ãƒ‰ãƒ³ (Utsudon),1,Normal,Flycatcher PokÃ©mon,2,Grass,Poison,1,6.4
+90,71,Victreebel,Sarzenia,ã‚¦ãƒ„ãƒœãƒƒãƒˆ (Utsubot),1,Normal,Flycatcher PokÃ©mon,2,Grass,Poison,1.7,15.5
+91,72,Tentacool,Tentacha,ãƒ¡ãƒŽã‚¯ãƒ©ã‚² (Menokurage),1,Normal,Jellyfish PokÃ©mon,2,Water,Poison,0.9,45.5
+92,73,Tentacruel,Tentoxa,ãƒ‰ã‚¯ã‚¯ãƒ©ã‚² (Dokukurage),1,Normal,Jellyfish PokÃ©mon,2,Water,Poison,1.6,55
+93,74,Geodude,Kleinstein,ã‚¤ã‚·ãƒ„ãƒ–ãƒ† (Isitsubute),1,Normal,Rock PokÃ©mon,2,Rock,Ground,0.4,20
+94,74,Alolan Geodude,Kleinstein,ã‚¤ã‚·ãƒ„ãƒ–ãƒ† (Isitsubute),1,Normal,Rock PokÃ©mon,2,Rock,Electric,0.4,20.3
+95,75,Graveler,Georok,ã‚´ãƒ­ãƒ¼ãƒ³ (Golone),1,Normal,Rock PokÃ©mon,2,Rock,Ground,1,105
+96,75,Alolan Graveler,Georok,ã‚´ãƒ­ãƒ¼ãƒ³ (Golone),1,Normal,Rock PokÃ©mon,2,Rock,Electric,1,110
+97,76,Golem,Geowaz,ã‚´ãƒ­ãƒ¼ãƒ‹ãƒ£ (Golonya),1,Normal,Megaton PokÃ©mon,2,Rock,Ground,1.4,300
+98,76,Alolan Golem,Geowaz,ã‚´ãƒ­ãƒ¼ãƒ‹ãƒ£ (Golonya),1,Normal,Megaton PokÃ©mon,2,Rock,Electric,1.7,316
+99,77,Ponyta,Ponita,ãƒãƒ‹ãƒ¼ã‚¿ (Ponyta),1,Normal,Fire Horse PokÃ©mon,1,Fire,,1,30
+100,77,Galarian Ponyta,Ponita,ãƒãƒ‹ãƒ¼ã‚¿ (Ponyta),1,Normal,Unique Horn PokÃ©mon,1,Psychic,,0.8,24
+101,78,Rapidash,Gallopa,ã‚®ãƒ£ãƒ­ãƒƒãƒ— (Gallop),1,Normal,Fire Horse PokÃ©mon,1,Fire,,1.7,95
+102,78,Galarian Rapidash,Gallopa,ã‚®ãƒ£ãƒ­ãƒƒãƒ— (Gallop),1,Normal,Unique Horn PokÃ©mon,2,Psychic,Fairy,1.7,80
+103,79,Slowpoke,Flegmon,ãƒ¤ãƒ‰ãƒ³ (Yadon),1,Normal,Dopey PokÃ©mon,2,Water,Psychic,1.2,36
+104,80,Slowbro,Lahmus,ãƒ¤ãƒ‰ãƒ©ãƒ³ (Yadoran),1,Normal,Hermit Crab PokÃ©mon,2,Water,Psychic,1.6,78.5
+105,80,Mega Slowbro,Lahmus,ãƒ¤ãƒ‰ãƒ©ãƒ³ (Yadoran),1,Normal,Hermit Crab PokÃ©mon,2,Water,Psychic,2,120
+106,81,Magnemite,Magnetilo,ã‚³ã‚¤ãƒ« (Coil),1,Normal,Magnet PokÃ©mon,2,Electric,Steel,0.3,6
+107,82,Magneton,Magneton,ãƒ¬ã‚¢ã‚³ã‚¤ãƒ« (Rarecoil),1,Normal,Magnet PokÃ©mon,2,Electric,Steel,1,60
+108,83,Farfetch'd,Porenta,ã‚«ãƒ¢ãƒã‚® (Kamonegi),1,Normal,Wild Duck PokÃ©mon,2,Normal,Flying,0.8,15
+109,83,Galarian Farfetch'd,Porenta,ã‚«ãƒ¢ãƒã‚® (Kamonegi),1,Normal,Wild Duck PokÃ©mon,1,Fighting,,0.8,42
+110,84,Doduo,Dodu,ãƒ‰ãƒ¼ãƒ‰ãƒ¼ (Dodo),1,Normal,Twin Bird PokÃ©mon,2,Normal,Flying,1.4,39.2
+111,85,Dodrio,Dodri,ãƒ‰ãƒ¼ãƒ‰ãƒªã‚ª (Dodorio),1,Normal,Triple Bird PokÃ©mon,2,Normal,Flying,1.8,85.2
+112,86,Seel,Jurob,ãƒ‘ã‚¦ãƒ¯ã‚¦ (Pawou),1,Normal,Sea Lion PokÃ©mon,1,Water,,1.1,90
+113,87,Dewgong,Jugong,ã‚¸ãƒ¥ã‚´ãƒ³ (Jugon),1,Normal,Sea Lion PokÃ©mon,2,Water,Ice,1.7,120
+114,88,Grimer,Sleima,ãƒ™ãƒˆãƒ™ã‚¿ãƒ¼ (Betbeter),1,Normal,Sludge PokÃ©mon,1,Poison,,0.9,30
+115,88,Alolan Grimer,Sleima,ãƒ™ãƒˆãƒ™ã‚¿ãƒ¼ (Betbeter),1,Normal,Sludge PokÃ©mon,2,Poison,Dark,0.7,42
+116,89,Muk,Sleimok,ãƒ™ãƒˆãƒ™ãƒˆãƒ³ (Betbeton),1,Normal,Sludge PokÃ©mon,1,Poison,,1.2,30
+117,89,Alolan Muk,Sleimok,ãƒ™ãƒˆãƒ™ãƒˆãƒ³ (Betbeton),1,Normal,Sludge PokÃ©mon,2,Poison,Dark,1,52
+118,90,Shellder,Muschas,ã‚·ã‚§ãƒ«ãƒ€ãƒ¼ (Shellder),1,Normal,Bivalve PokÃ©mon,1,Water,,0.3,4
+119,91,Cloyster,Austos,ãƒ‘ãƒ«ã‚·ã‚§ãƒ³ (Parshen),1,Normal,Bivalve PokÃ©mon,2,Water,Ice,1.5,132.5
+120,92,Gastly,Nebulak,ã‚´ãƒ¼ã‚¹ (Ghos),1,Normal,Gas PokÃ©mon,2,Ghost,Poison,1.3,0.1
+121,93,Haunter,Alpollo,ã‚´ãƒ¼ã‚¹ãƒˆ (Ghost),1,Normal,Gas PokÃ©mon,2,Ghost,Poison,1.6,0.1
+122,94,Gengar,Gengar,ã‚²ãƒ³ã‚¬ãƒ¼ (Gangar),1,Normal,Shadow PokÃ©mon,2,Ghost,Poison,1.5,40.5
+123,94,Mega Gengar,Gengar,ã‚²ãƒ³ã‚¬ãƒ¼ (Gangar),1,Normal,Shadow PokÃ©mon,2,Ghost,Poison,1.4,40.5
+124,95,Onix,Onix,ã‚¤ãƒ¯ãƒ¼ã‚¯ (Iwark),1,Normal,Rock Snake PokÃ©mon,2,Rock,Ground,8.8,210
+125,96,Drowzee,Traumato,ã‚¹ãƒªãƒ¼ãƒ— (Sleepe),1,Normal,Hypnosis PokÃ©mon,1,Psychic,,1,32.4
+126,97,Hypno,Hypno,ã‚¹ãƒªãƒ¼ãƒ‘ãƒ¼ (Sleeper),1,Normal,Hypnosis PokÃ©mon,1,Psychic,,1.6,75.6
+127,98,Krabby,Krabby,ã‚¯ãƒ©ãƒ– (Crab),1,Normal,River Crab PokÃ©mon,1,Water,,0.4,6.5
+128,99,Kingler,Kingler,ã‚­ãƒ³ã‚°ãƒ©ãƒ¼ (Kingler),1,Normal,Pincer PokÃ©mon,1,Water,,1.3,60
+129,100,Voltorb,Voltobal,ãƒ“ãƒªãƒªãƒ€ãƒž (Biriridama),1,Normal,Ball PokÃ©mon,1,Electric,,0.5,10.4
+130,101,Electrode,Lektrobal,ãƒžãƒ«ãƒžã‚¤ãƒ³ (Marumine),1,Normal,Ball PokÃ©mon,1,Electric,,1.2,66.6
+131,102,Exeggcute,Owei,ã‚¿ãƒžã‚¿ãƒž (Tamatama),1,Normal,Egg PokÃ©mon,2,Grass,Psychic,0.4,2.5
+132,103,Exeggutor,Kokowei,ãƒŠãƒƒã‚·ãƒ¼ (Nassy),1,Normal,Coconut PokÃ©mon,2,Grass,Psychic,2,120
+133,103,Alolan Exeggutor,Kokowei,ãƒŠãƒƒã‚·ãƒ¼ (Nassy),1,Normal,Coconut PokÃ©mon,2,Grass,Dragon,10.9,415.6
+134,104,Cubone,Tragosso,ã‚«ãƒ©ã‚«ãƒ© (Karakara),1,Normal,Lonely PokÃ©mon,1,Ground,,0.4,6.5
+135,105,Marowak,Knogga,ã‚¬ãƒ©ã‚¬ãƒ© (Garagara),1,Normal,Bone Keeper PokÃ©mon,1,Ground,,1,45
+136,105,Alolan Marowak,Knogga,ã‚¬ãƒ©ã‚¬ãƒ© (Garagara),1,Normal,Bone Keeper PokÃ©mon,2,Fire,Ghost,1,34
+137,106,Hitmonlee,Kicklee,ã‚µãƒ¯ãƒ ãƒ©ãƒ¼ (Sawamular),1,Normal,Kicking PokÃ©mon,1,Fighting,,1.5,49.8
+138,107,Hitmonchan,Nockchan,ã‚¨ãƒ“ãƒ¯ãƒ©ãƒ¼ (Ebiwalar),1,Normal,Punching PokÃ©mon,1,Fighting,,1.4,50.2
+139,108,Lickitung,Schlurp,ãƒ™ãƒ­ãƒªãƒ³ã‚¬ (Beroringa),1,Normal,Licking PokÃ©mon,1,Normal,,1.2,65.5
+140,109,Koffing,Smogon,ãƒ‰ã‚¬ãƒ¼ã‚¹ (Dogars),1,Normal,Poison Gas PokÃ©mon,1,Poison,,0.6,1
+141,110,Weezing,Smogmog,ãƒžã‚¿ãƒ‰ã‚¬ã‚¹ (Matadogas),1,Normal,Poison Gas PokÃ©mon,1,Poison,,1.2,9.5
+142,110,Galarian Weezing,Smogmog,ãƒžã‚¿ãƒ‰ã‚¬ã‚¹ (Matadogas),1,Normal,Poison Gas PokÃ©mon,2,Poison,Fairy,3,16
+143,111,Rhyhorn,Rihorn,ã‚µã‚¤ãƒ›ãƒ¼ãƒ³ (Sihorn),1,Normal,Spikes PokÃ©mon,2,Ground,Rock,1,115
+144,112,Rhydon,Rizeros,ã‚µã‚¤ãƒ‰ãƒ³ (Sidon),1,Normal,Drill PokÃ©mon,2,Ground,Rock,1.9,120
+145,113,Chansey,Chaneira,ãƒ©ãƒƒã‚­ãƒ¼ (Lucky),1,Normal,Egg PokÃ©mon,1,Normal,,1.1,34.6
+146,114,Tangela,Tangela,ãƒ¢ãƒ³ã‚¸ãƒ£ãƒ© (Monjara),1,Normal,Vine PokÃ©mon,1,Grass,,1,35
+147,115,Kangaskhan,Kangama,ã‚¬ãƒ«ãƒ¼ãƒ© (Garura),1,Normal,Parent PokÃ©mon,1,Normal,,2.2,80
+148,115,Mega Kangaskhan,Kangama,ã‚¬ãƒ«ãƒ¼ãƒ© (Garura),1,Normal,Parent PokÃ©mon,1,Normal,,2.2,100
+149,116,Horsea,Seeper,ã‚¿ãƒƒãƒ„ãƒ¼ (Tattu),1,Normal,Dragon PokÃ©mon,1,Water,,0.4,8
+150,117,Seadra,Seemon,ã‚·ãƒ¼ãƒ‰ãƒ© (Seadra),1,Normal,Dragon PokÃ©mon,1,Water,,1.2,25
+151,118,Goldeen,Goldini,ãƒˆã‚µã‚­ãƒ³ãƒˆ (Tosakinto),1,Normal,Goldfish PokÃ©mon,1,Water,,0.6,15
+152,119,Seaking,Golking,ã‚¢ã‚ºãƒžã‚ªã‚¦ (Azumao),1,Normal,Goldfish PokÃ©mon,1,Water,,1.3,39
+153,120,Staryu,Sterndu,ãƒ’ãƒˆãƒ‡ãƒžãƒ³ (Hitodeman),1,Normal,Star Shape PokÃ©mon,1,Water,,0.8,34.5
+154,121,Starmie,Starmie,ã‚¹ã‚¿ãƒ¼ãƒŸãƒ¼ (Starmie),1,Normal,Mysterious PokÃ©mon,2,Water,Psychic,1.1,80
+155,122,Mr. Mime,Pantimos,ãƒãƒªãƒ¤ãƒ¼ãƒ‰ (Barrierd),1,Normal,Barrier PokÃ©mon,2,Psychic,Fairy,1.3,54.5
+156,122,Galarian Mr. Mime,Pantimos,ãƒãƒªãƒ¤ãƒ¼ãƒ‰ (Barrierd),1,Normal,Dancing PokÃ©mon,2,Psychic,Ice,1.4,56.8
+157,123,Scyther,Sichlor,ã‚¹ãƒˆãƒ©ã‚¤ã‚¯ (Strike),1,Normal,Mantis PokÃ©mon,2,Bug,Flying,1.5,56
+158,124,Jynx,Rossana,ãƒ«ãƒ¼ã‚¸ãƒ¥ãƒ© (Rougela),1,Normal,Human Shape PokÃ©mon,2,Ice,Psychic,1.4,40.6
+159,125,Electabuzz,Elektek,ã‚¨ãƒ¬ãƒ–ãƒ¼ (Eleboo),1,Normal,Electric PokÃ©mon,1,Electric,,1.1,30
+160,126,Magmar,Magmar,ãƒ–ãƒ¼ãƒãƒ¼ (Boober),1,Normal,Spitfire PokÃ©mon,1,Fire,,1.3,44.5
+161,127,Pinsir,Pinsir,ã‚«ã‚¤ãƒ­ã‚¹ (Kailios),1,Normal,Stag Beetle PokÃ©mon,1,Bug,,1.5,55
+162,127,Mega Pinsir,Pinsir,ã‚«ã‚¤ãƒ­ã‚¹ (Kailios),1,Normal,Stag Beetle PokÃ©mon,2,Bug,Flying,1.7,59
+163,128,Tauros,Tauros,ã‚±ãƒ³ã‚¿ãƒ­ã‚¹ (Kentauros),1,Normal,Wild Bull PokÃ©mon,1,Normal,,1.4,88.4
+164,129,Magikarp,Karpador,ã‚³ã‚¤ã‚­ãƒ³ã‚° (Koiking),1,Normal,Fish PokÃ©mon,1,Water,,0.9,10
+165,130,Gyarados,Garados,ã‚®ãƒ£ãƒ©ãƒ‰ã‚¹ (Gyarados),1,Normal,Atrocious PokÃ©mon,2,Water,Flying,6.5,235
+166,130,Mega Gyarados,Garados,ã‚®ãƒ£ãƒ©ãƒ‰ã‚¹ (Gyarados),1,Normal,Atrocious PokÃ©mon,2,Water,Dark,6.5,305
+167,131,Lapras,Lapras,ãƒ©ãƒ—ãƒ©ã‚¹ (Laplace),1,Normal,Transport PokÃ©mon,2,Water,Ice,2.5,220
+168,132,Ditto,Ditto,ãƒ¡ã‚¿ãƒ¢ãƒ³ (Metamon),1,Normal,Transform PokÃ©mon,1,Normal,,0.3,4
+169,133,Eevee,Evoli,ã‚¤ãƒ¼ãƒ–ã‚¤ (Eievui),1,Normal,Evolution PokÃ©mon,1,Normal,,0.3,6.5
+170,133,Partner Eevee,Evoli,ã‚¤ãƒ¼ãƒ–ã‚¤ (Eievui),1,Normal,Evolution PokÃ©mon,1,Normal,,0.3,6.5
+171,134,Vaporeon,Aquana,ã‚·ãƒ£ãƒ¯ãƒ¼ã‚º (Showers),1,Normal,Bubble Jet PokÃ©mon,1,Water,,1,29
+172,135,Jolteon,Blitza,ã‚µãƒ³ãƒ€ãƒ¼ã‚¹ (Thunders),1,Normal,Lightning PokÃ©mon,1,Electric,,0.8,24.5
+173,136,Flareon,Flamara,ãƒ–ãƒ¼ã‚¹ã‚¿ãƒ¼ (Booster),1,Normal,Flame PokÃ©mon,1,Fire,,0.9,25
+174,137,Porygon,Porygon,ãƒãƒªã‚´ãƒ³ (Porygon),1,Normal,Virtual PokÃ©mon,1,Normal,,0.8,36.5
+175,138,Omanyte,Amonitas,ã‚ªãƒ ãƒŠã‚¤ãƒˆ (Omnite),1,Normal,Spiral PokÃ©mon,2,Rock,Water,0.4,7.5
+176,139,Omastar,Amoroso,ã‚ªãƒ ã‚¹ã‚¿ãƒ¼ (Omstar),1,Normal,Spiral PokÃ©mon,2,Rock,Water,1,35
+177,140,Kabuto,Kabuto,ã‚«ãƒ–ãƒˆ (Kabuto),1,Normal,Shellfish PokÃ©mon,2,Rock,Water,0.5,11.5
+178,141,Kabutops,Kabutops,ã‚«ãƒ–ãƒˆãƒ—ã‚¹ (Kabutops),1,Normal,Shellfish PokÃ©mon,2,Rock,Water,1.3,40.5
+179,142,Aerodactyl,Aerodactyl,ãƒ—ãƒ†ãƒ© (Ptera),1,Normal,Fossil PokÃ©mon,2,Rock,Flying,1.8,59
+180,142,Mega Aerodactyl,Aerodactyl,ãƒ—ãƒ†ãƒ© (Ptera),1,Normal,Fossil PokÃ©mon,2,Rock,Flying,2.1,79
+181,143,Snorlax,Relaxo,ã‚«ãƒ“ã‚´ãƒ³ (Kabigon),1,Normal,Sleeping PokÃ©mon,1,Normal,,2.1,460
+182,144,Articuno,Arktos,ãƒ•ãƒªãƒ¼ã‚¶ãƒ¼ (Freezer),1,Sub Legendary,Freeze PokÃ©mon,2,Ice,Flying,1.7,55.4
+183,145,Zapdos,Zapdos,ã‚µãƒ³ãƒ€ãƒ¼ (Thunder),1,Sub Legendary,Electric PokÃ©mon,2,Electric,Flying,1.6,52.6
+184,146,Moltres,Lavados,ãƒ•ã‚¡ã‚¤ãƒ¤ãƒ¼ (Fire),1,Sub Legendary,Flame PokÃ©mon,2,Fire,Flying,2,60
+185,147,Dratini,Dratini,ãƒŸãƒ‹ãƒªãƒ¥ã‚¦ (Miniryu),1,Normal,Dragon PokÃ©mon,1,Dragon,,1.8,3.3
+186,148,Dragonair,Dragonir,ãƒã‚¯ãƒªãƒ¥ãƒ¼ (Hakuryu),1,Normal,Dragon PokÃ©mon,1,Dragon,,4,16.5
+187,149,Dragonite,Dragoran,ã‚«ã‚¤ãƒªãƒ¥ãƒ¼ (Kairyu),1,Normal,Dragon PokÃ©mon,2,Dragon,Flying,2.2,210
+188,150,Mewtwo,Mewtu,ãƒŸãƒ¥ã‚¦ãƒ„ãƒ¼ (Mewtwo),1,Legendary,Genetic PokÃ©mon,1,Psychic,,2,122
+189,150,Mega Mewtwo X,Mewtu,ãƒŸãƒ¥ã‚¦ãƒ„ãƒ¼ (Mewtwo),1,Legendary,Genetic PokÃ©mon,2,Psychic,Fighting,2.3,127
+190,150,Mega Mewtwo Y,Mewtu,ãƒŸãƒ¥ã‚¦ãƒ„ãƒ¼ (Mewtwo),1,Legendary,Genetic PokÃ©mon,1,Psychic,,1.5,33
+191,151,Mew,Mew,ãƒŸãƒ¥ã‚¦ (Mew),1,Mythical,New Species PokÃ©mon,1,Psychic,,0.4,4
+192,152,Chikorita,Endivie,ãƒã‚³ãƒªãƒ¼ã‚¿ (Chicorita),2,Normal,Leaf PokÃ©mon,1,Grass,,0.9,6.4
+193,153,Bayleef,Lorblatt,ãƒ™ã‚¤ãƒªãƒ¼ãƒ• (Bayleaf),2,Normal,Leaf PokÃ©mon,1,Grass,,1.2,15.8
+194,154,Meganium,Meganie,ãƒ¡ã‚¬ãƒ‹ã‚¦ãƒ  (Meganium),2,Normal,Herb PokÃ©mon,1,Grass,,1.8,100.5
+195,155,Cyndaquil,Feurigel,ãƒ’ãƒŽã‚¢ãƒ©ã‚· (Hinoarashi),2,Normal,Fire Mouse PokÃ©mon,1,Fire,,0.5,7.9
+196,156,Quilava,Igelavar,ãƒžã‚°ãƒžãƒ©ã‚· (Magmarashi),2,Normal,Volcano PokÃ©mon,1,Fire,,0.9,19
+197,157,Typhlosion,Tornupto,ãƒã‚¯ãƒ•ãƒ¼ãƒ³ (Bakphoon),2,Normal,Volcano PokÃ©mon,1,Fire,,1.7,79.5
+198,158,Totodile,Karnimani,ãƒ¯ãƒ‹ãƒŽã‚³ (Waninoko),2,Normal,Big Jaw PokÃ©mon,1,Water,,0.6,9.5
+199,159,Croconaw,Tyracroc,ã‚¢ãƒªã‚²ã‚¤ãƒ„ (Alligates),2,Normal,Big Jaw PokÃ©mon,1,Water,,1.1,25
+200,160,Feraligatr,Impergator,ã‚ªãƒ¼ãƒ€ã‚¤ãƒ« (Ordile),2,Normal,Big Jaw PokÃ©mon,1,Water,,2.3,88.8
+201,161,Sentret,Wiesor,ã‚ªã‚¿ãƒ (Otachi),2,Normal,Scout PokÃ©mon,1,Normal,,0.8,6
+202,162,Furret,Wiesenior,ã‚ªã‚ªã‚¿ãƒ (Ootachi),2,Normal,Long Body PokÃ©mon,1,Normal,,1.8,32.5
+203,163,Hoothoot,Hoothoot,ãƒ›ãƒ¼ãƒ›ãƒ¼ (Hoho),2,Normal,Owl PokÃ©mon,2,Normal,Flying,0.7,21.2
+204,164,Noctowl,Noctuh,ãƒ¨ãƒ«ãƒŽã‚ºã‚¯ (Yorunozuku),2,Normal,Owl PokÃ©mon,2,Normal,Flying,1.6,40.8
+205,165,Ledyba,Ledyba,ãƒ¬ãƒ‡ã‚£ãƒ (Rediba),2,Normal,Five Star PokÃ©mon,2,Bug,Flying,1,10.8
+206,166,Ledian,Ledian,ãƒ¬ãƒ‡ã‚£ã‚¢ãƒ³ (Redian),2,Normal,Five Star PokÃ©mon,2,Bug,Flying,1.4,35.6
+207,167,Spinarak,Webarak,ã‚¤ãƒˆãƒžãƒ« (Itomaru),2,Normal,String Spit PokÃ©mon,2,Bug,Poison,0.5,8.5
+208,168,Ariados,Ariados,ã‚¢ãƒªã‚¢ãƒ‰ã‚¹ (Ariados),2,Normal,Long Leg PokÃ©mon,2,Bug,Poison,1.1,33.5
+209,169,Crobat,Iksbat,ã‚¯ãƒ­ãƒãƒƒãƒˆ (Crobat),2,Normal,Bat PokÃ©mon,2,Poison,Flying,1.8,75
+210,170,Chinchou,Lampi,ãƒãƒ§ãƒ³ãƒãƒ¼ (Chonchie),2,Normal,Angler PokÃ©mon,2,Water,Electric,0.5,12
+211,171,Lanturn,Lanturn,ãƒ©ãƒ³ã‚¿ãƒ¼ãƒ³ (Lantern),2,Normal,Light PokÃ©mon,2,Water,Electric,1.2,22.5
+212,172,Pichu,Pichu,ãƒ”ãƒãƒ¥ãƒ¼ (Pichu),2,Normal,Tiny Mouse PokÃ©mon,1,Electric,,0.3,2
+213,173,Cleffa,Pii,ãƒ”ã‚£ (Py),2,Normal,Star Shape PokÃ©mon,1,Fairy,,0.3,3
+214,174,Igglybuff,Fluffeluff,ãƒ—ãƒ—ãƒªãƒ³ (Pupurin),2,Normal,Balloon PokÃ©mon,2,Normal,Fairy,0.3,1
+215,175,Togepi,Togepi,ãƒˆã‚²ãƒ”ãƒ¼ (Togepy),2,Normal,Spike Ball PokÃ©mon,1,Fairy,,0.3,1.5
+216,176,Togetic,Togetic,ãƒˆã‚²ãƒãƒƒã‚¯ (Togechick),2,Normal,Happiness PokÃ©mon,2,Fairy,Flying,0.6,3.2
+217,177,Natu,Natu,ãƒã‚¤ãƒ†ã‚£ (Naty),2,Normal,Tiny Bird PokÃ©mon,2,Psychic,Flying,0.2,2
+218,178,Xatu,Xatu,ãƒã‚¤ãƒ†ã‚£ã‚ª (Natio),2,Normal,Mystic PokÃ©mon,2,Psychic,Flying,1.5,15
+219,179,Mareep,Voltilamm,ãƒ¡ãƒªãƒ¼ãƒ— (Merriep),2,Normal,Wool PokÃ©mon,1,Electric,,0.6,7.8
+220,180,Flaaffy,Waaty,ãƒ¢ã‚³ã‚³ (Mokoko),2,Normal,Wool PokÃ©mon,1,Electric,,0.8,13.3
+221,181,Ampharos,Ampharos,ãƒ‡ãƒ³ãƒªãƒ¥ã‚¦ (Denryu),2,Normal,Light PokÃ©mon,1,Electric,,1.4,61.5
+222,181,Mega Ampharos,Ampharos,ãƒ‡ãƒ³ãƒªãƒ¥ã‚¦ (Denryu),2,Normal,Light PokÃ©mon,2,Electric,Dragon,1.4,61.5
+223,182,Bellossom,Blubella,ã‚­ãƒ¬ã‚¤ãƒãƒŠ (Kireihana),2,Normal,Flower PokÃ©mon,1,Grass,,0.4,5.8
+224,183,Marill,Marill,ãƒžãƒªãƒ« (Maril),2,Normal,Aqua Mouse PokÃ©mon,2,Water,Fairy,0.4,8.5
+225,184,Azumarill,Azumarill,ãƒžãƒªãƒ«ãƒª (Marilli),2,Normal,Aqua Rabbit PokÃ©mon,2,Water,Fairy,0.8,28.5
+226,185,Sudowoodo,Mogelbaum,ã‚¦ã‚½ãƒƒã‚­ãƒ¼ (Usokkie),2,Normal,Imitation PokÃ©mon,1,Rock,,1.2,38
+227,186,Politoed,Quaxo,ãƒ‹ãƒ§ãƒ­ãƒˆãƒŽ (Nyorotono),2,Normal,Frog PokÃ©mon,1,Water,,1.1,33.9
+228,187,Hoppip,Hoppspross,ãƒãƒãƒƒã‚³ (Hanecco),2,Normal,Cottonweed PokÃ©mon,2,Grass,Flying,0.4,0.5
+229,188,Skiploom,Hubelupf,ãƒãƒãƒƒã‚³ (Popocco),2,Normal,Cottonweed PokÃ©mon,2,Grass,Flying,0.6,1
+230,189,Jumpluff,Papungha,ãƒ¯ã‚¿ãƒƒã‚³ (Watacco),2,Normal,Cottonweed PokÃ©mon,2,Grass,Flying,0.8,3
+231,190,Aipom,Griffel,ã‚¨ã‚¤ãƒ‘ãƒ  (Eipam),2,Normal,Long Tail PokÃ©mon,1,Normal,,0.8,11.5
+232,191,Sunkern,Sonnkern,ãƒ’ãƒžãƒŠãƒƒãƒ„ (Himanuts),2,Normal,Seed PokÃ©mon,1,Grass,,0.3,1.8
+233,192,Sunflora,Sonnflora,ã‚­ãƒžãƒ¯ãƒª (Kimawari),2,Normal,Sun PokÃ©mon,1,Grass,,0.8,8.5
+234,193,Yanma,Yanma,ãƒ¤ãƒ³ãƒ¤ãƒ³ãƒž (Yanyanma),2,Normal,Clear Wing PokÃ©mon,2,Bug,Flying,1.2,38
+235,194,Wooper,Felino,ã‚¦ãƒ‘ãƒ¼ (Upah),2,Normal,Water Fish PokÃ©mon,2,Water,Ground,0.4,8.5
+236,195,Quagsire,Morlord,ãƒŒã‚ªãƒ¼ (Nuoh),2,Normal,Water Fish PokÃ©mon,2,Water,Ground,1.4,75
+237,196,Espeon,Psiana,ã‚¨ãƒ¼ãƒ•ã‚£ (Eifie),2,Normal,Sun PokÃ©mon,1,Psychic,,0.9,26.5
+238,197,Umbreon,Nachtara,ãƒ–ãƒ©ãƒƒã‚­ãƒ¼ (Blacky),2,Normal,Moonlight PokÃ©mon,1,Dark,,1,27
+239,198,Murkrow,Kramurx,ãƒ¤ãƒŸã‚«ãƒ©ã‚¹ (Yamikarasu),2,Normal,Darkness PokÃ©mon,2,Dark,Flying,0.5,2.1
+240,199,Slowking,Laschoking,ãƒ¤ãƒ‰ã‚­ãƒ³ã‚° (Yadoking),2,Normal,Royal PokÃ©mon,2,Water,Psychic,2,79.5
+241,200,Misdreavus,Traunfugil,ãƒ ã‚¦ãƒž (Muma),2,Normal,Screech PokÃ©mon,1,Ghost,,0.7,1
+242,201,Unown,Icognito,ã‚¢ãƒ³ãƒŽãƒ¼ãƒ³ (Unknown),2,Normal,Symbol PokÃ©mon,1,Psychic,,0.5,5
+243,202,Wobbuffet,Woingenau,ã‚½ãƒ¼ãƒŠãƒ³ã‚¹ (Sonans),2,Normal,Patient PokÃ©mon,1,Psychic,,1.3,28.5
+244,203,Girafarig,Girafarig,ã‚­ãƒªãƒ³ãƒªã‚­ (Kirinriki),2,Normal,Long Neck PokÃ©mon,2,Normal,Psychic,1.5,41.5
+245,204,Pineco,Tannza,ã‚¯ãƒŒã‚®ãƒ€ãƒž (Kunugidama),2,Normal,Bagworm PokÃ©mon,1,Bug,,0.6,7.2
+246,205,Forretress,Forstellka,ãƒ•ã‚©ãƒ¬ãƒˆã‚¹ (Foretos),2,Normal,Bagworm PokÃ©mon,2,Bug,Steel,1.2,125.8
+247,206,Dunsparce,Dummisel,ãƒŽã‚³ãƒƒãƒ (Nokocchi),2,Normal,Land Snake PokÃ©mon,1,Normal,,1.5,14
+248,207,Gligar,Skorgla,ã‚°ãƒ©ã‚¤ã‚¬ãƒ¼ (Gliger),2,Normal,FlyScorpion PokÃ©mon,2,Ground,Flying,1.1,64.8
+249,208,Steelix,Stahlos,ãƒã‚¬ãƒãƒ¼ãƒ« (Haganeil),2,Normal,Iron Snake PokÃ©mon,2,Steel,Ground,9.2,400
+250,208,Mega Steelix,Stahlos,ãƒã‚¬ãƒãƒ¼ãƒ« (Haganeil),2,Normal,Iron Snake PokÃ©mon,2,Steel,Ground,10.5,740
+251,209,Snubbull,Snubbull,ãƒ–ãƒ«ãƒ¼ (Bulu),2,Normal,Fairy PokÃ©mon,1,Fairy,,0.6,7.8
+252,210,Granbull,Granbull,ã‚°ãƒ©ãƒ³ãƒ–ãƒ« (Granbulu),2,Normal,Fairy PokÃ©mon,1,Fairy,,1.4,48.7
+253,211,Qwilfish,Baldorfish,ãƒãƒªãƒ¼ã‚»ãƒ³ (Harysen),2,Normal,Balloon PokÃ©mon,2,Water,Poison,0.5,3.9
+254,212,Scizor,Scherox,ãƒãƒƒã‚µãƒ  (Hassam),2,Normal,Pincer PokÃ©mon,2,Bug,Steel,1.8,118
+255,212,Mega Scizor,Scherox,ãƒãƒƒã‚µãƒ  (Hassam),2,Normal,Pincer PokÃ©mon,2,Bug,Steel,2,125
+256,213,Shuckle,Pottrott,ãƒ„ãƒœãƒ„ãƒœ (Tsubotsubo),2,Normal,Mold PokÃ©mon,2,Bug,Rock,0.6,20.5
+257,214,Heracross,Skaraborn,ãƒ˜ãƒ©ã‚¯ãƒ­ã‚¹ (Heracros),2,Normal,Single Horn PokÃ©mon,2,Bug,Fighting,1.5,54
+258,214,Mega Heracross,Skaraborn,ãƒ˜ãƒ©ã‚¯ãƒ­ã‚¹ (Heracros),2,Normal,Single Horn PokÃ©mon,2,Bug,Fighting,1.7,62.5
+259,215,Sneasel,Sniebel,ãƒ‹ãƒ¥ãƒ¼ãƒ© (Nyula),2,Normal,Sharp Claw PokÃ©mon,2,Dark,Ice,0.9,28
+260,216,Teddiursa,Teddiursa,ãƒ’ãƒ¡ã‚°ãƒž (Himeguma),2,Normal,Little Bear PokÃ©mon,1,Normal,,0.6,8.8
+261,217,Ursaring,Ursaring,ãƒªãƒ³ã‚°ãƒž (Ringuma),2,Normal,Hibernator PokÃ©mon,1,Normal,,1.8,125.8
+262,218,Slugma,Schneckmag,ãƒžã‚°ãƒžãƒƒã‚° (Magmag),2,Normal,Lava PokÃ©mon,1,Fire,,0.7,35
+263,219,Magcargo,Magcargo,ãƒžã‚°ã‚«ãƒ«ã‚´ (Magcargot),2,Normal,Lava PokÃ©mon,2,Fire,Rock,0.8,55
+264,220,Swinub,Quiekel,ã‚¦ãƒªãƒ ãƒ¼ (Urimoo),2,Normal,Pig PokÃ©mon,2,Ice,Ground,0.4,6.5
+265,221,Piloswine,Keifel,ã‚¤ãƒŽãƒ ãƒ¼ (Inomoo),2,Normal,Swine PokÃ©mon,2,Ice,Ground,1.1,55.8
+266,222,Corsola,Corasonn,ã‚µãƒ‹ãƒ¼ã‚´ (Sunnygo),2,Normal,Coral PokÃ©mon,2,Water,Rock,0.6,5
+267,222,Galarian Corsola,Corasonn,ã‚µãƒ‹ãƒ¼ã‚´ (Sunnygo),2,Normal,Coral PokÃ©mon,1,Ghost,,0.6,0.5
+268,223,Remoraid,Remoraid,ãƒ†ãƒƒãƒã‚¦ã‚ª (Teppouo),2,Normal,Jet PokÃ©mon,1,Water,,0.6,12
+269,224,Octillery,Octillery,ã‚ªã‚¯ã‚¿ãƒ³ (Okutank),2,Normal,Jet PokÃ©mon,1,Water,,0.9,28.5
+270,225,Delibird,Botogel,ãƒ‡ãƒªãƒãƒ¼ãƒ‰ (Delibird),2,Normal,Delivery PokÃ©mon,2,Ice,Flying,0.9,16
+271,226,Mantine,Mantax,ãƒžãƒ³ã‚¿ã‚¤ãƒ³ (Mantain),2,Normal,Kite PokÃ©mon,2,Water,Flying,2.1,220
+272,227,Skarmory,Panzaeron,ã‚¨ã‚¢ãƒ¼ãƒ ãƒ‰ (Airmd),2,Normal,Armor Bird PokÃ©mon,2,Steel,Flying,1.7,50.5
+273,228,Houndour,Hunduster,ãƒ‡ãƒ«ãƒ“ãƒ« (Delvil),2,Normal,Dark PokÃ©mon,2,Dark,Fire,0.6,10.8
+274,229,Houndoom,Hundemon,ãƒ˜ãƒ«ã‚¬ãƒ¼ (Hellgar),2,Normal,Dark PokÃ©mon,2,Dark,Fire,1.4,35
+275,229,Mega Houndoom,Hundemon,ãƒ˜ãƒ«ã‚¬ãƒ¼ (Hellgar),2,Normal,Dark PokÃ©mon,2,Dark,Fire,1.9,49.5
+276,230,Kingdra,Seedraking,ã‚­ãƒ³ã‚°ãƒ‰ãƒ© (Kingdra),2,Normal,Dragon PokÃ©mon,2,Water,Dragon,1.8,152
+277,231,Phanpy,Phanpy,ã‚´ãƒžã‚¾ã‚¦ (Gomazou),2,Normal,Long Nose PokÃ©mon,1,Ground,,0.5,33.5
+278,232,Donphan,Donphan,ãƒ‰ãƒ³ãƒ•ã‚¡ãƒ³ (Donfan),2,Normal,Armor PokÃ©mon,1,Ground,,1.1,120
+279,233,Porygon2,Porygon2,ãƒãƒªã‚´ãƒ³ï¼’ (Porygon2),2,Normal,Virtual PokÃ©mon,1,Normal,,0.6,32.5
+280,234,Stantler,Damhirplex,ã‚ªãƒ‰ã‚·ã‚· (Odoshishi),2,Normal,Big Horn PokÃ©mon,1,Normal,,1.4,71.2
+281,235,Smeargle,Farbeagle,ãƒ‰ãƒ¼ãƒ–ãƒ« (Doble),2,Normal,Painter PokÃ©mon,1,Normal,,1.2,58
+282,236,Tyrogue,Rabauz,ãƒãƒ«ã‚­ãƒ¼ (Balkie),2,Normal,Scuffle PokÃ©mon,1,Fighting,,0.7,21
+283,237,Hitmontop,Kapoera,ã‚«ãƒã‚¨ãƒ©ãƒ¼ (Kapoerer),2,Normal,Handstand PokÃ©mon,1,Fighting,,1.4,48
+284,238,Smoochum,Kussilla,ãƒ ãƒãƒ¥ãƒ¼ãƒ« (Muchul),2,Normal,Kiss PokÃ©mon,2,Ice,Psychic,0.4,6
+285,239,Elekid,Elekid,ã‚¨ãƒ¬ã‚­ãƒƒãƒ‰ (Elekid),2,Normal,Electric PokÃ©mon,1,Electric,,0.6,23.5
+286,240,Magby,Magby,ãƒ–ãƒ“ã‚£ (Buby),2,Normal,Live Coal PokÃ©mon,1,Fire,,0.7,21.4
+287,241,Miltank,Miltank,ãƒŸãƒ«ã‚¿ãƒ³ã‚¯ (Miltank),2,Normal,Milk Cow PokÃ©mon,1,Normal,,1.2,75.5
+288,242,Blissey,Heiteira,ãƒãƒ”ãƒŠã‚¹ (Happinas),2,Normal,Happiness PokÃ©mon,1,Normal,,1.5,46.8
+289,243,Raikou,Raikou,ãƒ©ã‚¤ã‚³ã‚¦ (Raikou),2,Sub Legendary,Thunder PokÃ©mon,1,Electric,,1.9,178
+290,244,Entei,Entei,ã‚¨ãƒ³ãƒ†ã‚¤ (Entei),2,Sub Legendary,Volcano PokÃ©mon,1,Fire,,2.1,198
+291,245,Suicune,Suicune,ã‚¹ã‚¤ã‚¯ãƒ³ (Suicune),2,Sub Legendary,Aurora PokÃ©mon,1,Water,,2,187
+292,246,Larvitar,Larvitar,ãƒ¨ãƒ¼ã‚®ãƒ©ã‚¹ (Yogiras),2,Normal,Rock Skin PokÃ©mon,2,Rock,Ground,0.6,72
+293,247,Pupitar,Pupitar,ã‚µãƒŠã‚®ãƒ©ã‚¹ (Sanagiras),2,Normal,Hard Shell PokÃ©mon,2,Rock,Ground,1.2,152
+294,248,Tyranitar,Despotar,ãƒãƒ³ã‚®ãƒ©ã‚¹ (Bangiras),2,Normal,Armor PokÃ©mon,2,Rock,Dark,2,202
+295,248,Mega Tyranitar,Despotar,ãƒãƒ³ã‚®ãƒ©ã‚¹ (Bangiras),2,Normal,Armor PokÃ©mon,2,Rock,Dark,2.5,255
+296,249,Lugia,Lugia,ãƒ«ã‚®ã‚¢ (Lugia),2,Legendary,Diving PokÃ©mon,2,Psychic,Flying,5.2,216
+297,250,Ho-oh,Ho-Oh,ãƒ›ã‚¦ã‚ªã‚¦ (Houou),2,Legendary,Rainbow PokÃ©mon,2,Fire,Flying,3.8,199
+298,251,Celebi,Celebi,ã‚»ãƒ¬ãƒ“ã‚£ (Celebi),2,Mythical,Time Travel PokÃ©mon,2,Psychic,Grass,0.6,5
+299,252,Treecko,Geckarbor,ã‚­ãƒ¢ãƒª (Kimori),3,Normal,Wood Gecko PokÃ©mon,1,Grass,,0.5,5
+300,253,Grovyle,Reptain,ã‚¸ãƒ¥ãƒ—ãƒˆãƒ« (Juptile),3,Normal,Wood Gecko PokÃ©mon,1,Grass,,0.9,21.6
+301,254,Sceptile,Gewaldro,ã‚¸ãƒ¥ã‚«ã‚¤ãƒ³ (Jukain),3,Normal,Forest PokÃ©mon,1,Grass,,1.7,52.2
+302,254,Mega Sceptile,Gewaldro,ã‚¸ãƒ¥ã‚«ã‚¤ãƒ³ (Jukain),3,Normal,Forest PokÃ©mon,2,Grass,Dragon,1.9,55.2
+303,255,Torchic,Flemmli,ã‚¢ãƒãƒ£ãƒ¢ (Achamo),3,Normal,Chick PokÃ©mon,1,Fire,,0.4,2.5
+304,256,Combusken,Jungglut,ãƒ¯ã‚«ã‚·ãƒ£ãƒ¢ (Wakasyamo),3,Normal,Young Fowl PokÃ©mon,2,Fire,Fighting,0.9,19.5
+305,257,Blaziken,Lohgock,ãƒã‚·ãƒ£ãƒ¼ãƒ¢ (Bursyamo),3,Normal,Blaze PokÃ©mon,2,Fire,Fighting,1.9,52
+306,257,Mega Blaziken,Lohgock,ãƒã‚·ãƒ£ãƒ¼ãƒ¢ (Bursyamo),3,Normal,Blaze PokÃ©mon,2,Fire,Fighting,1.9,52
+307,258,Mudkip,Hydropi,ãƒŸã‚ºã‚´ãƒ­ã‚¦ (Mizugorou),3,Normal,Mud Fish PokÃ©mon,1,Water,,0.4,7.6
+308,259,Marshtomp,Moorabbel,ãƒŒãƒžã‚¯ãƒ­ãƒ¼ (Numacraw),3,Normal,Mud Fish PokÃ©mon,2,Water,Ground,0.7,28
+309,260,Swampert,Sumpex,ãƒ©ã‚°ãƒ©ãƒ¼ã‚¸ (Laglarge),3,Normal,Mud Fish PokÃ©mon,2,Water,Ground,1.5,81.9
+310,260,Mega Swampert,Sumpex,ãƒ©ã‚°ãƒ©ãƒ¼ã‚¸ (Laglarge),3,Normal,Mud Fish PokÃ©mon,2,Water,Ground,1.9,102
+311,261,Poochyena,Fiffyen,ãƒãƒã‚¨ãƒŠ (Pochiena),3,Normal,Bite PokÃ©mon,1,Dark,,0.5,13.6
+312,262,Mightyena,Magnayen,ã‚°ãƒ©ã‚¨ãƒŠ (Graena),3,Normal,Bite PokÃ©mon,1,Dark,,1,37
+313,263,Zigzagoon,Zigzachs,ã‚¸ã‚°ã‚¶ã‚°ãƒž (Jiguzaguma),3,Normal,TinyRaccoon PokÃ©mon,1,Normal,,0.4,17.5
+314,263,Galarian Zigzagoon,Zigzachs,ã‚¸ã‚°ã‚¶ã‚°ãƒž (Jiguzaguma),3,Normal,Tiny Raccoon PokÃ©mon,2,Dark,Normal,0.4,17.5
+315,264,Linoone,Geradaks,ãƒžãƒƒã‚¹ã‚°ãƒž (Massuguma),3,Normal,Rushing PokÃ©mon,1,Normal,,0.5,32.5
+316,264,Galarian Linoone,Geradaks,ãƒžãƒƒã‚¹ã‚°ãƒž (Massuguma),3,Normal,Rushing PokÃ©mon,2,Dark,Normal,0.5,32.5
+317,265,Wurmple,Waumpel,ã‚±ãƒ ãƒƒã‚½ (Kemusso),3,Normal,Worm PokÃ©mon,1,Bug,,0.3,3.6
+318,266,Silcoon,Schaloko,ã‚«ãƒ©ã‚µãƒªã‚¹ (Karasalis),3,Normal,Cocoon PokÃ©mon,1,Bug,,0.6,10
+319,267,Beautifly,Papinella,ã‚¢ã‚²ãƒãƒ³ãƒˆ (Agehunt),3,Normal,Butterfly PokÃ©mon,2,Bug,Flying,1,28.4
+320,268,Cascoon,Panekon,ãƒžãƒ¦ãƒ«ãƒ‰ (Mayuld),3,Normal,Cocoon PokÃ©mon,1,Bug,,0.7,11.5
+321,269,Dustox,Pudox,ãƒ‰ã‚¯ã‚±ã‚¤ãƒ« (Dokucale),3,Normal,Poison Moth PokÃ©mon,2,Bug,Poison,1.2,31.6
+322,270,Lotad,Loturzel,ãƒã‚¹ãƒœãƒ¼ (Hassboh),3,Normal,Water Weed PokÃ©mon,2,Water,Grass,0.5,2.6
+323,271,Lombre,Lombrero,ãƒã‚¹ãƒ–ãƒ¬ãƒ­ (Hasubrero),3,Normal,Jolly PokÃ©mon,2,Water,Grass,1.2,32.5
+324,272,Ludicolo,Kappalores,ãƒ«ãƒ³ãƒ‘ãƒƒãƒ‘ (Runpappa),3,Normal,Carefree PokÃ©mon,2,Water,Grass,1.5,55
+325,273,Seedot,Samurzel,ã‚¿ãƒãƒœãƒ¼ (Taneboh),3,Normal,Acorn PokÃ©mon,1,Grass,,0.5,4
+326,274,Nuzleaf,Blanas,ã‚³ãƒŽãƒãƒŠ (Konohana),3,Normal,Wily PokÃ©mon,2,Grass,Dark,1,28
+327,275,Shiftry,Tengulist,ãƒ€ãƒ¼ãƒ†ãƒ³ã‚° (Dirteng),3,Normal,Wicked PokÃ©mon,2,Grass,Dark,1.3,59.6
+328,276,Taillow,Schwalbini,ã‚¹ãƒãƒ¡ (Subame),3,Normal,TinySwallow PokÃ©mon,2,Normal,Flying,0.3,2.3
+329,277,Swellow,Schwalboss,ã‚ªã‚ªã‚¹ãƒãƒ¡ (Ohsubame),3,Normal,Swallow PokÃ©mon,2,Normal,Flying,0.7,19.8
+330,278,Wingull,Wingull,ã‚­ãƒ£ãƒ¢ãƒ¡ (Camome),3,Normal,Seagull PokÃ©mon,2,Water,Flying,0.6,9.5
+331,279,Pelipper,Pelipper,ãƒšãƒªãƒƒãƒ‘ãƒ¼ (Pelipper),3,Normal,Water Bird PokÃ©mon,2,Water,Flying,1.2,28
+332,280,Ralts,Trasla,ãƒ©ãƒ«ãƒˆã‚¹ (Ralts),3,Normal,Feeling PokÃ©mon,2,Psychic,Fairy,0.4,6.6
+333,281,Kirlia,Kirlia,ã‚­ãƒ«ãƒªã‚¢ (Kirlia),3,Normal,Emotion PokÃ©mon,2,Psychic,Fairy,0.8,20.2
+334,282,Gardevoir,Guardevoir,ã‚µãƒ¼ãƒŠã‚¤ãƒˆ (Sirnight),3,Normal,Embrace PokÃ©mon,2,Psychic,Fairy,1.6,48.4
+335,282,Mega Gardevoir,Guardevoir,ã‚µãƒ¼ãƒŠã‚¤ãƒˆ (Sirnight),3,Normal,Embrace PokÃ©mon,2,Psychic,Fairy,1.6,48.4
+336,283,Surskit,Gehweiher,ã‚¢ãƒ¡ã‚¿ãƒž (Ametama),3,Normal,Pond Skater PokÃ©mon,2,Bug,Water,0.5,1.7
+337,284,Masquerain,Maskeregen,ã‚¢ãƒ¡ãƒ¢ãƒ¼ã‚¹ (Amemoth),3,Normal,Eyeball PokÃ©mon,2,Bug,Flying,0.8,3.6
+338,285,Shroomish,Knilz,ã‚­ãƒŽã‚³ã‚³ (Kinococo),3,Normal,Mushroom PokÃ©mon,1,Grass,,0.4,4.5
+339,286,Breloom,Kapilz,ã‚­ãƒŽã‚¬ãƒƒã‚µ (Kinogassa),3,Normal,Mushroom PokÃ©mon,2,Grass,Fighting,1.2,39.2
+340,287,Slakoth,Bummelz,ãƒŠãƒžã‚±ãƒ­ (Namakero),3,Normal,Slacker PokÃ©mon,1,Normal,,0.8,24
+341,288,Vigoroth,Muntier,ãƒ¤ãƒ«ã‚­ãƒ¢ãƒŽ (Yarukimono),3,Normal,Wild Monkey PokÃ©mon,1,Normal,,1.4,46.5
+342,289,Slaking,Letarking,ã‚±ãƒƒã‚­ãƒ³ã‚° (Kekking),3,Normal,Lazy PokÃ©mon,1,Normal,,2,130.5
+343,290,Nincada,Nincada,ãƒ„ãƒãƒ‹ãƒ³ (Tutinin),3,Normal,Trainee PokÃ©mon,2,Bug,Ground,0.5,5.5
+344,291,Ninjask,Ninjask,ãƒ†ãƒƒã‚«ãƒ‹ãƒ³ (Tekkanin),3,Normal,Ninja PokÃ©mon,2,Bug,Flying,0.8,12
+345,292,Shedinja,Ninjatom,ãƒŒã‚±ãƒ‹ãƒ³ (Nukenin),3,Normal,Shed PokÃ©mon,2,Bug,Ghost,0.8,1.2
+346,293,Whismur,Flurmel,ã‚´ãƒ‹ãƒ§ãƒ‹ãƒ§ (Gonyonyo),3,Normal,Whisper PokÃ©mon,1,Normal,,0.6,16.3
+347,294,Loudred,Krakeelo,ãƒ‰ã‚´ãƒ¼ãƒ  (Dogohmb),3,Normal,Big Voice PokÃ©mon,1,Normal,,1,40.5
+348,295,Exploud,Krawumms,ãƒã‚¯ã‚ªãƒ³ã‚° (Bakuong),3,Normal,Loud Noise PokÃ©mon,1,Normal,,1.5,84
+349,296,Makuhita,Makuhita,ãƒžã‚¯ãƒŽã‚·ã‚¿ (Makunoshita),3,Normal,Guts PokÃ©mon,1,Fighting,,1,86.4
+350,297,Hariyama,Hariyama,ãƒãƒªãƒ†ãƒ¤ãƒž (Hariteyama),3,Normal,Arm Thrust PokÃ©mon,1,Fighting,,2.3,253.8
+351,298,Azurill,Azurill,ãƒ«ãƒªãƒª (Ruriri),3,Normal,Polka Dot PokÃ©mon,2,Normal,Fairy,0.2,2
+352,299,Nosepass,Nasgnet,ãƒŽã‚ºãƒ‘ã‚¹ (Nosepass),3,Normal,Compass PokÃ©mon,1,Rock,,1,97
+353,300,Skitty,Eneco,ã‚¨ãƒã‚³ (Eneco),3,Normal,Kitten PokÃ©mon,1,Normal,,0.6,11
+354,301,Delcatty,Enekoro,ã‚¨ãƒã‚³ãƒ­ãƒ­ (Enekororo),3,Normal,Prim PokÃ©mon,1,Normal,,1.1,32.6
+355,302,Sableye,Zobiris,ãƒ¤ãƒŸãƒ©ãƒŸ (Yamirami),3,Normal,Darkness PokÃ©mon,2,Dark,Ghost,0.5,11
+356,302,Mega Sableye,Zobiris,ãƒ¤ãƒŸãƒ©ãƒŸ (Yamirami),3,Normal,Darkness PokÃ©mon,2,Dark,Ghost,0.5,161
+357,303,Mawile,Flunkifer,ã‚¯ãƒãƒ¼ãƒˆ (Kucheat),3,Normal,Deceiver PokÃ©mon,2,Steel,Fairy,0.6,11.5
+358,303,Mega Mawile,Flunkifer,ã‚¯ãƒãƒ¼ãƒˆ (Kucheat),3,Normal,Deceiver PokÃ©mon,2,Steel,Fairy,1,23.5
+359,304,Aron,Stollunior,ã‚³ã‚³ãƒ‰ãƒ© (Cokodora),3,Normal,Iron Armor PokÃ©mon,2,Steel,Rock,0.4,60
+360,305,Lairon,Stollrak,ã‚³ãƒ‰ãƒ© (Kodora),3,Normal,Iron Armor PokÃ©mon,2,Steel,Rock,0.9,120
+361,306,Aggron,Stolloss,ãƒœã‚¹ã‚´ãƒ‰ãƒ© (Bossgodora),3,Normal,Iron Armor PokÃ©mon,2,Steel,Rock,2.1,360
+362,306,Mega Aggron,Stolloss,ãƒœã‚¹ã‚´ãƒ‰ãƒ© (Bossgodora),3,Normal,Iron Armor PokÃ©mon,1,Steel,,2.2,395
+363,307,Meditite,Meditie,ã‚¢ã‚µãƒŠãƒ³ (Asanan),3,Normal,Meditate PokÃ©mon,2,Fighting,Psychic,0.6,11.2
+364,308,Medicham,Meditalis,ãƒãƒ£ãƒ¼ãƒ¬ãƒ  (Charem),3,Normal,Meditate PokÃ©mon,2,Fighting,Psychic,1.3,31.5
+365,308,Mega Medicham,Meditalis,ãƒãƒ£ãƒ¼ãƒ¬ãƒ  (Charem),3,Normal,Meditate PokÃ©mon,2,Fighting,Psychic,1.3,31.5
+366,309,Electrike,Frizelbliz,ãƒ©ã‚¯ãƒ©ã‚¤ (Rakurai),3,Normal,Lightning PokÃ©mon,1,Electric,,0.6,15.2
+367,310,Manectric,Voltenso,ãƒ©ã‚¤ãƒœãƒ«ãƒˆ (Livolt),3,Normal,Discharge PokÃ©mon,1,Electric,,1.5,40.2
+368,310,Mega Manectric,Voltenso,ãƒ©ã‚¤ãƒœãƒ«ãƒˆ (Livolt),3,Normal,Discharge PokÃ©mon,1,Electric,,1.8,44
+369,311,Plusle,Plusle,ãƒ—ãƒ©ã‚¹ãƒ« (Prasle),3,Normal,Cheering PokÃ©mon,1,Electric,,0.4,4.2
+370,312,Minun,Minun,ãƒžã‚¤ãƒŠãƒ³ (Minun),3,Normal,Cheering PokÃ©mon,1,Electric,,0.4,4.2
+371,313,Volbeat,Volbeat,ãƒãƒ«ãƒ“ãƒ¼ãƒˆ (Barubeat),3,Normal,Firefly PokÃ©mon,1,Bug,,0.7,17.7
+372,314,Illumise,Illumise,ã‚¤ãƒ«ãƒŸãƒ¼ã‚¼ (Illumise),3,Normal,Firefly PokÃ©mon,1,Bug,,0.6,17.7
+373,315,Roselia,Roselia,ãƒ­ã‚¼ãƒªã‚¢ (Roselia),3,Normal,Thorn PokÃ©mon,2,Grass,Poison,0.3,2
+374,316,Gulpin,Schluppuck,ã‚´ã‚¯ãƒªãƒ³ (Gokulin),3,Normal,Stomach PokÃ©mon,1,Poison,,0.4,10.3
+375,317,Swalot,Schlukwech,ãƒžãƒ«ãƒŽãƒ¼ãƒ  (Marunoom),3,Normal,Poison Bag PokÃ©mon,1,Poison,,1.7,80
+376,318,Carvanha,Kanivanha,ã‚­ãƒãƒ‹ã‚¢ (Kibanha),3,Normal,Savage PokÃ©mon,2,Water,Dark,0.8,20.8
+377,319,Sharpedo,Tohaido,ã‚µãƒ¡ãƒãƒ€ãƒ¼ (Samehader),3,Normal,Brutal PokÃ©mon,2,Water,Dark,1.8,88.8
+378,319,Mega Sharpedo,Tohaido,ã‚µãƒ¡ãƒãƒ€ãƒ¼ (Samehader),3,Normal,Brutal PokÃ©mon,2,Water,Dark,2.5,130.3
+379,320,Wailmer,Wailmer,ãƒ›ã‚¨ãƒ«ã‚³ (Hoeruko),3,Normal,Ball Whale PokÃ©mon,1,Water,,2,130
+380,321,Wailord,Wailord,ãƒ›ã‚¨ãƒ«ã‚ªãƒ¼ (Whaloh),3,Normal,Float Whale PokÃ©mon,1,Water,,14.5,398
+381,322,Numel,Camaub,ãƒ‰ãƒ³ãƒ¡ãƒ« (Donmel),3,Normal,Numb PokÃ©mon,2,Fire,Ground,0.7,24
+382,323,Camerupt,Camerupt,ãƒã‚¯ãƒ¼ãƒ€ (Bakuuda),3,Normal,Eruption PokÃ©mon,2,Fire,Ground,1.9,220
+383,323,Mega Camerupt,Camerupt,ãƒã‚¯ãƒ¼ãƒ€ (Bakuuda),3,Normal,Eruption PokÃ©mon,2,Fire,Ground,2.5,320.5
+384,324,Torkoal,Qurtel,ã‚³ãƒ¼ã‚¿ã‚¹ (Cotoise),3,Normal,Coal PokÃ©mon,1,Fire,,0.5,80.4
+385,325,Spoink,Spoink,ãƒãƒãƒ–ãƒ¼ (Baneboo),3,Normal,Bounce PokÃ©mon,1,Psychic,,0.7,30.6
+386,326,Grumpig,Groink,ãƒ–ãƒ¼ãƒ”ãƒƒã‚° (Boopig),3,Normal,Manipulate PokÃ©mon,1,Psychic,,0.9,71.5
+387,327,Spinda,Pandir,ãƒ‘ãƒƒãƒãƒ¼ãƒ« (Patcheel),3,Normal,Spot Panda PokÃ©mon,1,Normal,,1.1,5
+388,328,Trapinch,Knacklion,ãƒŠãƒƒã‚¯ãƒ©ãƒ¼ (Nuckrar),3,Normal,Ant Pit PokÃ©mon,1,Ground,,0.7,15
+389,329,Vibrava,Vibrava,ãƒ“ãƒ–ãƒ©ãƒ¼ãƒ (Vibrava),3,Normal,Vibration PokÃ©mon,2,Ground,Dragon,1.1,15.3
+390,330,Flygon,Libelldra,ãƒ•ãƒ©ã‚¤ã‚´ãƒ³ (Flygon),3,Normal,Mystic PokÃ©mon,2,Ground,Dragon,2,82
+391,331,Cacnea,Tuska,ã‚µãƒœãƒã‚¢ (Sabonea),3,Normal,Cactus PokÃ©mon,1,Grass,,0.4,51.3
+392,332,Cacturne,Noktuska,ãƒŽã‚¯ã‚¿ã‚¹ (Noctus),3,Normal,Scarecrow PokÃ©mon,2,Grass,Dark,1.3,77.4
+393,333,Swablu,Wablu,ãƒãƒ«ãƒƒãƒˆ (Tyltto),3,Normal,Cotton Bird PokÃ©mon,2,Normal,Flying,0.4,1.2
+394,334,Altaria,Altaria,ãƒãƒ«ã‚¿ãƒªã‚¹ (Tyltalis),3,Normal,Humming PokÃ©mon,2,Dragon,Flying,1.1,20.6
+395,334,Mega Altaria,Altaria,ãƒãƒ«ã‚¿ãƒªã‚¹ (Tyltalis),3,Normal,Humming PokÃ©mon,2,Dragon,Fairy,1.5,20.6
+396,335,Zangoose,Sengo,ã‚¶ãƒ³ã‚°ãƒ¼ã‚¹ (Zangoose),3,Normal,Cat Ferret PokÃ©mon,1,Normal,,1.3,40.3
+397,336,Seviper,Vipitis,ãƒãƒ–ãƒãƒ¼ã‚¯ (Habunake),3,Normal,Fang Snake PokÃ©mon,1,Poison,,2.7,52.5
+398,337,Lunatone,Lunastein,ãƒ«ãƒŠãƒˆãƒ¼ãƒ³ (Lunatone),3,Normal,Meteorite PokÃ©mon,2,Rock,Psychic,1,168
+399,338,Solrock,Sonnfel,ã‚½ãƒ«ãƒ­ãƒƒã‚¯ (Solrock),3,Normal,Meteorite PokÃ©mon,2,Rock,Psychic,1.2,154
+400,339,Barboach,Schmerbe,ãƒ‰ã‚¸ãƒ§ãƒƒãƒ (Dojoach),3,Normal,Whiskers PokÃ©mon,2,Water,Ground,0.4,1.9
+401,340,Whiscash,Welsar,ãƒŠãƒžã‚ºãƒ³ (Namazun),3,Normal,Whiskers PokÃ©mon,2,Water,Ground,0.9,23.6
+402,341,Corphish,Krebscorps,ãƒ˜ã‚¤ã‚¬ãƒ‹ (Heigani),3,Normal,Ruffian PokÃ©mon,1,Water,,0.6,11.5
+403,342,Crawdaunt,Krebutack,ã‚·ã‚¶ãƒªã‚¬ãƒ¼ (Shizariger),3,Normal,Rogue PokÃ©mon,2,Water,Dark,1.1,32.8
+404,343,Baltoy,Puppance,ãƒ¤ã‚¸ãƒ­ãƒ³ (Yajilon),3,Normal,Clay Doll PokÃ©mon,2,Ground,Psychic,0.5,21.5
+405,344,Claydol,Lepumentas,ãƒãƒ³ãƒ‰ãƒ¼ãƒ« (Nendoll),3,Normal,Clay Doll PokÃ©mon,2,Ground,Psychic,1.5,108
+406,345,Lileep,Liliep,ãƒªãƒªãƒ¼ãƒ© (Lilyla),3,Normal,Sea Lily PokÃ©mon,2,Rock,Grass,1,23.8
+407,346,Cradily,Wielie,ãƒ¦ãƒ¬ã‚¤ãƒ‰ãƒ« (Yuradle),3,Normal,Barnacle PokÃ©mon,2,Rock,Grass,1.5,60.4
+408,347,Anorith,Anorith,ã‚¢ãƒŽãƒ—ã‚¹ (Anopth),3,Normal,Old Shrimp PokÃ©mon,2,Rock,Bug,0.7,12.5
+409,348,Armaldo,Armaldo,ã‚¢ãƒ¼ãƒžãƒ«ãƒ‰ (Armaldo),3,Normal,Plate PokÃ©mon,2,Rock,Bug,1.5,68.2
+410,349,Feebas,Barschwa,ãƒ’ãƒ³ãƒã‚¹ (Hinbass),3,Normal,Fish PokÃ©mon,1,Water,,0.6,7.4
+411,350,Milotic,Milotic,ãƒŸãƒ­ã‚«ãƒ­ã‚¹ (Milokaross),3,Normal,Tender PokÃ©mon,1,Water,,6.2,162
+412,351,Castform,Formeo,ãƒãƒ¯ãƒ«ãƒ³ (Powalen),3,Normal,Weather PokÃ©mon,1,Normal,,0.3,0.8
+413,351,Castform Sunny Form,Formeo,ãƒãƒ¯ãƒ«ãƒ³ (Powalen),3,Normal,Weather PokÃ©mon,1,Fire,,0.3,0.8
+414,351,Castform Rainy Form,Formeo,ãƒãƒ¯ãƒ«ãƒ³ (Powalen),3,Normal,Weather PokÃ©mon,1,Water,,0.3,0.8
+415,351,Castform Snowy Form,Formeo,ãƒãƒ¯ãƒ«ãƒ³ (Powalen),3,Normal,Weather PokÃ©mon,1,Ice,,0.3,0.8
+416,352,Kecleon,Kecleon,ã‚«ã‚¯ãƒ¬ã‚ªãƒ³ (Kakureon),3,Normal,Color Swap PokÃ©mon,1,Normal,,1,22
+417,353,Shuppet,Shuppet,ã‚«ã‚²ãƒœã‚¦ã‚º (Kagebouzu),3,Normal,Puppet PokÃ©mon,1,Ghost,,0.6,2.3
+418,354,Banette,Banette,ã‚¸ãƒ¥ãƒšãƒƒã‚¿ (Juppeta),3,Normal,Marionette PokÃ©mon,1,Ghost,,1.1,12.5
+419,354,Mega Banette,Banette,ã‚¸ãƒ¥ãƒšãƒƒã‚¿ (Juppeta),3,Normal,Marionette PokÃ©mon,1,Ghost,,1.2,13
+420,355,Duskull,Zwirrlicht,ãƒ¨ãƒžãƒ¯ãƒ« (Yomawaru),3,Normal,Requiem PokÃ©mon,1,Ghost,,0.8,15
+421,356,Dusclops,Zwirrklop,ã‚µãƒžãƒ¨ãƒ¼ãƒ« (Samayouru),3,Normal,Beckon PokÃ©mon,1,Ghost,,1.6,30.6
+422,357,Tropius,Tropius,ãƒˆãƒ­ãƒ”ã‚¦ã‚¹ (Tropius),3,Normal,Fruit PokÃ©mon,2,Grass,Flying,2,100
+423,358,Chimecho,Palimpalim,ãƒãƒªãƒ¼ãƒ³ (Chirean),3,Normal,Wind Chime PokÃ©mon,1,Psychic,,0.6,1
+424,359,Absol,Absol,ã‚¢ãƒ–ã‚½ãƒ« (Absol),3,Normal,Disaster PokÃ©mon,1,Dark,,1.2,47
+425,359,Mega Absol,Absol,ã‚¢ãƒ–ã‚½ãƒ« (Absol),3,Normal,Disaster PokÃ©mon,1,Dark,,1.2,49
+426,360,Wynaut,Isso,ã‚½ãƒ¼ãƒŠãƒŽ (Sohnano),3,Normal,Bright PokÃ©mon,1,Psychic,,0.6,14
+427,361,Snorunt,Schneppke,ãƒ¦ã‚­ãƒ¯ãƒ©ã‚· (Yukiwarashi),3,Normal,Snow Hat PokÃ©mon,1,Ice,,0.7,16.8
+428,362,Glalie,Firnontor,ã‚ªãƒ‹ã‚´ãƒ¼ãƒª (Onigohri),3,Normal,Face PokÃ©mon,1,Ice,,1.5,256.5
+429,362,Mega Glalie,Firnontor,ã‚ªãƒ‹ã‚´ãƒ¼ãƒª (Onigohri),3,Normal,Face PokÃ©mon,1,Ice,,2.1,350.2
+430,363,Spheal,Seemops,ã‚¿ãƒžã‚¶ãƒ©ã‚· (Tamazarashi),3,Normal,Clap PokÃ©mon,2,Ice,Water,0.8,39.5
+431,364,Sealeo,Seejong,ãƒˆãƒ‰ã‚°ãƒ©ãƒ¼ (Todoggler),3,Normal,Ball Roll PokÃ©mon,2,Ice,Water,1.1,87.6
+432,365,Walrein,Walraisa,ãƒˆãƒ‰ã‚¼ãƒ«ã‚¬ (Todoseruga),3,Normal,Ice Break PokÃ©mon,2,Ice,Water,1.4,150.6
+433,366,Clamperl,Perlu,ãƒ‘ãƒ¼ãƒ«ãƒ« (Pearlulu),3,Normal,Bivalve PokÃ©mon,1,Water,,0.4,52.5
+434,367,Huntail,Aalabyss,ãƒãƒ³ãƒ†ãƒ¼ãƒ« (Huntail),3,Normal,Deep Sea PokÃ©mon,1,Water,,1.7,27
+435,368,Gorebyss,Saganabyss,ã‚µã‚¯ãƒ©ãƒ“ã‚¹ (Sakurabyss),3,Normal,South Sea PokÃ©mon,1,Water,,1.8,22.6
+436,369,Relicanth,Relicanth,ã‚¸ãƒ¼ãƒ©ãƒ³ã‚¹ (Glanth),3,Normal,Longevity PokÃ©mon,2,Water,Rock,1,23.4
+437,370,Luvdisc,Liebiskus,ãƒ©ãƒ–ã‚«ã‚¹ (Lovecus),3,Normal,Rendezvous PokÃ©mon,1,Water,,0.6,8.7
+438,371,Bagon,Kindwurm,ã‚¿ãƒ„ãƒ™ã‚¤ (Tatsubay),3,Normal,Rock Head PokÃ©mon,1,Dragon,,0.6,42.1
+439,372,Shelgon,Draschel,ã‚³ãƒ¢ãƒ«ãƒ¼ (Komoruu),3,Normal,Endurance PokÃ©mon,1,Dragon,,1.1,110.5
+440,373,Salamence,Brutalanda,ãƒœãƒ¼ãƒžãƒ³ãƒ€ (Bohmander),3,Normal,Dragon PokÃ©mon,2,Dragon,Flying,1.5,102.6
+441,373,Mega Salamence,Brutalanda,ãƒœãƒ¼ãƒžãƒ³ãƒ€ (Bohmander),3,Normal,Dragon PokÃ©mon,2,Dragon,Flying,1.8,112.6
+442,374,Beldum,Tanhel,ãƒ€ãƒ³ãƒãƒ« (Dumbber),3,Normal,Iron Ball PokÃ©mon,2,Steel,Psychic,0.6,95.2
+443,375,Metang,Metang,ãƒ¡ã‚¿ãƒ³ã‚° (Metang),3,Normal,Iron Claw PokÃ©mon,2,Steel,Psychic,1.2,202.5
+444,376,Metagross,Metagross,ãƒ¡ã‚¿ã‚°ãƒ­ã‚¹ (Metagross),3,Normal,Iron Leg PokÃ©mon,2,Steel,Psychic,1.6,550
+445,376,Mega Metagross,Metagross,ãƒ¡ã‚¿ã‚°ãƒ­ã‚¹ (Metagross),3,Normal,Iron Leg PokÃ©mon,2,Steel,Psychic,2.5,942.9
+446,377,Regirock,Regirock,ãƒ¬ã‚¸ãƒ­ãƒƒã‚¯ (Regirock),3,Sub Legendary,Rock Peak PokÃ©mon,1,Rock,,1.7,230
+447,378,Regice,Regice,ãƒ¬ã‚¸ã‚¢ã‚¤ã‚¹ (Regice),3,Sub Legendary,Iceberg PokÃ©mon,1,Ice,,1.8,175
+448,379,Registeel,Registeel,ãƒ¬ã‚¸ã‚¹ãƒãƒ« (Registeel),3,Sub Legendary,Iron PokÃ©mon,1,Steel,,1.9,205
+449,380,Latias,Latias,ãƒ©ãƒ†ã‚£ã‚¢ã‚¹ (Latias),3,Sub Legendary,Eon PokÃ©mon,2,Dragon,Psychic,1.4,40
+450,380,Mega Latias,Latias,ãƒ©ãƒ†ã‚£ã‚¢ã‚¹ (Latias),3,Sub Legendary,Eon PokÃ©mon,2,Dragon,Psychic,1.8,52
+451,381,Latios,Latios,ãƒ©ãƒ†ã‚£ã‚ªã‚¹ (Latios),3,Sub Legendary,Eon PokÃ©mon,2,Dragon,Psychic,2,60
+452,381,Mega Latios,Latios,ãƒ©ãƒ†ã‚£ã‚ªã‚¹ (Latios),3,Sub Legendary,Eon PokÃ©mon,2,Dragon,Psychic,2.3,70
+453,382,Kyogre,Kyogre,ã‚«ã‚¤ã‚ªãƒ¼ã‚¬ (Kyogre),3,Legendary,Sea Basin PokÃ©mon,1,Water,,4.5,352
+454,382,Primal Kyogre,Kyogre,ã‚«ã‚¤ã‚ªãƒ¼ã‚¬ (Kyogre),3,Legendary,Sea Basin PokÃ©mon,1,Water,,9.8,430
+455,383,Groudon,Groudon,ã‚°ãƒ©ãƒ¼ãƒ‰ãƒ³ (Groudon),3,Legendary,Continent PokÃ©mon,1,Ground,,3.5,950
+456,383,Primal Groudon,Groudon,ã‚°ãƒ©ãƒ¼ãƒ‰ãƒ³ (Groudon),3,Legendary,Continent PokÃ©mon,2,Ground,Fire,5,999.7
+457,384,Rayquaza,Rayquaza,ãƒ¬ãƒƒã‚¯ã‚¦ã‚¶ (Rayquaza),3,Legendary,Sky High PokÃ©mon,2,Dragon,Flying,7,206.5
+458,384,Mega Rayquaza,Rayquaza,ãƒ¬ãƒƒã‚¯ã‚¦ã‚¶ (Rayquaza),3,Legendary,Sky High PokÃ©mon,2,Dragon,Flying,10.8,392
+459,385,Jirachi,Jirachi,ã‚¸ãƒ©ãƒ¼ãƒ (Jirachi),3,Mythical,Wish PokÃ©mon,2,Steel,Psychic,0.3,1.1
+460,386,Deoxys Normal Forme,Deoxys,ãƒ‡ã‚ªã‚­ã‚·ã‚¹ (Deoxys),3,Mythical,DNA PokÃ©mon,1,Psychic,,1.7,60.8
+461,386,Deoxys Attack Forme,Deoxys,ãƒ‡ã‚ªã‚­ã‚·ã‚¹ (Deoxys),3,Mythical,DNA PokÃ©mon,1,Psychic,,1.7,60.8
+462,386,Deoxys Defense Forme,Deoxys,ãƒ‡ã‚ªã‚­ã‚·ã‚¹ (Deoxys),3,Mythical,DNA PokÃ©mon,1,Psychic,,1.7,60.8
+463,386,Deoxys Speed Forme,Deoxys,ãƒ‡ã‚ªã‚­ã‚·ã‚¹ (Deoxys),3,Mythical,DNA PokÃ©mon,1,Psychic,,1.7,60.8
+464,387,Turtwig,Chelast,ãƒŠã‚¨ãƒˆãƒ« (Naetle),4,Normal,Tiny Leaf PokÃ©mon,1,Grass,,0.4,10.2
+465,388,Grotle,Chelcarain,ãƒãƒ¤ã‚·ã‚¬ãƒ¡ (Hayashigame),4,Normal,Grove PokÃ©mon,1,Grass,,1.1,97
+466,389,Torterra,Chelterrar,ãƒ‰ãƒ€ã‚¤ãƒˆã‚¹ (Dodaitose),4,Normal,Continent PokÃ©mon,2,Grass,Ground,2.2,310
+467,390,Chimchar,Panflam,ãƒ’ã‚³ã‚¶ãƒ« (Hikozaru),4,Normal,Chimp PokÃ©mon,1,Fire,,0.5,6.2
+468,391,Monferno,Panpyro,ãƒ¢ã‚¦ã‚«ã‚¶ãƒ« (Moukazaru),4,Normal,Playful PokÃ©mon,2,Fire,Fighting,0.9,22
+469,392,Infernape,Panferno,ã‚´ã‚¦ã‚«ã‚¶ãƒ« (Goukazaru),4,Normal,Flame PokÃ©mon,2,Fire,Fighting,1.2,55
+470,393,Piplup,Plinfa,ãƒãƒƒãƒãƒ£ãƒž (Pochama),4,Normal,Penguin PokÃ©mon,1,Water,,0.4,5.2
+471,394,Prinplup,Pliprin,ãƒãƒƒã‚¿ã‚¤ã‚· (Pottaishi),4,Normal,Penguin PokÃ©mon,1,Water,,0.8,23
+472,395,Empoleon,Impoleon,ã‚¨ãƒ³ãƒšãƒ«ãƒˆ (Emperte),4,Normal,Emperor PokÃ©mon,2,Water,Steel,1.7,84.5
+473,396,Starly,Staralili,ãƒ ãƒƒã‚¯ãƒ« (Mukkuru),4,Normal,Starling PokÃ©mon,2,Normal,Flying,0.3,2
+474,397,Staravia,Staravia,ãƒ ã‚¯ãƒãƒ¼ãƒ‰ (Mukubird),4,Normal,Starling PokÃ©mon,2,Normal,Flying,0.6,15.5
+475,398,Staraptor,Staraptor,ãƒ ã‚¯ãƒ›ãƒ¼ã‚¯ (Mukuhawk),4,Normal,Predator PokÃ©mon,2,Normal,Flying,1.2,24.9
+476,399,Bidoof,Bidiza,ãƒ“ãƒƒãƒ‘ (Bippa),4,Normal,Plump Mouse PokÃ©mon,1,Normal,,0.5,20
+477,400,Bibarel,Bidifas,ãƒ“ãƒ¼ãƒ€ãƒ« (Beadaru),4,Normal,Beaver PokÃ©mon,2,Normal,Water,1,31.5
+478,401,Kricketot,Zirpurze,ã‚³ãƒ­ãƒœãƒ¼ã‚· (Korobohshi),4,Normal,Cricket PokÃ©mon,1,Bug,,0.3,2.2
+479,402,Kricketune,Zirpeise,ã‚³ãƒ­ãƒˆãƒƒã‚¯ (Korotock),4,Normal,Cricket PokÃ©mon,1,Bug,,1,25.5
+480,403,Shinx,Sheinux,ã‚³ãƒªãƒ³ã‚¯ (Kolink),4,Normal,Flash PokÃ©mon,1,Electric,,0.5,9.5
+481,404,Luxio,Luxio,ãƒ«ã‚¯ã‚·ã‚ª (Luxio),4,Normal,Spark PokÃ©mon,1,Electric,,0.9,30.5
+482,405,Luxray,Luxtra,ãƒ¬ãƒ³ãƒˆãƒ©ãƒ¼ (Rentorar),4,Normal,Gleam Eyes PokÃ©mon,1,Electric,,1.4,42
+483,406,Budew,Knospi,ã‚¹ãƒœãƒŸãƒ¼ (Subomie),4,Normal,Bud PokÃ©mon,2,Grass,Poison,0.2,1.2
+484,407,Roserade,Roserade,ãƒ­ã‚ºãƒ¬ã‚¤ãƒ‰ (Roserade),4,Normal,Bouquet PokÃ©mon,2,Grass,Poison,0.9,14.5
+485,408,Cranidos,Koknodon,ã‚ºã‚¬ã‚¤ãƒ‰ã‚¹ (Zugaidos),4,Normal,Head Butt PokÃ©mon,1,Rock,,0.9,31.5
+486,409,Rampardos,Rameidon,ãƒ©ãƒ ãƒ‘ãƒ«ãƒ‰ (Rampald),4,Normal,Head Butt PokÃ©mon,1,Rock,,1.6,102.5
+487,410,Shieldon,Schilterus,ã‚¿ãƒ†ãƒˆãƒ—ã‚¹ (Tatetops),4,Normal,Shield PokÃ©mon,2,Rock,Steel,0.5,57
+488,411,Bastiodon,Bollterus,ãƒˆãƒªãƒ‡ãƒ—ã‚¹ (Torideps),4,Normal,Shield PokÃ©mon,2,Rock,Steel,1.3,149.5
+489,412,Burmy,Burmy,ãƒŸãƒŽãƒ ãƒƒãƒ (Minomucchi),4,Normal,Bagworm PokÃ©mon,1,Bug,,0.2,3.4
+490,413,Wormadam Plant Cloak,Burmadame,ãƒŸãƒŽãƒžãƒ€ãƒ  (Minomadam),4,Normal,Bagworm PokÃ©mon,2,Bug,Grass,0.5,6.5
+491,413,Wormadam Sandy Cloak,Burmadame,ãƒŸãƒŽãƒžãƒ€ãƒ  (Minomadam),4,Normal,Bagworm PokÃ©mon,2,Bug,Ground,0.5,6.5
+492,413,Wormadam Trash Cloak,Burmadame,ãƒŸãƒŽãƒžãƒ€ãƒ  (Minomadam),4,Normal,Bagworm PokÃ©mon,2,Bug,Steel,0.5,6.5
+493,414,Mothim,Moterpel,ã‚¬ãƒ¼ãƒ¡ã‚¤ãƒ« (Gamale),4,Normal,Moth PokÃ©mon,2,Bug,Flying,0.9,23.3
+494,415,Combee,Wadribie,ãƒŸãƒ„ãƒãƒ‹ãƒ¼ (Mitsuhoney),4,Normal,Tiny Bee PokÃ©mon,2,Bug,Flying,0.3,5.5
+495,416,Vespiquen,Honweisel,ãƒ“ãƒ¼ã‚¯ã‚¤ãƒ³ (Beequen),4,Normal,Beehive PokÃ©mon,2,Bug,Flying,1.2,38.5
+496,417,Pachirisu,Pachirisu,ãƒ‘ãƒãƒªã‚¹ (Pachirisu),4,Normal,EleSquirrel PokÃ©mon,1,Electric,,0.4,3.9
+497,418,Buizel,Bamelin,ãƒ–ã‚¤ã‚¼ãƒ« (Buoysel),4,Normal,Sea Weasel PokÃ©mon,1,Water,,0.7,29.5
+498,419,Floatzel,Bojelin,ãƒ•ãƒ­ãƒ¼ã‚¼ãƒ« (Floazel),4,Normal,Sea Weasel PokÃ©mon,1,Water,,1.1,33.5
+499,420,Cherubi,Kikugi,ãƒã‚§ãƒªãƒ³ãƒœ (Cherinbo),4,Normal,Cherry PokÃ©mon,1,Grass,,0.4,3.3
+500,421,Cherrim,Kinoso,ãƒã‚§ãƒªãƒ  (Cherrim),4,Normal,Blossom PokÃ©mon,1,Grass,,0.5,9.3
+501,422,Shellos,Schalellos,ã‚«ãƒ©ãƒŠã‚¯ã‚· (Karanakushi),4,Normal,Sea Slug PokÃ©mon,1,Water,,0.3,6.3
+502,423,Gastrodon,Gastrodon,ãƒˆãƒªãƒˆãƒ‰ãƒ³ (Tritodon),4,Normal,Sea Slug PokÃ©mon,2,Water,Ground,0.9,29.9
+503,424,Ambipom,Ambidiffel,ã‚¨ãƒ†ãƒœãƒ¼ã‚¹ (Eteboth),4,Normal,Long Tail PokÃ©mon,1,Normal,,1.2,20.3
+504,425,Drifloon,Driftlon,ãƒ•ãƒ¯ãƒ³ãƒ† (Fuwante),4,Normal,Balloon PokÃ©mon,2,Ghost,Flying,0.4,1.2
+505,426,Drifblim,Drifzepeli,ãƒ•ãƒ¯ãƒ©ã‚¤ãƒ‰ (Fuwaride),4,Normal,Blimp PokÃ©mon,2,Ghost,Flying,1.2,15
+506,427,Buneary,Haspiror,ãƒŸãƒŸãƒ­ãƒ« (Mimirol),4,Normal,Rabbit PokÃ©mon,1,Normal,,0.4,5.5
+507,428,Lopunny,Schlapor,ãƒŸãƒŸãƒ­ãƒƒãƒ— (Mimilop),4,Normal,Rabbit PokÃ©mon,1,Normal,,1.2,33.3
+508,428,Mega Lopunny,Schlapor,ãƒŸãƒŸãƒ­ãƒƒãƒ— (Mimilop),4,Normal,Rabbit PokÃ©mon,2,Normal,Fighting,1.3,28.3
+509,429,Mismagius,Traunmagil,ãƒ ã‚¦ãƒžãƒ¼ã‚¸ (Mumargi),4,Normal,Magical PokÃ©mon,1,Ghost,,0.9,4.4
+510,430,Honchkrow,Kramshef,ãƒ‰ãƒ³ã‚«ãƒ©ã‚¹ (Dongkarasu),4,Normal,Big Boss PokÃ©mon,2,Dark,Flying,0.9,27.3
+511,431,Glameow,Charmian,ãƒ‹ãƒ£ãƒ«ãƒžãƒ¼ (Nyarmar),4,Normal,Catty PokÃ©mon,1,Normal,,0.5,3.9
+512,432,Purugly,Shnurgarst,ãƒ–ãƒ‹ãƒ£ãƒƒãƒˆ (Bunyatto),4,Normal,Tiger Cat PokÃ©mon,1,Normal,,1,43.8
+513,433,Chingling,Klingplim,ãƒªãƒ¼ã‚·ãƒ£ãƒ³ (Lisyan),4,Normal,Bell PokÃ©mon,1,Psychic,,0.2,0.6
+514,434,Stunky,Skunkapuh,ã‚¹ã‚«ãƒ³ãƒ—ãƒ¼ (Skunpuu),4,Normal,Skunk PokÃ©mon,2,Poison,Dark,0.4,19.2
+515,435,Skuntank,Skuntank,ã‚¹ã‚«ã‚¿ãƒ³ã‚¯ (Skutank),4,Normal,Skunk PokÃ©mon,2,Poison,Dark,1,38
+516,436,Bronzor,Bronzel,ãƒ‰ãƒ¼ãƒŸãƒ©ãƒ¼ (Dohmirror),4,Normal,Bronze PokÃ©mon,2,Steel,Psychic,0.5,60.5
+517,437,Bronzong,Bronzong,ãƒ‰ãƒ¼ã‚¿ã‚¯ãƒ³ (Dohtakun),4,Normal,Bronze Bell PokÃ©mon,2,Steel,Psychic,1.3,187
+518,438,Bonsly,Mobai,ã‚¦ã‚½ãƒãƒ (Usohachi),4,Normal,Bonsai PokÃ©mon,1,Rock,,0.5,15
+519,439,Mime Jr.,Pantimimi,ãƒžãƒãƒ (Manene),4,Normal,Mime PokÃ©mon,2,Psychic,Fairy,0.6,13
+520,440,Happiny,Wonneira,ãƒ”ãƒ³ãƒ—ã‚¯ (Pinpuku),4,Normal,Playhouse PokÃ©mon,1,Normal,,0.6,24.4
+521,441,Chatot,Plaudagei,ãƒšãƒ©ãƒƒãƒ— (Perap),4,Normal,Music Note PokÃ©mon,2,Normal,Flying,0.5,1.9
+522,442,Spiritomb,Kryppuk,ãƒŸã‚«ãƒ«ã‚² (Mikaruge),4,Normal,Forbidden PokÃ©mon,2,Ghost,Dark,1,108
+523,443,Gible,Kaumalat,ãƒ•ã‚«ãƒžãƒ« (Fukamaru),4,Normal,Land Shark PokÃ©mon,2,Dragon,Ground,0.7,20.5
+524,444,Gabite,Knarksel,ã‚¬ãƒã‚¤ãƒˆ (Gabite),4,Normal,Cave PokÃ©mon,2,Dragon,Ground,1.4,56
+525,445,Garchomp,Knakrack,ã‚¬ãƒ–ãƒªã‚¢ã‚¹ (Gaburias),4,Normal,Mach PokÃ©mon,2,Dragon,Ground,1.9,95
+526,445,Mega Garchomp,Knakrack,ã‚¬ãƒ–ãƒªã‚¢ã‚¹ (Gaburias),4,Normal,Mach PokÃ©mon,2,Dragon,Ground,1.9,95
+527,446,Munchlax,Mampfaxo,ã‚´ãƒ³ãƒ™ (Gonbe),4,Normal,Big Eater PokÃ©mon,1,Normal,,0.6,105
+528,447,Riolu,Riolu,ãƒªã‚ªãƒ« (Riolu),4,Normal,Emanation PokÃ©mon,1,Fighting,,0.7,20.2
+529,448,Lucario,Lucario,ãƒ«ã‚«ãƒªã‚ª (Lucario),4,Normal,Aura PokÃ©mon,2,Fighting,Steel,1.2,54
+530,448,Mega Lucario,Lucario,ãƒ«ã‚«ãƒªã‚ª (Lucario),4,Normal,Aura PokÃ©mon,2,Fighting,Steel,1.3,57.5
+531,449,Hippopotas,Hippopotas,ãƒ’ãƒãƒã‚¿ã‚¹ (Hippopotas),4,Normal,Hippo PokÃ©mon,1,Ground,,0.8,49.5
+532,450,Hippowdon,Hippoterus,ã‚«ãƒãƒ«ãƒ‰ãƒ³ (Kabaldon),4,Normal,Heavyweight PokÃ©mon,1,Ground,,2,300
+533,451,Skorupi,Pionskora,ã‚¹ã‚³ãƒ«ãƒ” (Scorupi),4,Normal,Scorpion PokÃ©mon,2,Poison,Bug,0.8,12
+534,452,Drapion,Piondragi,ãƒ‰ãƒ©ãƒ”ã‚ªãƒ³ (Dorapion),4,Normal,Ogre Scorp PokÃ©mon,2,Poison,Dark,1.3,61.5
+535,453,Croagunk,Glibunkel,ã‚°ãƒ¬ãƒƒã‚°ãƒ« (Gureggru),4,Normal,Toxic Mouth PokÃ©mon,2,Poison,Fighting,0.7,23
+536,454,Toxicroak,Toxiquak,ãƒ‰ã‚¯ãƒ­ãƒƒã‚° (Dokurog),4,Normal,Toxic Mouth PokÃ©mon,2,Poison,Fighting,1.3,44.4
+537,455,Carnivine,Venuflibis,ãƒžã‚¹ã‚­ãƒƒãƒ‘ (Muskippa),4,Normal,Bug Catcher PokÃ©mon,1,Grass,,1.4,27
+538,456,Finneon,Finneon,ã‚±ã‚¤ã‚³ã‚¦ã‚ª (Keikouo),4,Normal,Wing Fish PokÃ©mon,1,Water,,0.4,7
+539,457,Lumineon,Lumineon,ãƒã‚ªãƒ©ãƒ³ãƒˆ (Neolant),4,Normal,Neon PokÃ©mon,1,Water,,1.2,24
+540,458,Mantyke,Mantirps,ã‚¿ãƒžãƒ³ã‚¿ (Tamanta),4,Normal,Kite PokÃ©mon,2,Water,Flying,1,65
+541,459,Snover,Shnebedeck,ãƒ¦ã‚­ã‚«ãƒ–ãƒª (Yukikaburi),4,Normal,Frost Tree PokÃ©mon,2,Grass,Ice,1,50.5
+542,460,Abomasnow,Rexblisar,ãƒ¦ã‚­ãƒŽã‚ªãƒ¼ (Yukinooh),4,Normal,Frost Tree PokÃ©mon,2,Grass,Ice,2.2,135.5
+543,460,Mega Abomasnow,Rexblisar,ãƒ¦ã‚­ãƒŽã‚ªãƒ¼ (Yukinooh),4,Normal,Frost Tree PokÃ©mon,2,Grass,Ice,2.7,185
+544,461,Weavile,Snibunna,ãƒžãƒ‹ãƒ¥ãƒ¼ãƒ© (Manyula),4,Normal,Sharp Claw PokÃ©mon,2,Dark,Ice,1.1,34
+545,462,Magnezone,Magnezone,ã‚¸ãƒã‚³ã‚¤ãƒ« (Jibacoil),4,Normal,Magnet Area PokÃ©mon,2,Electric,Steel,1.2,180
+546,463,Lickilicky,Schlurplek,ãƒ™ãƒ­ãƒ™ãƒ«ãƒˆ (Berobelt),4,Normal,Licking PokÃ©mon,1,Normal,,1.7,140
+547,464,Rhyperior,Rihornior,ãƒ‰ã‚µã‚¤ãƒ‰ãƒ³ (Dosidon),4,Normal,Drill PokÃ©mon,2,Ground,Rock,2.4,282.8
+548,465,Tangrowth,Tangoloss,ãƒ¢ã‚¸ãƒ£ãƒ³ãƒœ (Mojumbo),4,Normal,Vine PokÃ©mon,1,Grass,,2,128.6
+549,466,Electivire,Elevoltek,ã‚¨ãƒ¬ã‚­ãƒ–ãƒ« (Elekible),4,Normal,Thunderbolt PokÃ©mon,1,Electric,,1.8,138.6
+550,467,Magmortar,Magbrant,ãƒ–ãƒ¼ãƒãƒ¼ãƒ³ (Booburn),4,Normal,Blast PokÃ©mon,1,Fire,,1.6,68
+551,468,Togekiss,Togekiss,ãƒˆã‚²ã‚­ãƒƒã‚¹ (Togekiss),4,Normal,Jubilee PokÃ©mon,2,Fairy,Flying,1.5,38
+552,469,Yanmega,Yanmega,ãƒ¡ã‚¬ãƒ¤ãƒ³ãƒž (Megayanma),4,Normal,Ogre Darner PokÃ©mon,2,Bug,Flying,1.9,51.5
+553,470,Leafeon,Folipurba,ãƒªãƒ¼ãƒ•ã‚£ã‚¢ (Leafia),4,Normal,Verdant PokÃ©mon,1,Grass,,1,25.5
+554,471,Glaceon,Glaziola,ã‚°ãƒ¬ã‚¤ã‚·ã‚¢ (Glacia),4,Normal,Fresh Snow PokÃ©mon,1,Ice,,0.8,25.9
+555,472,Gliscor,Skorgro,ã‚°ãƒ©ã‚¤ã‚ªãƒ³ (Glion),4,Normal,Fang Scorp PokÃ©mon,2,Ground,Flying,2,42.5
+556,473,Mamoswine,Mamutel,ãƒžãƒ³ãƒ ãƒ¼ (Mammoo),4,Normal,Twin Tusk PokÃ©mon,2,Ice,Ground,2.5,291
+557,474,Porygon-Z,Porygon-Z,ãƒãƒªã‚´ãƒ³ï¼º (Porygon-Z),4,Normal,Virtual PokÃ©mon,1,Normal,,0.9,34
+558,475,Gallade,Galagladi,ã‚¨ãƒ«ãƒ¬ã‚¤ãƒ‰ (Erureido),4,Normal,Blade PokÃ©mon,2,Psychic,Fighting,1.6,52
+559,475,Mega Gallade,Galagladi,ã‚¨ãƒ«ãƒ¬ã‚¤ãƒ‰ (Erureido),4,Normal,Blade PokÃ©mon,2,Psychic,Fighting,1.6,56.4
+560,476,Probopass,Voluminas,ãƒ€ã‚¤ãƒŽãƒ¼ã‚º (Dainose),4,Normal,Compass PokÃ©mon,2,Rock,Steel,1.4,340
+561,477,Dusknoir,Zwirrfinst,ãƒ¨ãƒŽãƒ¯ãƒ¼ãƒ« (Yonoir),4,Normal,Gripper PokÃ©mon,1,Ghost,,2.2,106.6
+562,478,Froslass,Frosdedje,ãƒ¦ã‚­ãƒ¡ãƒŽã‚³ (Yukimenoko),4,Normal,Snow Land PokÃ©mon,2,Ice,Ghost,1.3,26.6
+563,479,Rotom,Rotom,ãƒ­ãƒˆãƒ  (Rotom),4,Normal,Plasma PokÃ©mon,2,Electric,Ghost,0.3,0.3
+564,479,Heat Rotom,Rotom,ãƒ­ãƒˆãƒ  (Rotom),4,Normal,Plasma PokÃ©mon,2,Electric,Fire,0.3,0.3
+565,479,Wash Rotom,Rotom,ãƒ­ãƒˆãƒ  (Rotom),4,Normal,Plasma PokÃ©mon,2,Electric,Water,0.3,0.3
+566,479,Frost Rotom,Rotom,ãƒ­ãƒˆãƒ  (Rotom),4,Normal,Plasma PokÃ©mon,2,Electric,Ice,0.3,0.3
+567,479,Fan Rotom,Rotom,ãƒ­ãƒˆãƒ  (Rotom),4,Normal,Plasma PokÃ©mon,2,Electric,Flying,0.3,0.3
+568,479,Mow Rotom,Rotom,ãƒ­ãƒˆãƒ  (Rotom),4,Normal,Plasma PokÃ©mon,2,Electric,Grass,0.3,0.3
+569,480,Uxie,Selfe,ãƒ¦ã‚¯ã‚·ãƒ¼ (Yuxie),4,Sub Legendary,Knowledge PokÃ©mon,1,Psychic,,0.3,0.3
+570,481,Mesprit,Vesprit,ã‚¨ãƒ ãƒªãƒƒãƒˆ (Emrit),4,Sub Legendary,Emotion PokÃ©mon,1,Psychic,,0.3,0.3
+571,482,Azelf,Tobutz,ã‚¢ã‚°ãƒŽãƒ  (Agnome),4,Sub Legendary,Willpower PokÃ©mon,1,Psychic,,0.3,0.3
+572,483,Dialga,Dialga,ãƒ‡ã‚£ã‚¢ãƒ«ã‚¬ (Dialga),4,Legendary,Temporal PokÃ©mon,2,Steel,Dragon,5.4,683
+573,484,Palkia,Palkia,ãƒ‘ãƒ«ã‚­ã‚¢ (Palkia),4,Legendary,Spatial PokÃ©mon,2,Water,Dragon,4.2,336
+574,485,Heatran,Heatran,ãƒ’ãƒ¼ãƒ‰ãƒ©ãƒ³ (Heatran),4,Sub Legendary,Lava Dome PokÃ©mon,2,Fire,Steel,1.7,430
+575,486,Regigigas,Regigigas,ãƒ¬ã‚¸ã‚®ã‚¬ã‚¹ (Regigigas),4,Sub Legendary,Colossal PokÃ©mon,1,Normal,,3.7,420
+576,487,Giratina Altered Forme,Giratina,ã‚®ãƒ©ãƒ†ã‚£ãƒŠ (Giratina),4,Legendary,Renegade PokÃ©mon,2,Ghost,Dragon,4.5,750
+577,487,Giratina Origin Forme,Giratina,ã‚®ãƒ©ãƒ†ã‚£ãƒŠ (Giratina),4,Legendary,Renegade PokÃ©mon,2,Ghost,Dragon,6.9,650
+578,488,Cresselia,Cresselia,ã‚¯ãƒ¬ã‚»ãƒªã‚¢ (Cresselia),4,Sub Legendary,Lunar PokÃ©mon,1,Psychic,,1.5,85.6
+579,489,Phione,Phione,ãƒ•ã‚£ã‚ªãƒ (Phione),4,Mythical,Sea Drifter PokÃ©mon,1,Water,,0.4,3.1
+580,490,Manaphy,Manaphy,ãƒžãƒŠãƒ•ã‚£ (Manaphy),4,Mythical,Seafaring PokÃ©mon,1,Water,,0.3,1.4
+581,491,Darkrai,Darkrai,ãƒ€ãƒ¼ã‚¯ãƒ©ã‚¤ (Darkrai),4,Mythical,Pitch-Black PokÃ©mon,1,Dark,,1.5,50.5
+582,492,Shaymin Land Forme,Shaymin,ã‚·ã‚§ã‚¤ãƒŸ (Shaymin),4,Mythical,Gratitude PokÃ©mon,1,Grass,,0.2,2.1
+583,492,Shaymin Sky Forme,Shaymin,ã‚·ã‚§ã‚¤ãƒŸ (Shaymin),4,Mythical,Gratitude PokÃ©mon,2,Grass,Flying,0.4,5.2
+584,493,Arceus,Arceus,ã‚¢ãƒ«ã‚»ã‚¦ã‚¹ (Arceus),4,Mythical,Alpha PokÃ©mon,1,Normal,,3.2,320
+585,494,Victini,Victini,ãƒ“ã‚¯ãƒ†ã‚£ãƒ‹ (Victini),5,Mythical,Victory PokÃ©mon,2,Psychic,Fire,0.4,4
+586,495,Snivy,Serpifeu,ãƒ„ã‚¿ãƒ¼ã‚¸ãƒ£ (Tsutarja),5,Normal,Grass Snake PokÃ©mon,1,Grass,,0.6,8.1
+587,496,Servine,Efoserp,ã‚¸ãƒ£ãƒŽãƒ“ãƒ¼ (Janovy),5,Normal,Grass Snake PokÃ©mon,1,Grass,,0.8,16
+588,497,Serperior,Serpiroyal,ã‚¸ãƒ£ãƒ­ãƒ¼ãƒ€ (Jalorda),5,Normal,Regal PokÃ©mon,1,Grass,,3.3,63
+589,498,Tepig,Floink,ãƒã‚«ãƒ– (Pokabu),5,Normal,Fire Pig PokÃ©mon,1,Fire,,0.5,9.9
+590,499,Pignite,Ferkokel,ãƒãƒ£ã‚ªãƒ–ãƒ¼ (Chaoboo),5,Normal,Fire Pig PokÃ©mon,2,Fire,Fighting,1,55.5
+591,500,Emboar,Flambirex,ã‚¨ãƒ³ãƒ–ã‚ªãƒ¼ (Enbuoh),5,Normal,Mega Fire Pig PokÃ©mon,2,Fire,Fighting,1.6,150
+592,501,Oshawott,Ottaro,ãƒŸã‚¸ãƒ¥ãƒžãƒ« (Mijumaru),5,Normal,Sea Otter PokÃ©mon,1,Water,,0.5,5.9
+593,502,Dewott,Zwottronin,ãƒ•ã‚¿ãƒãƒžãƒ« (Futachimaru),5,Normal,Discipline PokÃ©mon,1,Water,,0.8,24.5
+594,503,Samurott,Admurai,ãƒ€ã‚¤ã‚±ãƒ³ã‚­ (Daikenki),5,Normal,Formidable PokÃ©mon,1,Water,,1.5,94.6
+595,504,Patrat,Nagelotz,ãƒŸãƒã‚ºãƒŸ (Minezumi),5,Normal,Scout PokÃ©mon,1,Normal,,0.5,11.6
+596,505,Watchog,Kukmarda,ãƒŸãƒ«ãƒ›ãƒƒã‚° (Miruhog),5,Normal,Lookout PokÃ©mon,1,Normal,,1.1,27
+597,506,Lillipup,Yorkleff,ãƒ¨ãƒ¼ãƒ†ãƒªãƒ¼ (Yorterrie),5,Normal,Puppy PokÃ©mon,1,Normal,,0.4,4.1
+598,507,Herdier,Terribark,ãƒãƒ¼ãƒ‡ãƒªã‚¢ (Herderrie),5,Normal,Loyal Dog PokÃ©mon,1,Normal,,0.9,14.7
+599,508,Stoutland,Bissbark,ãƒ ãƒ¼ãƒ©ãƒ³ãƒ‰ (Mooland),5,Normal,Big-Hearted PokÃ©mon,1,Normal,,1.2,61
+600,509,Purrloin,Felilou,ãƒãƒ§ãƒ­ãƒã‚³ (Choroneko),5,Normal,Devious PokÃ©mon,1,Dark,,0.4,10.1
+601,510,Liepard,Kleoparda,ãƒ¬ãƒ‘ãƒ«ãƒ€ã‚¹ (Lepardas),5,Normal,Cruel PokÃ©mon,1,Dark,,1.1,37.5
+602,511,Pansage,Vegimak,ãƒ¤ãƒŠãƒƒãƒ— (Yanappu),5,Normal,Grass Monkey PokÃ©mon,1,Grass,,0.6,10.5
+603,512,Simisage,Vegichita,ãƒ¤ãƒŠãƒƒã‚­ãƒ¼ (Yanakkie),5,Normal,Thorn Monkey PokÃ©mon,1,Grass,,1.1,30.5
+604,513,Pansear,Grillmak,ãƒã‚ªãƒƒãƒ— (Baoppu),5,Normal,High Temp PokÃ©mon,1,Fire,,0.6,11
+605,514,Simisear,Grillchita,ãƒã‚ªãƒƒã‚­ãƒ¼ (Baokkie),5,Normal,Ember PokÃ©mon,1,Fire,,1,28
+606,515,Panpour,Sodamak,ãƒ’ãƒ¤ãƒƒãƒ— (Hiyappu),5,Normal,Spray PokÃ©mon,1,Water,,0.6,13.5
+607,516,Simipour,Sodachita,ãƒ’ãƒ¤ãƒƒã‚­ãƒ¼ (Hiyakkie),5,Normal,Geyser PokÃ©mon,1,Water,,1,29
+608,517,Munna,Somniam,ãƒ ãƒ³ãƒŠ (Munna),5,Normal,Dream Eater PokÃ©mon,1,Psychic,,0.6,23.3
+609,518,Musharna,Somnivora,ãƒ ã‚·ãƒ£ãƒ¼ãƒŠ (Musharna),5,Normal,Drowsing PokÃ©mon,1,Psychic,,1.1,60.5
+610,519,Pidove,Dusselgurr,ãƒžãƒ¡ãƒ‘ãƒˆ (Mamepato),5,Normal,Tiny Pigeon PokÃ©mon,2,Normal,Flying,0.3,2.1
+611,520,Tranquill,Navitaub,ãƒãƒˆãƒ¼ãƒœãƒ¼ (Hatoboh),5,Normal,Wild Pigeon PokÃ©mon,2,Normal,Flying,0.6,15
+612,521,Unfezant,Fasasnob,ã‚±ãƒ³ãƒ›ãƒ­ã‚¦ (Kenhallow),5,Normal,Proud PokÃ©mon,2,Normal,Flying,1.2,29
+613,522,Blitzle,Elezeba,ã‚·ãƒžãƒž (Shimama),5,Normal,Electrified PokÃ©mon,1,Electric,,0.8,29.8
+614,523,Zebstrika,Zebritz,ã‚¼ãƒ–ãƒ©ã‚¤ã‚« (Zebraika),5,Normal,Thunderbolt PokÃ©mon,1,Electric,,1.6,79.5
+615,524,Roggenrola,Kiesling,ãƒ€ãƒ³ã‚´ãƒ­ (Dangoro),5,Normal,Mantle PokÃ©mon,1,Rock,,0.4,18
+616,525,Boldore,Sedimantur,ã‚¬ãƒ³ãƒˆãƒ« (Gantle),5,Normal,Ore PokÃ©mon,1,Rock,,0.9,102
+617,526,Gigalith,Brockoloss,ã‚®ã‚¬ã‚¤ã‚¢ã‚¹ (Gigaiath),5,Normal,Compressed PokÃ©mon,1,Rock,,1.7,260
+618,527,Woobat,Fleknoil,ã‚³ãƒ­ãƒ¢ãƒª (Koromori),5,Normal,Bat PokÃ©mon,2,Psychic,Flying,0.4,2.1
+619,528,Swoobat,Fletiamo,ã‚³ã‚³ãƒ­ãƒ¢ãƒª (Kokoromori),5,Normal,Courting PokÃ©mon,2,Psychic,Flying,0.9,10.5
+620,529,Drilbur,Rotomurf,ãƒ¢ã‚°ãƒªãƒ¥ãƒ¼ (Mogurew),5,Normal,Mole PokÃ©mon,1,Ground,,0.3,8.5
+621,530,Excadrill,Stalobor,ãƒ‰ãƒªãƒ¥ã‚¦ã‚º (Doryuzu),5,Normal,Subterrene PokÃ©mon,2,Ground,Steel,0.7,40.4
+622,531,Audino,Ohrdoch,ã‚¿ãƒ–ãƒ³ãƒ (Tabunne),5,Normal,Hearing PokÃ©mon,1,Normal,,1.1,31
+623,531,Mega Audino,Ohrdoch,ã‚¿ãƒ–ãƒ³ãƒ (Tabunne),5,Normal,Hearing PokÃ©mon,2,Normal,Fairy,1.5,32
+624,532,Timburr,Praktibalk,ãƒ‰ãƒƒã‚³ãƒ©ãƒ¼ (Dokkorer),5,Normal,Muscular PokÃ©mon,1,Fighting,,0.6,12.5
+625,533,Gurdurr,Strepoli,ãƒ‰ãƒ†ãƒƒã‚³ãƒ„ (Dotekkotsu),5,Normal,Muscular PokÃ©mon,1,Fighting,,1.2,40
+626,534,Conkeldurr,Meistagrif,ãƒ­ãƒ¼ãƒ–ã‚·ãƒ³ (Roubushin),5,Normal,Muscular PokÃ©mon,1,Fighting,,1.4,87
+627,535,Tympole,Schallquap,ã‚ªã‚¿ãƒžãƒ­ (Otamaro),5,Normal,Tadpole PokÃ©mon,1,Water,,0.5,4.5
+628,536,Palpitoad,Mebrana,ã‚¬ãƒžã‚¬ãƒ« (Gamagaru),5,Normal,Vibration PokÃ©mon,2,Water,Ground,0.8,17
+629,537,Seismitoad,Branawarz,ã‚¬ãƒžã‚²ãƒ­ã‚² (Gamageroge),5,Normal,Vibration PokÃ©mon,2,Water,Ground,1.5,62
+630,538,Throh,Jiutesto,ãƒŠã‚²ã‚­ (Nageki),5,Normal,Judo PokÃ©mon,1,Fighting,,1.3,55.5
+631,539,Sawk,Karadonis,ãƒ€ã‚²ã‚­ (Dageki),5,Normal,Karate PokÃ©mon,1,Fighting,,1.4,51
+632,540,Sewaddle,Strawickl,ã‚¯ãƒ«ãƒŸãƒ« (Kurumiru),5,Normal,Sewing PokÃ©mon,2,Bug,Grass,0.3,2.5
+633,541,Swadloon,Folikon,ã‚¯ãƒ«ãƒžãƒ¦ (Kurumayu),5,Normal,Leaf-Wrapped PokÃ©mon,2,Bug,Grass,0.5,7.3
+634,542,Leavanny,Matrifol,ãƒãƒã‚³ãƒ¢ãƒª (Hahakomori),5,Normal,Nurturing PokÃ©mon,2,Bug,Grass,1.2,20.5
+635,543,Venipede,Toxiped,ãƒ•ã‚·ãƒ‡ (Fushide),5,Normal,Centipede PokÃ©mon,2,Bug,Poison,0.4,5.3
+636,544,Whirlipede,Rollum,ãƒ›ã‚¤ãƒ¼ã‚¬ (Wheega),5,Normal,Curlipede PokÃ©mon,2,Bug,Poison,1.2,58.5
+637,545,Scolipede,Cerapendra,ãƒšãƒ³ãƒ‰ãƒ©ãƒ¼ (Pendror),5,Normal,Megapede PokÃ©mon,2,Bug,Poison,2.5,200.5
+638,546,Cottonee,Waumboll,ãƒ¢ãƒ³ãƒ¡ãƒ³ (Monmen),5,Normal,Cotton Puff PokÃ©mon,2,Grass,Fairy,0.3,0.6
+639,547,Whimsicott,Elfun,ã‚¨ãƒ«ãƒ•ãƒ¼ãƒ³ (Elfuun),5,Normal,Windveiled PokÃ©mon,2,Grass,Fairy,0.7,6.6
+640,548,Petilil,Lilminip,ãƒãƒ¥ãƒªãƒ (Churine),5,Normal,Bulb PokÃ©mon,1,Grass,,0.5,6.6
+641,549,Lilligant,Dressella,ãƒ‰ãƒ¬ãƒ‡ã‚£ã‚¢ (Dredear),5,Normal,Flowering PokÃ©mon,1,Grass,,1.1,16.3
+642,550,Basculin Red-Striped Form,Barschuft,ãƒã‚¹ãƒ©ã‚ª (Bassrao),5,Normal,Hostile PokÃ©mon,1,Water,,1,18
+643,550,Basculin Blue-Striped Form,Barschuft,ãƒã‚¹ãƒ©ã‚ª (Bassrao),5,Normal,Hostile PokÃ©mon,1,Water,,1,18
+644,551,Sandile,Ganovil,ãƒ¡ã‚°ãƒ­ã‚³ (Meguroco),5,Normal,Desert Croc PokÃ©mon,2,Ground,Dark,0.7,15.2
+645,552,Krokorok,Rokkaiman,ãƒ¯ãƒ«ãƒ“ãƒ« (Waruvile),5,Normal,Desert Croc PokÃ©mon,2,Ground,Dark,1,33.4
+646,553,Krookodile,Rabigator,ãƒ¯ãƒ«ãƒ“ã‚¢ãƒ« (Waruvial),5,Normal,Intimidation PokÃ©mon,2,Ground,Dark,1.5,96.3
+647,554,Darumaka,Flampion,ãƒ€ãƒ«ãƒžãƒƒã‚« (Darumakka),5,Normal,Zen Charm PokÃ©mon,1,Fire,,0.6,37.5
+648,554,Galarian Darumaka,Flampion,ãƒ€ãƒ«ãƒžãƒƒã‚« (Darumakka),5,Normal,Zen Charm PokÃ©mon,1,Ice,,0.7,40
+649,555,Darmanitan Standard Mode,Flampivian,ãƒ’ãƒ’ãƒ€ãƒ«ãƒž (Hihidaruma),5,Normal,Blazing PokÃ©mon,1,Fire,,1.3,92.9
+650,555,Darmanitan Zen Mode,Flampivian,ãƒ’ãƒ’ãƒ€ãƒ«ãƒž (Hihidaruma),5,Normal,Blazing PokÃ©mon,2,Fire,Psychic,1.3,92.9
+651,555,Darmanitan Galarian Standard Mode,Flampivian,ãƒ’ãƒ’ãƒ€ãƒ«ãƒž (Hihidaruma),5,Normal,Zen Charm PokÃ©mon,1,Ice,,1.7,120
+652,555,Darmanitan Galarian Zen Mode,Flampivian,ãƒ’ãƒ’ãƒ€ãƒ«ãƒž (Hihidaruma),5,Normal,Zen Charm PokÃ©mon,2,Ice,Fire,1.7,120
+653,556,Maractus,Maracamba,ãƒžãƒ©ã‚«ãƒƒãƒ (Maracacchi),5,Normal,Cactus PokÃ©mon,1,Grass,,1,28
+654,557,Dwebble,Lithomith,ã‚¤ã‚·ã‚ºãƒžã‚¤ (Ishizumai),5,Normal,Rock Inn PokÃ©mon,2,Bug,Rock,0.3,14.5
+655,558,Crustle,Castellith,ã‚¤ãƒ¯ãƒ‘ãƒ¬ã‚¹ (Iwapalace),5,Normal,Stone Home PokÃ©mon,2,Bug,Rock,1.4,200
+656,559,Scraggy,Zurrokex,ã‚ºãƒ«ãƒƒã‚° (Zuruggu),5,Normal,Shedding PokÃ©mon,2,Dark,Fighting,0.6,11.8
+657,560,Scrafty,Irokex,ã‚ºãƒ«ã‚ºã‚­ãƒ³ (Zuruzukin),5,Normal,Hoodlum PokÃ©mon,2,Dark,Fighting,1.1,30
+658,561,Sigilyph,Symvolara,ã‚·ãƒ³ãƒœãƒ©ãƒ¼ (Symboler),5,Normal,Avianoid PokÃ©mon,2,Psychic,Flying,1.4,14
+659,562,Yamask,Makabaja,ãƒ‡ã‚¹ãƒžã‚¹ (Desumasu),5,Normal,Spirit PokÃ©mon,1,Ghost,,0.5,1.5
+660,562,Galarian Yamask,Makabaja,ãƒ‡ã‚¹ãƒžã‚¹ (Desumasu),5,Normal,Spirit PokÃ©mon,2,Ground,Ghost,0.5,1.5
+661,563,Cofagrigus,Echnatoll,ãƒ‡ã‚¹ã‚«ãƒ¼ãƒ³ (Desukarn),5,Normal,Coffin PokÃ©mon,1,Ghost,,1.7,76.5
+662,564,Tirtouga,Galapaflos,ãƒ—ãƒ­ãƒˆãƒ¼ã‚¬ (Protoga),5,Normal,Prototurtle PokÃ©mon,2,Water,Rock,0.7,16.5
+663,565,Carracosta,Karippas,ã‚¢ãƒã‚´ãƒ¼ãƒ© (Abagoura),5,Normal,Prototurtle PokÃ©mon,2,Water,Rock,1.2,81
+664,566,Archen,Flapteryx,ã‚¢ãƒ¼ã‚±ãƒ³ (Archen),5,Normal,First Bird PokÃ©mon,2,Rock,Flying,0.5,9.5
+665,567,Archeops,Aeropteryx,ã‚¢ãƒ¼ã‚±ã‚ªã‚¹ (Archeos),5,Normal,First Bird PokÃ©mon,2,Rock,Flying,1.4,32
+666,568,Trubbish,UnratÃ¼tox,ãƒ¤ãƒ–ã‚¯ãƒ­ãƒ³ (Yabukuron),5,Normal,Trash Bag PokÃ©mon,1,Poison,,0.6,31
+667,569,Garbodor,Deponitox,ãƒ€ã‚¹ãƒˆãƒ€ã‚¹ (Dustdas),5,Normal,Trash Heap PokÃ©mon,1,Poison,,1.9,107.3
+668,570,Zorua,Zorua,ã‚¾ãƒ­ã‚¢ (Zorua),5,Normal,Tricky Fox PokÃ©mon,1,Dark,,0.7,12.5
+669,571,Zoroark,Zoroark,ã‚¾ãƒ­ã‚¢ãƒ¼ã‚¯ (Zoroark),5,Normal,Illusion Fox PokÃ©mon,1,Dark,,1.6,81.1
+670,572,Minccino,Picochilla,ãƒãƒ©ãƒ¼ãƒŸã‚£ (Chillarmy),5,Normal,Chinchilla PokÃ©mon,1,Normal,,0.4,5.8
+671,573,Cinccino,Chillabell,ãƒãƒ©ãƒãƒ¼ãƒŽ (Chillaccino),5,Normal,Scarf PokÃ©mon,1,Normal,,0.5,7.5
+672,574,Gothita,Mollimorba,ã‚´ãƒãƒ  (Gothimu),5,Normal,Fixation PokÃ©mon,1,Psychic,,0.4,5.8
+673,575,Gothorita,Hypnomorba,ã‚´ãƒãƒŸãƒ« (Gothimiru),5,Normal,Manipulate PokÃ©mon,1,Psychic,,0.7,18
+674,576,Gothitelle,Morbitesse,ã‚´ãƒãƒ«ã‚¼ãƒ« (Gothiruselle),5,Normal,Astral Body PokÃ©mon,1,Psychic,,1.5,44
+675,577,Solosis,Monozyto,ãƒ¦ãƒ‹ãƒ©ãƒ³ (Uniran),5,Normal,Cell PokÃ©mon,1,Psychic,,0.3,1
+676,578,Duosion,Mitodos,ãƒ€ãƒ–ãƒ©ãƒ³ (Doublan),5,Normal,Mitosis PokÃ©mon,1,Psychic,,0.6,8
+677,579,Reuniclus,Zytomega,ãƒ©ãƒ³ã‚¯ãƒ«ã‚¹ (Lanculus),5,Normal,Multiplying PokÃ©mon,1,Psychic,,1,20.1
+678,580,Ducklett,Piccolente,ã‚³ã‚¢ãƒ«ãƒ’ãƒ¼ (Koaruhie),5,Normal,Water Bird PokÃ©mon,2,Water,Flying,0.5,5.5
+679,581,Swanna,Swaroness,ã‚¹ãƒ¯ãƒ³ãƒŠ (Swanna),5,Normal,White Bird PokÃ©mon,2,Water,Flying,1.3,24.2
+680,582,Vanillite,Gelatini,ãƒãƒ‹ãƒ—ãƒƒãƒ (Vanipeti),5,Normal,Fresh Snow PokÃ©mon,1,Ice,,0.4,5.7
+681,583,Vanillish,Gelatroppo,ãƒãƒ‹ãƒªãƒƒãƒ (Vanirich),5,Normal,Icy Snow PokÃ©mon,1,Ice,,1.1,41
+682,584,Vanilluxe,Gelatwino,ãƒã‚¤ãƒãƒ‹ãƒ© (Baivanilla),5,Normal,Snowstorm PokÃ©mon,1,Ice,,1.3,57.5
+683,585,Deerling,Sesokitz,ã‚·ã‚­ã‚¸ã‚« (Shikijika),5,Normal,Season PokÃ©mon,2,Normal,Grass,0.6,19.5
+684,586,Sawsbuck,Kronjuwild,ãƒ¡ãƒ–ã‚­ã‚¸ã‚« (Mebukijika),5,Normal,Season PokÃ©mon,2,Normal,Grass,1.9,92.5
+685,587,Emolga,Emolga,ã‚¨ãƒ¢ãƒ³ã‚¬ (Emonga),5,Normal,Sky Squirrel PokÃ©mon,2,Electric,Flying,0.4,5
+686,588,Karrablast,Laukaps,ã‚«ãƒ–ãƒ«ãƒ¢ (Kaburumo),5,Normal,Clamping PokÃ©mon,1,Bug,,0.5,5.9
+687,589,Escavalier,Cavalanzas,ã‚·ãƒ¥ãƒãƒ«ã‚´ (Chevargo),5,Normal,Cavalry PokÃ©mon,2,Bug,Steel,1,33
+688,590,Foongus,Tarnpignon,ã‚¿ãƒžã‚²ã‚¿ã‚± (Tamagetake),5,Normal,Mushroom PokÃ©mon,2,Grass,Poison,0.2,1
+689,591,Amoonguss,Hutsassa,ãƒ¢ãƒ­ãƒãƒ¬ãƒ« (Morobareru),5,Normal,Mushroom PokÃ©mon,2,Grass,Poison,0.6,10.5
+690,592,Frillish,Quabbel,ãƒ—ãƒ«ãƒªãƒ« (Pururill),5,Normal,Floating PokÃ©mon,2,Water,Ghost,1.2,33
+691,593,Jellicent,Apoquallyp,ãƒ–ãƒ«ãƒ³ã‚²ãƒ« (Burungel),5,Normal,Floating PokÃ©mon,2,Water,Ghost,2.2,135
+692,594,Alomomola,Mamolida,ãƒžãƒžãƒ³ãƒœã‚¦ (Mamanbou),5,Normal,Caring PokÃ©mon,1,Water,,1.2,31.6
+693,595,Joltik,Wattzapf,ãƒãƒãƒ¥ãƒ« (Bachuru),5,Normal,Attaching PokÃ©mon,2,Bug,Electric,0.1,0.6
+694,596,Galvantula,Voltula,ãƒ‡ãƒ³ãƒãƒ¥ãƒ© (Dentula),5,Normal,EleSpider PokÃ©mon,2,Bug,Electric,0.8,14.3
+695,597,Ferroseed,Kastadur,ãƒ†ãƒƒã‚·ãƒ¼ãƒ‰ (Tesseed),5,Normal,Thorn Seed PokÃ©mon,2,Grass,Steel,0.6,18.8
+696,598,Ferrothorn,Tentantel,ãƒŠãƒƒãƒˆãƒ¬ã‚¤ (Nutrey),5,Normal,Thorn Pod PokÃ©mon,2,Grass,Steel,1,110
+697,599,Klink,Klikk,ã‚®ã‚¢ãƒ« (Giaru),5,Normal,Gear PokÃ©mon,1,Steel,,0.3,21
+698,600,Klang,Kliklak,ã‚®ã‚®ã‚¢ãƒ« (Gigiaru),5,Normal,Gear PokÃ©mon,1,Steel,,0.6,51
+699,601,Klinklang,Klikdiklak,ã‚®ã‚®ã‚®ã‚¢ãƒ« (Gigigiaru),5,Normal,Gear PokÃ©mon,1,Steel,,0.6,81
+700,602,Tynamo,Zapplardin,ã‚·ãƒ“ã‚·ãƒ©ã‚¹ (Shibishirasu),5,Normal,EleFish PokÃ©mon,1,Electric,,0.2,0.3
+701,603,Eelektrik,Zapplalek,ã‚·ãƒ“ãƒ“ãƒ¼ãƒ« (Shibibeel),5,Normal,EleFish PokÃ©mon,1,Electric,,1.2,22
+702,604,Eelektross,Zapplarang,ã‚·ãƒ“ãƒ«ãƒ‰ãƒ³ (Shibirudon),5,Normal,EleFish PokÃ©mon,1,Electric,,2.1,80.5
+703,605,Elgyem,Pygraulon,ãƒªã‚°ãƒ¬ãƒ¼ (Ligray),5,Normal,Cerebral PokÃ©mon,1,Psychic,,0.5,9
+704,606,Beheeyem,Megalon,ã‚ªãƒ¼ãƒ™ãƒ  (Ohbem),5,Normal,Cerebral PokÃ©mon,1,Psychic,,1,34.5
+705,607,Litwick,Lichtel,ãƒ’ãƒˆãƒ¢ã‚· (Hitomoshi),5,Normal,Candle PokÃ©mon,2,Ghost,Fire,0.3,3.1
+706,608,Lampent,Laternecto,ãƒ©ãƒ³ãƒ—ãƒ©ãƒ¼ (Lampler),5,Normal,Lamp PokÃ©mon,2,Ghost,Fire,0.6,13
+707,609,Chandelure,Skelabra,ã‚·ãƒ£ãƒ³ãƒ‡ãƒ© (Chandela),5,Normal,Luring PokÃ©mon,2,Ghost,Fire,1,34.3
+708,610,Axew,Milza,ã‚­ãƒã‚´ (Kibago),5,Normal,Tusk PokÃ©mon,1,Dragon,,0.6,18
+709,611,Fraxure,Sharfax,ã‚ªãƒŽãƒ³ãƒ‰ (Onondo),5,Normal,Axe Jaw PokÃ©mon,1,Dragon,,1,36
+710,612,Haxorus,Maxax,ã‚ªãƒŽãƒŽã‚¯ã‚¹ (Ononokus),5,Normal,Axe Jaw PokÃ©mon,1,Dragon,,1.8,105.5
+711,613,Cubchoo,Petznief,ã‚¯ãƒžã‚·ãƒ¥ãƒ³ (Kumasyun),5,Normal,Chill PokÃ©mon,1,Ice,,0.5,8.5
+712,614,Beartic,Siberio,ãƒ„ãƒ³ãƒ™ã‚¢ãƒ¼ (Tunbear),5,Normal,Freezing PokÃ©mon,1,Ice,,2.6,260
+713,615,Cryogonal,Frigometri,ãƒ•ãƒªãƒ¼ã‚¸ã‚ª (Freegeo),5,Normal,Crystallizing PokÃ©mon,1,Ice,,1.1,148
+714,616,Shelmet,Schnuthelm,ãƒãƒ§ãƒœãƒžã‚­ (Chobomaki),5,Normal,Snail PokÃ©mon,1,Bug,,0.4,7.7
+715,617,Accelgor,Hydragil,ã‚¢ã‚®ãƒ«ãƒ€ãƒ¼ (Agilder),5,Normal,Shell Out PokÃ©mon,1,Bug,,0.8,25.3
+716,618,Stunfisk,Flunschlik,ãƒžãƒƒã‚®ãƒ§ (Maggyo),5,Normal,Trap PokÃ©mon,2,Ground,Electric,0.7,11
+717,618,Galarian Stunfisk,Flunschlik,ãƒžãƒƒã‚®ãƒ§ (Maggyo),5,Normal,Trap PokÃ©mon,2,Ground,Steel,0.7,20.5
+718,619,Mienfoo,Lin-Fu,ã‚³ã‚¸ãƒ§ãƒ•ãƒ¼ (Kojofu),5,Normal,Martial Arts PokÃ©mon,1,Fighting,,0.9,20
+719,620,Mienshao,Wie-Shu,ã‚³ã‚¸ãƒ§ãƒ³ãƒ‰ (Kojondo),5,Normal,Martial Arts PokÃ©mon,1,Fighting,,1.4,35.5
+720,621,Druddigon,Shardrago,ã‚¯ãƒªãƒ ã‚¬ãƒ³ (Crimgan),5,Normal,Cave PokÃ©mon,1,Dragon,,1.6,139
+721,622,Golett,Golbit,ã‚´ãƒ“ãƒƒãƒˆ (Gobit),5,Normal,Automaton PokÃ©mon,2,Ground,Ghost,1,92
+722,623,Golurk,Golgantes,ã‚´ãƒ«ãƒ¼ã‚° (Goloog),5,Normal,Automaton PokÃ©mon,2,Ground,Ghost,2.8,330
+723,624,Pawniard,Gladiantri,ã‚³ãƒžã‚¿ãƒŠ (Komatana),5,Normal,Sharp Blade PokÃ©mon,2,Dark,Steel,0.5,10.2
+724,625,Bisharp,Caesurio,ã‚­ãƒªã‚­ã‚¶ãƒ³ (Kirikizan),5,Normal,Sword Blade PokÃ©mon,2,Dark,Steel,1.6,70
+725,626,Bouffalant,Bisofank,ãƒãƒƒãƒ•ãƒ­ãƒ³ (Buffron),5,Normal,Bash Buffalo PokÃ©mon,1,Normal,,1.6,94.6
+726,627,Rufflet,Geronimatz,ãƒ¯ã‚·ãƒœãƒ³ (Washibon),5,Normal,Eaglet PokÃ©mon,2,Normal,Flying,0.5,10.5
+727,628,Braviary,Washakwil,ã‚¦ã‚©ãƒ¼ã‚°ãƒ« (Warrgle),5,Normal,Valiant PokÃ©mon,2,Normal,Flying,1.5,41
+728,629,Vullaby,Skallyk,ãƒãƒ«ãƒãƒ£ã‚¤ (Valchai),5,Normal,Diapered PokÃ©mon,2,Dark,Flying,0.5,9
+729,630,Mandibuzz,Grypheldis,ãƒãƒ«ã‚¸ãƒ¼ãƒŠ (Vulgina),5,Normal,Bone Vulture PokÃ©mon,2,Dark,Flying,1.2,39.5
+730,631,Heatmor,FurnifraÃŸ,ã‚¯ã‚¤ã‚¿ãƒ©ãƒ³ (Kuitaran),5,Normal,Anteater PokÃ©mon,1,Fire,,1.4,58
+731,632,Durant,Fermicula,ã‚¢ã‚¤ã‚¢ãƒ³ãƒˆ (Aiant),5,Normal,Iron Ant PokÃ©mon,2,Bug,Steel,0.3,33
+732,633,Deino,Kapuno,ãƒ¢ãƒŽã‚º (Monozu),5,Normal,Irate PokÃ©mon,2,Dark,Dragon,0.8,17.3
+733,634,Zweilous,Duodino,ã‚¸ãƒ˜ãƒƒãƒ‰ (Dihead),5,Normal,Hostile PokÃ©mon,2,Dark,Dragon,1.4,50
+734,635,Hydreigon,Trikephalo,ã‚µã‚¶ãƒ³ãƒ‰ãƒ© (Sazandora),5,Normal,Brutal PokÃ©mon,2,Dark,Dragon,1.8,160
+735,636,Larvesta,Ignivor,ãƒ¡ãƒ©ãƒ«ãƒ (Merlarva),5,Normal,Torch PokÃ©mon,2,Bug,Fire,1.1,28.8
+736,637,Volcarona,Ramoth,ã‚¦ãƒ«ã‚¬ãƒ¢ã‚¹ (Ulgamoth),5,Normal,Sun PokÃ©mon,2,Bug,Fire,1.6,46
+737,638,Cobalion,Kobalium,ã‚³ãƒãƒ«ã‚ªãƒ³ (Cobalon),5,Sub Legendary,Iron Will PokÃ©mon,2,Steel,Fighting,2.1,250
+738,639,Terrakion,Terrakium,ãƒ†ãƒ©ã‚­ã‚ªãƒ³ (Terrakion),5,Sub Legendary,Cavern PokÃ©mon,2,Rock,Fighting,1.9,260
+739,640,Virizion,Viridium,ãƒ“ãƒªã‚¸ã‚ªãƒ³ (Virizion),5,Sub Legendary,Grassland PokÃ©mon,2,Grass,Fighting,2,200
+740,641,Tornadus Incarnate Forme,Boreos,ãƒˆãƒ«ãƒãƒ­ã‚¹ (Tornelos),5,Sub Legendary,Cyclone PokÃ©mon,1,Flying,,1.5,63
+741,641,Tornadus Therian Forme,Boreos,ãƒˆãƒ«ãƒãƒ­ã‚¹ (Tornelos),5,Sub Legendary,Cyclone PokÃ©mon,1,Flying,,1.4,63
+742,642,Thundurus Incarnate Forme,Voltolos,ãƒœãƒ«ãƒˆãƒ­ã‚¹ (Voltolos),5,Sub Legendary,Bolt Strike PokÃ©mon,2,Electric,Flying,1.5,61
+743,642,Thundurus Therian Forme,Voltolos,ãƒœãƒ«ãƒˆãƒ­ã‚¹ (Voltolos),5,Sub Legendary,Bolt Strike PokÃ©mon,2,Electric,Flying,3,61
+744,643,Reshiram,Reshiram,ãƒ¬ã‚·ãƒ©ãƒ  (Reshiram),5,Legendary,Vast White PokÃ©mon,2,Dragon,Fire,3.2,330
+745,644,Zekrom,Zekrom,ã‚¼ã‚¯ãƒ­ãƒ  (Zekrom),5,Legendary,Deep Black PokÃ©mon,2,Dragon,Electric,2.9,345
+746,645,Landorus Incarnate Forme,Demeteros,ãƒ©ãƒ³ãƒ‰ãƒ­ã‚¹ (Landlos),5,Sub Legendary,Abundance PokÃ©mon,2,Ground,Flying,1.5,68
+747,645,Landorus Therian Forme,Demeteros,ãƒ©ãƒ³ãƒ‰ãƒ­ã‚¹ (Landlos),5,Sub Legendary,Abundance PokÃ©mon,2,Ground,Flying,1.3,68
+748,646,Kyurem,Kyurem,ã‚­ãƒ¥ãƒ¬ãƒ  (Kyurem),5,Legendary,Boundary PokÃ©mon,2,Dragon,Ice,3,325
+749,646,Black Kyurem,Kyurem,ã‚­ãƒ¥ãƒ¬ãƒ  (Kyurem),5,Legendary,Boundary PokÃ©mon,2,Dragon,Ice,3.3,325
+750,646,White Kyurem,Kyurem,ã‚­ãƒ¥ãƒ¬ãƒ  (Kyurem),5,Legendary,Boundary PokÃ©mon,2,Dragon,Ice,3.6,325
+751,647,Keldeo Ordinary Forme,Keldeo,ã‚±ãƒ«ãƒ‡ã‚£ã‚ª (Keldeo),5,Mythical,Colt PokÃ©mon,2,Water,Fighting,1.4,48.5
+752,647,Keldeo Resolute Forme,Keldeo,ã‚±ãƒ«ãƒ‡ã‚£ã‚ª (Keldeo),5,Mythical,Colt PokÃ©mon,2,Water,Fighting,1.4,48.5
+753,648,Meloetta Aria Forme,Meloetta,ãƒ¡ãƒ­ã‚¨ãƒƒã‚¿ (Meloetta),5,Mythical,Melody PokÃ©mon,2,Normal,Psychic,0.6,6.5
+754,648,Meloetta Pirouette Forme,Meloetta,ãƒ¡ãƒ­ã‚¨ãƒƒã‚¿ (Meloetta),5,Mythical,Melody PokÃ©mon,2,Normal,Fighting,0.6,6.5
+755,649,Genesect,Genesect,ã‚²ãƒŽã‚»ã‚¯ãƒˆ (Genesect),5,Mythical,Paleozoic PokÃ©mon,2,Bug,Steel,1.5,82.5
+756,650,Chespin,Igamaro,ãƒãƒªãƒžãƒ­ãƒ³ (Harimaron),6,Normal,Spiny Nut PokÃ©mon,1,Grass,,0.4,9
+757,651,Quilladin,Igastarnish,ãƒãƒªãƒœãƒ¼ã‚° (Hariborg),6,Normal,Spiny Armor PokÃ©mon,1,Grass,,0.7,29
+758,652,Chesnaught,Brigaron,ãƒ–ãƒªã‚¬ãƒ­ãƒ³ (Brigarron),6,Normal,Spiny Armor PokÃ©mon,2,Grass,Fighting,1.6,90
+759,653,Fennekin,Fynx,ãƒ•ã‚©ãƒƒã‚³ (Fokko),6,Normal,Fox PokÃ©mon,1,Fire,,0.4,9.4
+760,654,Braixen,Rutena,ãƒ†ãƒ¼ãƒ«ãƒŠãƒ¼ (Tairenar),6,Normal,Fox PokÃ©mon,1,Fire,,1,14.5
+761,655,Delphox,Fennexis,ãƒžãƒ•ã‚©ã‚¯ã‚·ãƒ¼ (Mahoxy),6,Normal,Fox PokÃ©mon,2,Fire,Psychic,1.5,39
+762,656,Froakie,Froxy,ã‚±ãƒ­ãƒžãƒ„ (Keromatsu),6,Normal,Bubble Frog PokÃ©mon,1,Water,,0.3,7
+763,657,Frogadier,Amphizel,ã‚²ã‚³ã‚¬ã‚·ãƒ© (Gekogashira),6,Normal,Bubble Frog PokÃ©mon,1,Water,,0.6,10.9
+764,658,Greninja,Quajutsu,ã‚²ãƒƒã‚³ã‚¦ã‚¬ (Gekkouga),6,Normal,Ninja PokÃ©mon,2,Water,Dark,1.5,40
+765,658,Ash-Greninja,Quajutsu,ã‚²ãƒƒã‚³ã‚¦ã‚¬ (Gekkouga),6,Normal,Ninja PokÃ©mon,2,Water,Dark,1.5,40
+766,659,Bunnelby,Scoppel,ãƒ›ãƒ«ãƒ“ãƒ¼ (Horubee),6,Normal,Digging PokÃ©mon,1,Normal,,0.4,5
+767,660,Diggersby,Grebbit,ãƒ›ãƒ«ãƒ¼ãƒ‰ (Horudo),6,Normal,Digging PokÃ©mon,2,Normal,Ground,1,42.4
+768,661,Fletchling,Dartiri,ãƒ¤ãƒ¤ã‚³ãƒž (Yayakoma),6,Normal,Tiny Robin PokÃ©mon,2,Normal,Flying,0.3,1.7
+769,662,Fletchinder,Dartignis,ãƒ’ãƒŽãƒ¤ã‚³ãƒž (Hinoyakoma),6,Normal,Ember PokÃ©mon,2,Fire,Flying,0.7,16
+770,663,Talonflame,Fiaro,ãƒ•ã‚¡ã‚¤ã‚¢ãƒ­ãƒ¼ (Fiarrow),6,Normal,Scorching PokÃ©mon,2,Fire,Flying,1.2,24.5
+771,664,Scatterbug,Purmel,ã‚³ãƒ•ã‚­ãƒ ã‚· (Kofukimushi),6,Normal,Scatterdust PokÃ©mon,1,Bug,,0.3,2.5
+772,665,Spewpa,Puponcho,ã‚³ãƒ•ãƒ¼ãƒ©ã‚¤ (Kofuurai),6,Normal,Scatterdust PokÃ©mon,1,Bug,,0.3,8.4
+773,666,Vivillon,Vivillon,ãƒ“ãƒ“ãƒ¨ãƒ³ (Viviyon),6,Normal,Scale PokÃ©mon,2,Bug,Flying,1.2,17
+774,667,Litleo,Leufeo,ã‚·ã‚·ã‚³ (Shishiko),6,Normal,Lion Cub PokÃ©mon,2,Fire,Normal,0.6,13.5
+775,668,Pyroar,Pyroleo,ã‚«ã‚¨ãƒ³ã‚¸ã‚· (Kaenjishi),6,Normal,Royal PokÃ©mon,2,Fire,Normal,1.5,81.5
+776,669,FlabÃ©bÃ©,FlabÃ©bÃ©,ãƒ•ãƒ©ãƒ™ãƒ™ (Flabebe),6,Normal,Single Bloom PokÃ©mon,1,Fairy,,0.1,0.1
+777,670,Floette,Floette,ãƒ•ãƒ©ã‚¨ãƒƒãƒ† (Floette),6,Normal,Single Bloom PokÃ©mon,1,Fairy,,0.2,0.9
+778,671,Florges,Florges,ãƒ•ãƒ©ãƒ¼ã‚¸ã‚§ã‚¹ (Florges),6,Normal,Garden PokÃ©mon,1,Fairy,,1.1,10
+779,672,Skiddo,MÃ¤hikel,ãƒ¡ã‚§ãƒ¼ã‚¯ãƒ« (Meecle),6,Normal,Mount PokÃ©mon,1,Grass,,0.9,31
+780,673,Gogoat,Chevrumm,ã‚´ãƒ¼ã‚´ãƒ¼ãƒˆ (Gogoat),6,Normal,Mount PokÃ©mon,1,Grass,,1.7,91
+781,674,Pancham,Pam-Pam,ãƒ¤ãƒ³ãƒãƒ£ãƒ  (Yancham),6,Normal,Playful PokÃ©mon,1,Fighting,,0.6,8
+782,675,Pangoro,Pandagro,ã‚´ãƒ­ãƒ³ãƒ€ (Goronda),6,Normal,Daunting PokÃ©mon,2,Fighting,Dark,2.1,136
+783,676,Furfrou,Coiffwaff,ãƒˆãƒªãƒŸã‚¢ãƒ³ (Trimmien),6,Normal,Poodle PokÃ©mon,1,Normal,,1.2,28
+784,677,Espurr,Psiau,ãƒ‹ãƒ£ã‚¹ãƒ‘ãƒ¼ (Nyasper),6,Normal,Restraint PokÃ©mon,1,Psychic,,0.3,3.5
+785,678,Meowstic Male,Psiaugon,ãƒ‹ãƒ£ã‚ªãƒ‹ã‚¯ã‚¹ (Nyaonix),6,Normal,Constraint PokÃ©mon,1,Psychic,,0.6,8.5
+786,678,Meowstic Female,Psiaugon,ãƒ‹ãƒ£ã‚ªãƒ‹ã‚¯ã‚¹ (Nyaonix),6,Normal,Constraint PokÃ©mon,1,Psychic,,0.6,8.5
+787,679,Honedge,Gramokles,ãƒ’ãƒˆãƒ„ã‚­ (Hitotsuki),6,Normal,Sword PokÃ©mon,2,Steel,Ghost,0.8,2
+788,680,Doublade,Duokles,ãƒ‹ãƒ€ãƒ³ã‚®ãƒ« (Nidangill),6,Normal,Sword PokÃ©mon,2,Steel,Ghost,0.8,4.5
+789,681,Aegislash Blade Forme,Durengard,ã‚®ãƒ«ã‚¬ãƒ«ãƒ‰ (Gillgard),6,Normal,Royal Sword PokÃ©mon,2,Steel,Ghost,1.7,53
+790,681,Aegislash Shield Forme,Durengard,ã‚®ãƒ«ã‚¬ãƒ«ãƒ‰ (Gillgard),6,Normal,Royal Sword PokÃ©mon,2,Steel,Ghost,1.7,53
+791,682,Spritzee,Parfi,ã‚·ãƒ¥ã‚·ãƒ¥ãƒ— (Shushupu),6,Normal,Perfume PokÃ©mon,1,Fairy,,0.2,0.5
+792,683,Aromatisse,Parfinesse,ãƒ•ãƒ¬ãƒ•ãƒ¯ãƒ³ (Frefuwan),6,Normal,Fragrance PokÃ©mon,1,Fairy,,0.8,15.5
+793,684,Swirlix,Flauschling,ãƒšãƒ­ãƒƒãƒ‘ãƒ• (Peroppafu),6,Normal,Cotton Candy PokÃ©mon,1,Fairy,,0.4,3.5
+794,685,Slurpuff,Sabbaione,ãƒšãƒ­ãƒªãƒ¼ãƒ  (Peroream),6,Normal,Meringue PokÃ©mon,1,Fairy,,0.8,5
+795,686,Inkay,Iscalar,ãƒžãƒ¼ã‚¤ãƒ¼ã‚« (Maaiika),6,Normal,Revolving PokÃ©mon,2,Dark,Psychic,0.4,3.5
+796,687,Malamar,Calamanero,ã‚«ãƒ©ãƒžãƒãƒ­ (Calamanero),6,Normal,Overturning PokÃ©mon,2,Dark,Psychic,1.5,47
+797,688,Binacle,Bithora,ã‚«ãƒ¡ãƒ†ãƒ† (Kametete),6,Normal,Two-Handed PokÃ©mon,2,Rock,Water,0.5,31
+798,689,Barbaracle,Thanathora,ã‚¬ãƒ¡ãƒŽãƒ‡ã‚¹ (Gamenodes),6,Normal,Collective PokÃ©mon,2,Rock,Water,1.3,96
+799,690,Skrelp,Algitt,ã‚¯ã‚ºãƒ¢ãƒ¼ (Kuzumo),6,Normal,Mock Kelp PokÃ©mon,2,Poison,Water,0.5,7.3
+800,691,Dragalge,Tandrak,ãƒ‰ãƒ©ãƒŸãƒ‰ãƒ­ (Dramidoro),6,Normal,Mock Kelp PokÃ©mon,2,Poison,Dragon,1.8,81.5
+801,692,Clauncher,Scampisto,ã‚¦ãƒ‡ãƒƒãƒã‚¦ (Udeppou),6,Normal,Water Gun PokÃ©mon,1,Water,,0.5,8.3
+802,693,Clawitzer,Wummer,ãƒ–ãƒ­ã‚¹ã‚¿ãƒ¼ (Bloster),6,Normal,Howitzer PokÃ©mon,1,Water,,1.3,35.3
+803,694,Helioptile,Eguana,ã‚¨ãƒªã‚­ãƒ†ãƒ« (Erikiteru),6,Normal,Generator PokÃ©mon,2,Electric,Normal,0.5,6
+804,695,Heliolisk,Elezard,ã‚¨ãƒ¬ã‚¶ãƒ¼ãƒ‰ (Elezard),6,Normal,Generator PokÃ©mon,2,Electric,Normal,1,21
+805,696,Tyrunt,Balgoras,ãƒã‚´ãƒ©ã‚¹ (Chigoras),6,Normal,Royal Heir PokÃ©mon,2,Rock,Dragon,0.8,26
+806,697,Tyrantrum,Monargoras,ã‚¬ãƒã‚´ãƒ©ã‚¹ (Gachigoras),6,Normal,Despot PokÃ©mon,2,Rock,Dragon,2.5,270
+807,698,Amaura,Amarino,ã‚¢ãƒžãƒ«ã‚¹ (Amarus),6,Normal,Tundra PokÃ©mon,2,Rock,Ice,1.3,25.2
+808,699,Aurorus,Amagarga,ã‚¢ãƒžãƒ«ãƒ«ã‚¬ (Amaruruga),6,Normal,Tundra PokÃ©mon,2,Rock,Ice,2.7,225
+809,700,Sylveon,Feelinara,ãƒ‹ãƒ³ãƒ•ã‚£ã‚¢ (Nymphia),6,Normal,Intertwining PokÃ©mon,1,Fairy,,1,23.5
+810,701,Hawlucha,Resladero,ãƒ«ãƒãƒ£ãƒ–ãƒ« (Luchabull),6,Normal,Wrestling PokÃ©mon,2,Fighting,Flying,0.8,21.5
+811,702,Dedenne,Dedenne,ãƒ‡ãƒ‡ãƒ³ãƒ (Dedenne),6,Normal,Antenna PokÃ©mon,2,Electric,Fairy,0.2,2.2
+812,703,Carbink,Rocara,ãƒ¡ãƒ¬ã‚·ãƒ¼ (Melecie),6,Normal,Jewel PokÃ©mon,2,Rock,Fairy,0.3,5.7
+813,704,Goomy,Viscora,ãƒŒãƒ¡ãƒ© (Numera),6,Normal,Soft Tissue PokÃ©mon,1,Dragon,,0.3,2.8
+814,705,Sliggoo,Viscargot,ãƒŒãƒ¡ã‚¤ãƒ« (Numeil),6,Normal,Soft Tissue PokÃ©mon,1,Dragon,,0.8,17.5
+815,706,Goodra,Viscogon,ãƒŒãƒ¡ãƒ«ã‚´ãƒ³ (Numelgon),6,Normal,Dragon PokÃ©mon,1,Dragon,,2,150.5
+816,707,Klefki,Clavion,ã‚¯ãƒ¬ãƒƒãƒ•ã‚£ (Cleffy),6,Normal,Key Ring PokÃ©mon,2,Steel,Fairy,0.2,3
+817,708,Phantump,Paragoni,ãƒœã‚¯ãƒ¬ãƒ¼ (Bokurei),6,Normal,Stump PokÃ©mon,2,Ghost,Grass,0.4,7
+818,709,Trevenant,Trombork,ã‚ªãƒ¼ãƒ­ãƒƒãƒˆ (Ohrot),6,Normal,Elder Tree PokÃ©mon,2,Ghost,Grass,1.5,71
+819,710,Pumpkaboo Average Size,Irrbis,ãƒã‚±ãƒƒãƒãƒ£ (Bakeccha),6,Normal,Pumpkin PokÃ©mon,2,Ghost,Grass,0.4,5
+820,710,Pumpkaboo Small Size,Irrbis,ãƒã‚±ãƒƒãƒãƒ£ (Bakeccha),6,Normal,Pumpkin PokÃ©mon,2,Ghost,Grass,0.3,3.5
+821,710,Pumpkaboo Large Size,Irrbis,ãƒã‚±ãƒƒãƒãƒ£ (Bakeccha),6,Normal,Pumpkin PokÃ©mon,2,Ghost,Grass,0.5,7.5
+822,710,Pumpkaboo Super Size,Irrbis,ãƒã‚±ãƒƒãƒãƒ£ (Bakeccha),6,Normal,Pumpkin PokÃ©mon,2,Ghost,Grass,0.8,15
+823,711,Gourgeist Average Size,Pumpdjinn,ãƒ‘ãƒ³ãƒ—ã‚¸ãƒ³ (Pumpjin),6,Normal,Pumpkin PokÃ©mon,2,Ghost,Grass,0.9,12.5
+824,711,Gourgeist Small Size,Pumpdjinn,ãƒ‘ãƒ³ãƒ—ã‚¸ãƒ³ (Pumpjin),6,Normal,Pumpkin PokÃ©mon,2,Ghost,Grass,0.7,9.5
+825,711,Gourgeist Large Size,Pumpdjinn,ãƒ‘ãƒ³ãƒ—ã‚¸ãƒ³ (Pumpjin),6,Normal,Pumpkin PokÃ©mon,2,Ghost,Grass,1.1,14
+826,711,Gourgeist Super Size,Pumpdjinn,ãƒ‘ãƒ³ãƒ—ã‚¸ãƒ³ (Pumpjin),6,Normal,Pumpkin PokÃ©mon,2,Ghost,Grass,1.7,39
+827,712,Bergmite,Arktip,ã‚«ãƒã‚³ãƒ¼ãƒ« (Kachikohru),6,Normal,Ice Chunk PokÃ©mon,1,Ice,,1,99.5
+828,713,Avalugg,Arktilas,ã‚¯ãƒ¬ãƒ™ãƒ¼ã‚¹ (Crebase),6,Normal,Iceberg PokÃ©mon,1,Ice,,2,505
+829,714,Noibat,eF-eM,ã‚ªãƒ³ãƒãƒƒãƒˆ (Onbat),6,Normal,Sound Wave PokÃ©mon,2,Flying,Dragon,0.5,8
+830,715,Noivern,UHaFnir,ã‚ªãƒ³ãƒãƒ¼ãƒ³ (Onvern),6,Normal,Sound Wave PokÃ©mon,2,Flying,Dragon,1.5,85
+831,716,Xerneas,Xerneas,ã‚¼ãƒ«ãƒã‚¢ã‚¹ (Xerneas),6,Legendary,Life PokÃ©mon,1,Fairy,,3,215
+832,717,Yveltal,Yveltal,ã‚¤ãƒ™ãƒ«ã‚¿ãƒ« (Yveltal),6,Legendary,Destruction PokÃ©mon,2,Dark,Flying,5.8,203
+833,718,Zygarde 50% Forme,Zygarde,ã‚¸ã‚¬ãƒ«ãƒ‡ (Zygarde),6,Legendary,Order PokÃ©mon,2,Dragon,Ground,5,305
+834,718,Zygarde 10% Forme,Zygarde,ã‚¸ã‚¬ãƒ«ãƒ‡ (Zygarde),6,Legendary,Order PokÃ©mon,2,Dragon,Ground,1.2,33.5
+835,718,Zygarde Complete Forme,Zygarde,ã‚¸ã‚¬ãƒ«ãƒ‡ (Zygarde),6,Legendary,Order PokÃ©mon,2,Dragon,Ground,4.5,610
+836,719,Diancie,Diancie,ãƒ‡ã‚£ã‚¢ãƒ³ã‚·ãƒ¼ (Diancie),6,Mythical,Jewel PokÃ©mon,2,Rock,Fairy,0.7,8.8
+837,719,Mega Diancie,Diancie,ãƒ‡ã‚£ã‚¢ãƒ³ã‚·ãƒ¼ (Diancie),6,Mythical,Jewel PokÃ©mon,2,Rock,Fairy,1.1,27.8
+838,720,Hoopa Hoopa Confined,Hoopa,ãƒ•ãƒ¼ãƒ‘ (Hoopa),6,Mythical,Mischief PokÃ©mon,2,Psychic,Ghost,0.5,9
+839,720,Hoopa Hoopa Unbound,Hoopa,ãƒ•ãƒ¼ãƒ‘ (Hoopa),6,Mythical,Djinn PokÃ©mon,2,Psychic,Dark,6.5,490
+840,721,Volcanion,Volcanion,ãƒœãƒ«ã‚±ãƒ‹ã‚ªãƒ³ (Volcanion),6,Mythical,Steam PokÃ©mon,2,Fire,Water,1.7,195
+841,722,Rowlet,Bauz,ãƒ¢ã‚¯ãƒ­ãƒ¼ (Mokuroh),7,Normal,Grass Quill PokÃ©mon,2,Grass,Flying,0.3,1.5
+842,723,Dartrix,Arboretoss,ãƒ•ã‚¯ã‚¹ãƒ­ãƒ¼ (Fukuthrow),7,Normal,Blade Quill PokÃ©mon,2,Grass,Flying,0.7,16
+843,724,Decidueye,Silvarro,ã‚¸ãƒ¥ãƒŠã‚¤ãƒ‘ãƒ¼ (Junaiper),7,Normal,Arrow Quill PokÃ©mon,2,Grass,Ghost,1.6,36.6
+844,725,Litten,Flamiau,ãƒ‹ãƒ£ãƒ“ãƒ¼ (Nyabby),7,Normal,Fire Cat PokÃ©mon,1,Fire,,0.4,4.3
+845,726,Torracat,Miezunder,ãƒ‹ãƒ£ãƒ’ãƒ¼ãƒˆ (Nyaheat),7,Normal,Fire Cat PokÃ©mon,1,Fire,,0.7,25
+846,727,Incineroar,Fuegro,ã‚¬ã‚ªã‚¬ã‚¨ãƒ³ (Gaogaen),7,Normal,Heel PokÃ©mon,2,Fire,Dark,1.8,83
+847,728,Popplio,Robball,ã‚¢ã‚·ãƒžãƒª (Ashimari),7,Normal,Sea Lion PokÃ©mon,1,Water,,0.4,7.5
+848,729,Brionne,Marikeck,ã‚ªã‚·ãƒ£ãƒžãƒª (Osyamari),7,Normal,Pop Star PokÃ©mon,1,Water,,0.6,17.5
+849,730,Primarina,Primarene,ã‚¢ã‚·ãƒ¬ãƒ¼ãƒŒ (Ashirene),7,Normal,Soloist PokÃ©mon,2,Water,Fairy,1.8,44
+850,731,Pikipek,Peppeck,ãƒ„ãƒ„ã‚±ãƒ© (Tsutsukera),7,Normal,Woodpecker PokÃ©mon,2,Normal,Flying,0.3,1.2
+851,732,Trumbeak,Trompeck,ã‚±ãƒ©ãƒ©ãƒƒãƒ‘ (Kerarappa),7,Normal,Bugle Beak PokÃ©mon,2,Normal,Flying,0.6,14.8
+852,733,Toucannon,Tukanon,ãƒ‰ãƒ‡ã‚«ãƒã‚· (Dodekabashi),7,Normal,Cannon PokÃ©mon,2,Normal,Flying,1.1,26
+853,734,Yungoos,Mangunior,ãƒ¤ãƒ³ã‚°ãƒ¼ã‚¹ (Youngoose),7,Normal,Loitering PokÃ©mon,1,Normal,,0.4,6
+854,735,Gumshoos,Manguspektor,ãƒ‡ã‚«ã‚°ãƒ¼ã‚¹ (Dekagoose),7,Normal,Stakeout PokÃ©mon,1,Normal,,0.7,14.2
+855,736,Grubbin,Mabula,ã‚¢ã‚´ã‚¸ãƒ ã‚· (Agojimushi),7,Normal,Larva PokÃ©mon,1,Bug,,0.4,4.4
+856,737,Charjabug,Akkup,ãƒ‡ãƒ³ãƒ‚ãƒ ã‚· (Dendimushi),7,Normal,Battery PokÃ©mon,2,Bug,Electric,0.5,10.5
+857,738,Vikavolt,Donarion,ã‚¯ãƒ¯ã‚¬ãƒŽãƒ³ (Kuwagannon),7,Normal,Stag Beetle PokÃ©mon,2,Bug,Electric,1.5,45
+858,739,Crabrawler,Krabbox,ãƒžã‚±ãƒ³ã‚«ãƒ‹ (Makenkani),7,Normal,Boxing PokÃ©mon,1,Fighting,,0.6,7
+859,740,Crabominable,Krawell,ã‚±ã‚±ãƒ³ã‚«ãƒ‹ (Kekenkani),7,Normal,Woolly Crab PokÃ©mon,2,Fighting,Ice,1.7,180
+860,741,Oricorio Baile Style,Choreogel,ã‚ªãƒ‰ãƒªãƒ‰ãƒª (Odoridori),7,Normal,Dancing PokÃ©mon,2,Fire,Flying,0.6,3.4
+861,741,Oricorio Pom-Pom Style,Choreogel,ã‚ªãƒ‰ãƒªãƒ‰ãƒª (Odoridori),7,Normal,Dancing PokÃ©mon,2,Electric,Flying,0.6,3.4
+862,741,Oricorio Pa'u Style,Choreogel,ã‚ªãƒ‰ãƒªãƒ‰ãƒª (Odoridori),7,Normal,Dancing PokÃ©mon,2,Psychic,Flying,0.6,3.4
+863,741,Oricorio Sensu Style,Choreogel,ã‚ªãƒ‰ãƒªãƒ‰ãƒª (Odoridori),7,Normal,Dancing PokÃ©mon,2,Ghost,Flying,0.6,3.4
+864,742,Cutiefly,Wommel,ã‚¢ãƒ–ãƒªãƒ¼ (Abuly),7,Normal,Bee Fly PokÃ©mon,2,Bug,Fairy,0.1,0.2
+865,743,Ribombee,Bandelby,ã‚¢ãƒ–ãƒªãƒœãƒ³ (Aburibbon),7,Normal,Bee Fly PokÃ©mon,2,Bug,Fairy,0.2,0.5
+866,744,Rockruff,Wuffels,ã‚¤ãƒ¯ãƒ³ã‚³ (Iwanko),7,Normal,Puppy PokÃ©mon,1,Rock,,0.5,9.2
+867,744,Own Tempo Rockruff,Wuffels,ã‚¤ãƒ¯ãƒ³ã‚³ (Iwanko),7,Normal,Puppy PokÃ©mon,1,Rock,,0.5,9.2
+868,745,Lycanroc Midday Form,Wolwerock,ãƒ«ã‚¬ãƒ«ã‚¬ãƒ³ (Lugarugan),7,Normal,Wolf PokÃ©mon,1,Rock,,0.8,25
+869,745,Lycanroc Midnight Form,Wolwerock,ãƒ«ã‚¬ãƒ«ã‚¬ãƒ³ (Lugarugan),7,Normal,Wolf PokÃ©mon,1,Rock,,1.1,25
+870,745,Lycanroc Dusk Form,Wolwerock,ãƒ«ã‚¬ãƒ«ã‚¬ãƒ³ (Lugarugan),7,Normal,Wolf PokÃ©mon,1,Rock,,0.8,25
+871,746,Wishiwashi Solo Form,Lusardin,ãƒ¨ãƒ¯ã‚· (Yowashi),7,Normal,Small Fry PokÃ©mon,1,Water,,0.2,0.3
+872,746,Wishiwashi School Form,Lusardin,ãƒ¨ãƒ¯ã‚· (Yowashi),7,Normal,Small Fry PokÃ©mon,1,Water,,8.2,78.6
+873,747,Mareanie,Garstella,ãƒ’ãƒ‰ã‚¤ãƒ‡ (Hidoide),7,Normal,Brutal Star PokÃ©mon,2,Poison,Water,0.4,8
+874,748,Toxapex,Aggrostella,ãƒ‰ãƒ’ãƒ‰ã‚¤ãƒ‡ (Dohidoide),7,Normal,Brutal Star PokÃ©mon,2,Poison,Water,0.7,14.5
+875,749,Mudbray,Pampuli,ãƒ‰ãƒ­ãƒãƒ³ã‚³ (Dorobanko),7,Normal,Donkey PokÃ©mon,1,Ground,,1,110
+876,750,Mudsdale,Pampross,ãƒãƒ³ãƒãƒ‰ãƒ­ (Banbadoro),7,Normal,Draft Horse PokÃ©mon,1,Ground,,2.5,920
+877,751,Dewpider,Araqua,ã‚·ã‚ºã‚¯ãƒ¢ (Shizukumo),7,Normal,Water Bubble PokÃ©mon,2,Water,Bug,0.3,4
+878,752,Araquanid,Aranestro,ã‚ªãƒ‹ã‚·ã‚ºã‚¯ãƒ¢ (Onishizukumo),7,Normal,Water Bubble PokÃ©mon,2,Water,Bug,1.8,82
+879,753,Fomantis,Imantis,ã‚«ãƒªã‚­ãƒª (Karikiri),7,Normal,Sickle Grass PokÃ©mon,1,Grass,,0.3,1.5
+880,754,Lurantis,Mantidea,ãƒ©ãƒ©ãƒ³ãƒ†ã‚¹ (Lalantes),7,Normal,Bloom Sickle PokÃ©mon,1,Grass,,0.9,18.5
+881,755,Morelull,Bubungus,ãƒãƒžã‚·ãƒ¥ (Nemasyu),7,Normal,Illuminating PokÃ©mon,2,Grass,Fairy,0.2,1.5
+882,756,Shiinotic,Lamellux,ãƒžã‚·ã‚§ãƒ¼ãƒ‰ (Mashade),7,Normal,Illuminating PokÃ©mon,2,Grass,Fairy,1,11.5
+883,757,Salandit,Molunk,ãƒ¤ãƒˆã‚¦ãƒ¢ãƒª (Yatoumori),7,Normal,Toxic Lizard PokÃ©mon,2,Poison,Fire,0.6,4.8
+884,758,Salazzle,Amfira,ã‚¨ãƒ³ãƒ‹ãƒ¥ãƒ¼ãƒˆ (Ennewt),7,Normal,Toxic Lizard PokÃ©mon,2,Poison,Fire,1.2,22.2
+885,759,Stufful,Velursi,ãƒŒã‚¤ã‚³ã‚°ãƒž (Nuikoguma),7,Normal,Flailing PokÃ©mon,2,Normal,Fighting,0.5,6.8
+886,760,Bewear,Kosturso,ã‚­ãƒ†ãƒ«ã‚°ãƒž (Kiteruguma),7,Normal,Strong Arm PokÃ©mon,2,Normal,Fighting,2.1,135
+887,761,Bounsweet,Frubberl,ã‚¢ãƒžã‚«ã‚¸ (Amakaji),7,Normal,Fruit PokÃ©mon,1,Grass,,0.3,3.2
+888,762,Steenee,Frubaila,ã‚¢ãƒžãƒžã‚¤ã‚³ (Amamaiko),7,Normal,Fruit PokÃ©mon,1,Grass,,0.7,8.2
+889,763,Tsareena,Fruyal,ã‚¢ãƒžãƒ¼ã‚¸ãƒ§ (Amajo),7,Normal,Fruit PokÃ©mon,1,Grass,,1.2,21.4
+890,764,Comfey,Curelei,ã‚­ãƒ¥ãƒ¯ãƒ¯ãƒ¼ (Cuwawa),7,Normal,Posy Picker PokÃ©mon,1,Fairy,,0.1,0.3
+891,765,Oranguru,Kommandutan,ãƒ¤ãƒ¬ãƒ¦ãƒ¼ã‚¿ãƒ³ (Yareyuutan),7,Normal,Sage PokÃ©mon,2,Normal,Psychic,1.5,76
+892,766,Passimian,Quartermak,ãƒŠã‚²ãƒ„ã‚±ã‚µãƒ« (Nagetukesaru),7,Normal,Teamwork PokÃ©mon,1,Fighting,,2,82.8
+893,767,Wimpod,ReiÃŸlaus,ã‚³ã‚½ã‚¯ãƒ ã‚· (Kosokumushi),7,Normal,Turn Tail PokÃ©mon,2,Bug,Water,0.5,12
+894,768,Golisopod,Tectass,ã‚°ã‚½ã‚¯ãƒ ã‚·ãƒ£ (Gusokumusha),7,Normal,Hard Scale PokÃ©mon,2,Bug,Water,2,108
+895,769,Sandygast,Sankabuh,ã‚¹ãƒŠãƒã‚¡ (Sunaba),7,Normal,Sand Heap PokÃ©mon,2,Ghost,Ground,0.5,70
+896,770,Palossand,Colossand,ã‚·ãƒ­ãƒ‡ã‚¹ãƒŠ (Sirodethna),7,Normal,Sand Castle PokÃ©mon,2,Ghost,Ground,1.3,250
+897,771,Pyukumuku,Gufa,ãƒŠãƒžã‚³ãƒ–ã‚· (Namakobushi),7,Normal,Sea Cucumber PokÃ©mon,1,Water,,0.3,1.2
+898,772,Type: Null,Typ:Null,ã‚¿ã‚¤ãƒ—ï¼šãƒŒãƒ« (Type: Null),7,Sub Legendary,Synthetic PokÃ©mon,1,Normal,,1.9,120.5
+899,773,Silvally,Amigento,ã‚·ãƒ«ãƒ´ã‚¡ãƒ‡ã‚£ (Silvady),7,Sub Legendary,Synthetic PokÃ©mon,1,Normal,,2.3,100.5
+900,774,Minior Meteor Form,Meteno,ãƒ¡ãƒ†ãƒŽ (Meteno),7,Normal,Meteor PokÃ©mon,2,Rock,Flying,0.3,40
+901,774,Minior Core Form,Meteno,ãƒ¡ãƒ†ãƒŽ (Meteno),7,Normal,Meteor PokÃ©mon,2,Rock,Flying,0.3,0.3
+902,775,Komala,Koalelu,ãƒãƒƒã‚³ã‚¢ãƒ© (Nekkoara),7,Normal,Drowsing PokÃ©mon,1,Normal,,0.4,19.9
+903,776,Turtonator,Tortunator,ãƒã‚¯ã‚¬ãƒ¡ã‚¹ (Bakugames),7,Normal,Blast Turtle PokÃ©mon,2,Fire,Dragon,2,212
+904,777,Togedemaru,Togedemaru,ãƒˆã‚²ãƒ‡ãƒžãƒ« (Togedemaru),7,Normal,Roly-Poly PokÃ©mon,2,Electric,Steel,0.3,3.3
+905,778,Mimikyu,Mimigma,ãƒŸãƒŸãƒƒã‚­ãƒ¥ (Mimikkyu),7,Normal,Disguise PokÃ©mon,2,Ghost,Fairy,0.2,0.7
+906,779,Bruxish,Knirfish,ãƒã‚®ã‚®ã‚·ãƒª (Hagigishiri),7,Normal,Gnash Teeth PokÃ©mon,2,Water,Psychic,0.9,19
+907,780,Drampa,Sen-Long,ã‚¸ã‚¸ãƒ¼ãƒ­ãƒ³ (Jijilong),7,Normal,Placid PokÃ©mon,2,Normal,Dragon,3,185
+908,781,Dhelmise,Moruda,ãƒ€ãƒ€ãƒªãƒ³ (Dadarin),7,Normal,Sea Creeper PokÃ©mon,2,Ghost,Grass,3.9,210
+909,782,Jangmo-o,Miniras,ã‚¸ãƒ£ãƒ©ã‚³ (Jyarako),7,Normal,Scaly PokÃ©mon,1,Dragon,,0.6,29.7
+910,783,Hakamo-o,Mediras,ã‚¸ãƒ£ãƒ©ãƒ³ã‚´ (Jyarango),7,Normal,Scaly PokÃ©mon,2,Dragon,Fighting,1.2,47
+911,784,Kommo-o,Grandiras,ã‚¸ãƒ£ãƒ©ãƒ©ãƒ³ã‚¬ (Jyararanga),7,Normal,Scaly PokÃ©mon,2,Dragon,Fighting,1.6,78.2
+912,785,Tapu Koko,Kapu-Riki,ã‚«ãƒ—ãƒ»ã‚³ã‚±ã‚³ (Kapu-Kokeko),7,Sub Legendary,Land Spirit PokÃ©mon,2,Electric,Fairy,1.8,20.5
+913,786,Tapu Lele,Kapu-Fala,ã‚«ãƒ—ãƒ»ãƒ†ãƒ†ãƒ• (Kapu-Tetefu),7,Sub Legendary,Land Spirit PokÃ©mon,2,Psychic,Fairy,1.2,18.6
+914,787,Tapu Bulu,Kapu-Toro,ã‚«ãƒ—ãƒ»ãƒ–ãƒ«ãƒ« (Kapu-Bulul),7,Sub Legendary,Land Spirit PokÃ©mon,2,Grass,Fairy,1.9,45.5
+915,788,Tapu Fini,Kapu-Kime,ã‚«ãƒ—ãƒ»ãƒ¬ãƒ’ãƒ¬ (Kapu-Rehire),7,Sub Legendary,Land Spirit PokÃ©mon,2,Water,Fairy,1.3,21.2
+916,789,Cosmog,Cosmog,ã‚³ã‚¹ãƒ¢ãƒƒã‚° (Cosmog),7,Legendary,Nebula PokÃ©mon,1,Psychic,,0.2,0.1
+917,790,Cosmoem,Cosmovum,ã‚³ã‚¹ãƒ¢ã‚¦ãƒ  (Cosmovum),7,Legendary,Protostar PokÃ©mon,1,Psychic,,0.1,999.9
+918,791,Solgaleo,Solgaleo,ã‚½ãƒ«ã‚¬ãƒ¬ã‚ª (Solgaleo),7,Legendary,Sunne PokÃ©mon,2,Psychic,Steel,3.4,230
+919,792,Lunala,Lunala,ãƒ«ãƒŠã‚¢ãƒ¼ãƒ© (Lunala),7,Legendary,Moone PokÃ©mon,2,Psychic,Ghost,4,120
+920,793,Nihilego,Anego,ã‚¦ãƒ„ãƒ­ã‚¤ãƒ‰ (Uturoid),7,Sub Legendary,Parasite PokÃ©mon,2,Rock,Poison,1.2,55.5
+921,794,Buzzwole,Masskito,ãƒžãƒƒã‚·ãƒ–ãƒ¼ãƒ³ (Massivoon),7,Sub Legendary,Swollen PokÃ©mon,2,Bug,Fighting,2.4,333.6
+922,795,Pheromosa,Schabelle,ãƒ•ã‚§ãƒ­ãƒ¼ãƒã‚§ (Pheroache),7,Sub Legendary,Lissome PokÃ©mon,2,Bug,Fighting,1.8,25
+923,796,Xurkitree,Voltriant,ãƒ‡ãƒ³ã‚¸ãƒ¥ãƒ¢ã‚¯ (Denjyumoku),7,Sub Legendary,Glowing PokÃ©mon,1,Electric,,3.8,100
+924,797,Celesteela,Kaguron,ãƒ†ãƒƒã‚«ã‚°ãƒ¤ (Tekkaguya),7,Sub Legendary,Launch PokÃ©mon,2,Steel,Flying,9.2,999.9
+925,798,Kartana,Katagami,ã‚«ãƒŸãƒ„ãƒ«ã‚® (Kamiturugi),7,Sub Legendary,Drawn Sword PokÃ©mon,2,Grass,Steel,0.3,0.1
+926,799,Guzzlord,Schlingking,ã‚¢ã‚¯ã‚¸ã‚­ãƒ³ã‚° (Akuziking),7,Sub Legendary,Junkivore PokÃ©mon,2,Dark,Dragon,5.5,888
+927,800,Necrozma,Necrozma,ãƒã‚¯ãƒ­ã‚ºãƒž (Necrozma),7,Legendary,Prism PokÃ©mon,1,Psychic,,2.4,230
+928,800,Dusk Mane Necrozma,Necrozma,ãƒã‚¯ãƒ­ã‚ºãƒž (Necrozma),7,Legendary,Prism PokÃ©mon,2,Psychic,Steel,3.8,460
+929,800,Dawn Wings Necrozma,Necrozma,ãƒã‚¯ãƒ­ã‚ºãƒž (Necrozma),7,Legendary,Prism PokÃ©mon,2,Psychic,Ghost,4.2,350
+930,800,Ultra Necrozma,Necrozma,ãƒã‚¯ãƒ­ã‚ºãƒž (Necrozma),7,Legendary,Prism PokÃ©mon,2,Psychic,Dragon,7.5,230
+931,801,Magearna,Magearna,ãƒžã‚®ã‚¢ãƒŠ (Magearna),7,Mythical,Artificial PokÃ©mon,2,Steel,Fairy,1,80.5
+932,802,Marshadow,Marshadow,ãƒžãƒ¼ã‚·ãƒ£ãƒ‰ãƒ¼ (Marshadow),7,Mythical,Gloomdweller PokÃ©mon,2,Fighting,Ghost,0.7,22.2
+933,803,Poipole,Venicro,ãƒ™ãƒ™ãƒŽãƒ  (Bevenom),7,Sub Legendary,Poison Pin PokÃ©mon,1,Poison,,0.6,1.8
+934,804,Naganadel,Agoyon,ã‚¢ãƒ¼ã‚´ãƒ¨ãƒ³ (Agoyon),7,Sub Legendary,Poison Pin PokÃ©mon,2,Poison,Dragon,3.6,150
+935,805,Stakataka,Muramura,ãƒ„ãƒ³ãƒ‡ãƒ„ãƒ³ãƒ‡ (Tundetunde),7,Sub Legendary,Rampart PokÃ©mon,2,Rock,Steel,5.5,820
+936,806,Blacephalon,Kopplosio,ã‚ºã‚¬ãƒ‰ãƒ¼ãƒ³ (Zugadoon),7,Sub Legendary,Fireworks PokÃ©mon,2,Fire,Ghost,1.8,13
+937,807,Zeraora,Zeraora,ã‚¼ãƒ©ã‚ªãƒ© (Zeraora),7,Mythical,Thunderclap PokÃ©mon,1,Electric,,1.5,44.5
+938,808,Meltan,,,7,Mythical,Hex Nut PokÃ©mon,1,Steel,,0.2,8
+939,809,Melmetal,,,7,Mythical,Hex Nut PokÃ©mon,1,Steel,,2.5,800
+940,810,Grookey,,,8,Normal,Chimp PokÃ©mon,1,Grass,,0.3,5
+941,811,Thwackey,,,8,Normal,Beat PokÃ©mon,1,Grass,,0.7,14
+942,812,Rillaboom,,,8,Normal,Drummer PokÃ©mon,1,Grass,,2.1,90
+943,813,Scorbunny,,,8,Normal,Rabbit PokÃ©mon,1,Fire,,0.3,4.5
+944,814,Raboot,,,8,Normal,Rabbit PokÃ©mon,1,Fire,,0.6,9
+945,815,Cinderace,,,8,Normal,Striker PokÃ©mon,1,Fire,,1.4,33
+946,816,Sobble,,,8,Normal,Water Lizard PokÃ©mon,1,Water,,0.3,4
+947,817,Drizzile,,,8,Normal,Water lizard PokÃ©mon,1,Water,,0.7,11.5
+948,818,Inteleon,,,8,Normal,Secret Agent PokÃ©mon,1,Water,,1.9,45.2
+949,819,Skwovet,,,8,Normal,Cheeky PokÃ©mon,1,Normal,,0.3,2.5
+950,820,Greedent,,,8,Normal,Greedy PokÃ©mon,1,Normal,,0.6,6
+951,821,Rookidee,,,8,Normal,Tiny Bird PokÃ©mon,1,Flying,,0.2,1.8
+952,822,Corvisquire,,,8,Normal,Raven PokÃ©mon,1,Flying,,0.8,16
+953,823,Corviknight,,,8,Normal,Raven PokÃ©mon,2,Flying,Steel,2.2,75
+954,824,Blipbug,,,8,Normal,Larva PokÃ©mon,1,Bug,,0.4,8
+955,825,Dottler,,,8,Normal,Radome PokÃ©mon,2,Bug,Psychic,0.4,19.5
+956,826,Orbeetle,,,8,Normal,Seven Spot PokÃ©mon,2,Bug,Psychic,0.4,40.8
+957,827,Nickit,,,8,Normal,Fox PokÃ©mon,1,Dark,,0.6,8.9
+958,828,Thievul,,,8,Normal,Fox PokÃ©mon,1,Dark,,1.2,19.9
+959,829,Gossifleur,,,8,Normal,Flowering PokÃ©mon,1,Grass,,0.4,2.2
+960,830,Eldegoss,,,8,Normal,Cotton Bloom PokÃ©mon,1,Grass,,0.5,2.5
+961,831,Wooloo,,,8,Normal,Sheep PokÃ©mon,1,Normal,,0.6,6
+962,832,Dubwool,,,8,Normal,Sheep PokÃ©mon,1,Normal,,1.3,43
+963,833,Chewtle,,,8,Normal,Snapping PokÃ©mon,1,Water,,0.3,8.5
+964,834,Drednaw,,,8,Normal,Bite PokÃ©mon,2,Water,Rock,1,115.5
+965,835,Yamper,,,8,Normal,Puppy PokÃ©mon,1,Electric,,0.3,13.5
+966,836,Boltund,,,8,Normal,Dog PokÃ©mon,1,Electric,,1,34
+967,837,Rolycoly,,,8,Normal,Coal PokÃ©mon,1,Rock,,0.3,12
+968,838,Carkol,,,8,Normal,Coal PokÃ©mon,2,Rock,Fire,1.1,78
+969,839,Coalossal,,,8,Normal,Coal PokÃ©mon,2,Rock,Fire,2.8,310.5
+970,840,Applin,,,8,Normal,Apple Core PokÃ©mon,2,Grass,Dragon,0.2,0.5
+971,841,Flapple,,,8,Normal,Apple Wing PokÃ©mon,2,Grass,Dragon,0.3,1
+972,842,Appletun,,,8,Normal,Apple Nectar PokÃ©mon,2,Grass,Dragon,0.4,13
+973,843,Silicobra,,,8,Normal,Sand Snake PokÃ©mon,1,Ground,,2.2,7.6
+974,844,Sandaconda,,,8,Normal,Sand Snake PokÃ©mon,1,Ground,,3.8,65.5
+975,845,Cramorant,,,8,Normal,Gulp PokÃ©mon,2,Flying,Water,0.8,18
+976,846,Arrokuda,,,8,Normal,Rush PokÃ©mon,1,Water,,0.5,1
+977,847,Barraskewda,,,8,Normal,Skewer PokÃ©mon,1,Water,,1.3,30
+978,848,Toxel,,,8,Normal,Baby PokÃ©mon,2,Electric,Poison,0.4,11
+979,849,Toxtricity Low Key Form,,,8,Normal,Punk PokÃ©mon,2,Electric,Poison,1.6,40
+980,849,Toxtricity Amped Form,,,8,Normal,Punk PokÃ©mon,2,Electric,Poison,1.6,40
+981,850,Sizzlipede,,,8,Normal,Radiator PokÃ©mon,2,Fire,Bug,0.7,1
+982,851,Centiskorch,,,8,Normal,Radiator PokÃ©mon,2,Fire,Bug,3,120
+983,852,Clobbopus,,,8,Normal,Tantrum PokÃ©mon,1,Fighting,,0.6,4
+984,853,Grapploct,,,8,Normal,Tantrum PokÃ©mon,1,Fighting,,1.6,39
+985,854,Sinistea,,,8,Normal,Black Tea PokÃ©mon,1,Ghost,,0.1,0.2
+986,855,Polteageist,,,8,Normal,Black Tea PokÃ©mon,1,Ghost,,0.2,0.4
+987,856,Hatenna,,,8,Normal,Calm PokÃ©mon,1,Psychic,,0.4,3.4
+988,857,Hattrem,,,8,Normal,Serene PokÃ©mon,1,Psychic,,0.6,4.8
+989,858,Hatterene,,,8,Normal,Silent PokÃ©mon,2,Psychic,Fairy,2.1,5
+990,859,Impidimp,,,8,Normal,Wily PokÃ©mon,2,Dark,Fairy,0.4,5.5
+991,860,Morgrem,,,8,Normal,Devious PokÃ©mon,2,Dark,Fairy,0.8,12.5
+992,861,Grimmsnarl,,,8,Normal,Bulk Up PokÃ©mon,2,Dark,Fairy,1.5,61
+993,862,Obstagoon,,,8,Normal,Blocking PokÃ©mon,2,Dark,Normal,1.6,46
+994,863,Perrserker,,,8,Normal,Viking PokÃ©mon,1,Steel,,0.8,28
+995,864,Cursola,,,8,Normal,Coral PokÃ©mon,1,Ghost,,1,0.4
+996,865,Sirfetch'd,,,8,Normal,Wild Duck PokÃ©mon,1,Fighting,,0.8,117
+997,866,Mr. Rime,,,8,Normal,Comedian PokÃ©mon,2,Psychic,Ice,1.5,58.2
+998,867,Runerigus,,,8,Normal,Grudge PokÃ©mon,2,Ground,Ghost,1.6,66.6
+999,868,Milcery,,,8,Normal,Cream PokÃ©mon,1,Fairy,,0.2,0.3
+1000,869,Alcremie,,,8,Normal,Cream PokÃ©mon,1,Fairy,,0.3,0.5
+1001,870,Falinks,,,8,Normal,Formation PokÃ©mon,1,Fighting,,3,62
+1002,871,Pincurchin,,,8,Normal,Sea Urchin PokÃ©mon,1,Electric,,0.3,1
+1003,872,Snom,,,8,Normal,Worm PokÃ©mon,2,Ice,Bug,0.3,3.8
+1004,873,Frosmoth,,,8,Normal,Frost Moth PokÃ©mon,2,Ice,Bug,1.3,42
+1005,874,Stonjourner,,,8,Normal,Big Rock PokÃ©mon,1,Rock,,2.5,520
+1006,875,Eiscue Ice Face,,,8,Normal,Penguin PokÃ©mon,1,Ice,,1.4,89
+1007,875,Eiscue Noice Face,,,8,Normal,Penguin PokÃ©mon,1,Ice,,1.4,89
+1008,876,Indeedee Male,,,8,Normal,Emotion PokÃ©mon,2,Psychic,Normal,0.9,28
+1009,876,Indeedee Female,,,8,Normal,Emotion PokÃ©mon,2,Psychic,Normal,0.9,28
+1010,877,Morpeko Full Belly Mode,,,8,Normal,Two-Sided PokÃ©mon,2,Electric,Dark,0.3,3
+1011,877,Morpeko Hangry Mode,,,8,Normal,Two-Sided PokÃ©mon,2,Electric,Dark,0.3,3
+1012,878,Cufant,,,8,Normal,Copperderm PokÃ©mon,1,Steel,,1.2,100
+1013,879,Copperajah,,,8,Normal,Copperderm PokÃ©mon,1,Steel,,3,650
+1014,880,Dracozolt,,,8,Normal,Fossil PokÃ©mon,2,Electric,Dragon,1.8,190
+1015,881,Arctozolt,,,8,Normal,Fossil PokÃ©mon,2,Electric,Ice,2.3,150
+1016,882,Dracovish,,,8,Normal,Fossil PokÃ©mon,2,Water,Dragon,2.3,215
+1017,883,Arctovish,,,8,Normal,Fossil PokÃ©mon,2,Water,Ice,2,175
+1018,884,Duraludon,,,8,Normal,Alloy PokÃ©mon,2,Steel,Dragon,1.8,40
+1019,885,Dreepy,,,8,Normal,Lingering PokÃ©mon,2,Dragon,Ghost,0.5,2
+1020,886,Drakloak,,,8,Normal,Caretaker PokÃ©mon,2,Dragon,Ghost,1.4,11
+1021,887,Dragapult,,,8,Normal,Stealth PokÃ©mon,2,Dragon,Ghost,3,50
+1022,888,Zacian Crowned Sword,,,8,Legendary,Warrior PokÃ©mon,2,Fairy,Steel,2.8,355
+1023,888,Zacian Hero of Many Battles,,,8,Legendary,Warrior PokÃ©mon,1,Fairy,,2.8,110
+1024,889,Zamazenta Crowned Shield,,,8,Legendary,Warrior PokÃ©mon,2,Fighting,Steel,2.9,785
+1025,889,Zamazenta Hero of Many Battles,,,8,Legendary,Warrior PokÃ©mon,1,Fighting,,2.9,210
+1026,890,Eternatus,,,8,Legendary,Gigantic PokÃ©mon,2,Poison,Dragon,20,950
+1027,890,Eternatus Eternamax,,,8,Legendary,Gigantic PokÃ©mon,2,Poison,Dragon,100,

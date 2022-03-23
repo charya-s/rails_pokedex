@@ -1,0 +1,1029 @@
+﻿pkmn_id,growth_rate,egg_type_number,egg_type_1,egg_type_2,percentage_male,egg_cycles,catch_rate,base_friendship,base_experience
+0,Medium Slow,2,Grass,Monster,87.5,20,45,70,64
+1,Medium Slow,2,Grass,Monster,87.5,20,45,70,142
+2,Medium Slow,2,Grass,Monster,87.5,20,45,70,236
+3,Medium Slow,2,Grass,Monster,87.5,20,45,70,281
+4,Medium Slow,2,Dragon,Monster,87.5,20,45,70,62
+5,Medium Slow,2,Dragon,Monster,87.5,20,45,70,142
+6,Medium Slow,2,Dragon,Monster,87.5,20,45,70,240
+7,Medium Slow,2,Dragon,Monster,87.5,20,45,70,285
+8,Medium Slow,2,Dragon,Monster,87.5,20,45,70,285
+9,Medium Slow,2,Monster,Water 1,87.5,20,45,70,63
+10,Medium Slow,2,Monster,Water 1,87.5,20,45,70,142
+11,Medium Slow,2,Monster,Water 1,87.5,20,45,70,239
+12,Medium Slow,2,Monster,Water 1,87.5,20,45,70,284
+13,Medium Fast,1,Bug,,50,15,255,70,39
+14,Medium Fast,1,Bug,,50,15,120,70,72
+15,Medium Fast,1,Bug,,50,15,45,70,178
+16,Medium Fast,1,Bug,,50,15,255,70,39
+17,Medium Fast,1,Bug,,50,15,120,70,72
+18,Medium Fast,1,Bug,,50,15,45,70,178
+19,Medium Fast,1,Bug,,50,15,45,70,223
+20,Medium Slow,1,Flying,,50,15,255,70,50
+21,Medium Slow,1,Flying,,50,15,120,70,122
+22,Medium Slow,1,Flying,,50,15,45,70,216
+23,Medium Slow,1,Flying,,50,15,45,70,261
+24,Medium Fast,1,Field,,50,15,255,70,51
+25,Medium Fast,1,Field,,50,15,255,70,51
+26,Medium Fast,1,Field,,50,15,127,70,145
+27,Medium Fast,1,Field,,50,15,127,70,145
+28,Medium Fast,1,Flying,,50,15,255,70,52
+29,Medium Fast,1,Flying,,50,15,90,70,155
+30,Medium Fast,2,Dragon,Field,50,20,255,70,58
+31,Medium Fast,2,Dragon,Field,50,20,90,70,157
+32,Medium Fast,2,Fairy,Field,50,10,190,70,112
+33,Medium Fast,0,,,50,10,190,70,112
+34,Medium Fast,2,Fairy,Field,50,10,75,70,218
+35,Medium Fast,2,Fairy,Field,50,10,75,70,218
+36,Medium Fast,1,Field,,50,20,255,70,60
+37,Medium Fast,1,Field,,50,20,255,70,60
+38,Medium Fast,1,Field,,50,20,90,70,158
+39,Medium Fast,1,Field,,50,20,90,70,158
+40,Medium Slow,2,Field,Monster,0,20,235,70,55
+41,Medium Slow,1,Undiscovered,,0,20,120,70,128
+42,Medium Slow,1,Undiscovered,,0,20,45,70,227
+43,Medium Slow,2,Field,Monster,100,20,235,70,55
+44,Medium Slow,2,Field,Monster,100,20,120,70,128
+45,Medium Slow,2,Field,Monster,100,20,45,70,227
+46,Fast,1,Fairy,,25,10,150,140,113
+47,Fast,1,Fairy,,25,10,25,140,217
+48,Medium Fast,1,Field,,25,20,190,70,60
+49,Medium Fast,1,Field,,25,20,190,70,60
+50,Medium Fast,1,Field,,25,20,75,70,177
+51,Medium Fast,1,Field,,25,20,75,70,177
+52,Fast,1,Fairy,,25,10,170,70,95
+53,Fast,1,Fairy,,25,10,50,70,196
+54,Medium Fast,1,Flying,,50,15,255,70,49
+55,Medium Fast,1,Flying,,50,15,90,70,159
+56,Medium Slow,1,Grass,,50,20,255,70,64
+57,Medium Slow,1,Grass,,50,20,120,70,138
+58,Medium Slow,1,Grass,,50,20,45,70,221
+59,Medium Fast,2,Bug,Grass,50,20,190,70,57
+60,Medium Fast,2,Bug,Grass,50,20,75,70,142
+61,Medium Fast,1,Bug,,50,20,190,70,61
+62,Medium Fast,1,Bug,,50,20,75,70,158
+63,Medium Fast,1,Field,,50,20,255,70,53
+64,Medium Fast,1,Field,,50,20,255,70,53
+65,Medium Fast,1,Field,,50,20,50,70,149
+66,Medium Fast,1,Field,,50,20,50,70,149
+67,Medium Fast,1,Field,,50,20,255,70,58
+68,Medium Fast,1,Field,,50,20,255,70,58
+69,Medium Fast,1,Field,,,20,,,
+70,Medium Fast,1,Field,,50,20,90,70,154
+71,Medium Fast,1,Field,,50,20,90,70,154
+72,Medium Fast,2,Field,Water 1,50,20,190,70,64
+73,Medium Fast,2,Field,Water 1,50,20,75,70,175
+74,Medium Fast,1,Field,,50,20,190,70,61
+75,Medium Fast,1,Field,,50,20,75,70,159
+76,Slow,1,Field,,75,20,190,70,70
+77,Slow,1,Field,,75,20,75,70,194
+78,Medium Slow,1,Water 1,,50,20,255,70,60
+79,Medium Slow,1,Water 1,,50,20,120,70,135
+80,Medium Slow,1,Water 1,,50,20,45,70,230
+81,Medium Slow,1,Human-Like,,75,20,200,70,62
+82,Medium Slow,1,Human-Like,,75,20,100,70,140
+83,Medium Slow,1,Human-Like,,75,20,50,70,225
+84,Medium Slow,1,Human-Like,,75,20,50,70,270
+85,Medium Slow,1,Human-Like,,75,20,180,70,61
+86,Medium Slow,1,Human-Like,,75,20,90,70,142
+87,Medium Slow,1,Human-Like,,75,20,45,70,227
+88,Medium Slow,1,Grass,,50,20,255,70,60
+89,Medium Slow,1,Grass,,50,20,120,70,137
+90,Medium Slow,1,Grass,,50,20,45,70,221
+91,Slow,1,Water 3,,50,20,190,70,67
+92,Slow,1,Water 3,,50,20,60,70,180
+93,Medium Slow,1,Mineral,,50,15,255,70,60
+94,Medium Slow,1,Mineral,,50,15,255,70,60
+95,Medium Slow,1,Mineral,,50,15,120,70,137
+96,Medium Slow,1,Mineral,,50,15,120,70,137
+97,Medium Slow,1,Mineral,,50,15,45,70,223
+98,Medium Slow,1,Mineral,,50,15,45,70,223
+99,Medium Fast,1,Field,,50,20,190,70,82
+100,Medium Fast,1,Field,,,20,,,
+101,Medium Fast,1,Field,,50,20,60,70,175
+102,Medium Fast,1,Field,,,20,,,
+103,Medium Fast,2,Monster,Water 1,50,20,190,70,63
+104,Medium Fast,2,Monster,Water 1,50,20,75,70,172
+105,Medium Fast,2,Monster,Water 1,50,20,75,70,207
+106,Medium Fast,1,Mineral,,,20,190,70,65
+107,Medium Fast,1,Mineral,,,20,60,70,163
+108,Medium Fast,2,Field,Flying,50,20,45,70,132
+109,Medium Fast,2,Field,Flying,,20,,,
+110,Medium Fast,1,Flying,,50,20,190,70,62
+111,Medium Fast,1,Flying,,50,20,45,70,165
+112,Medium Fast,2,Field,Water 1,50,20,190,70,65
+113,Medium Fast,2,Field,Water 1,50,20,75,70,166
+114,Medium Fast,1,Amorphous,,50,20,190,70,65
+115,Medium Fast,1,Amorphous,,50,20,190,70,65
+116,Medium Fast,1,Amorphous,,50,20,75,70,175
+117,Medium Fast,1,Amorphous,,50,20,75,70,175
+118,Slow,1,Water 3,,50,20,190,70,61
+119,Slow,1,Water 3,,50,20,60,70,184
+120,Medium Slow,1,Amorphous,,50,20,190,70,62
+121,Medium Slow,1,Amorphous,,50,20,90,70,142
+122,Medium Slow,1,Amorphous,,50,20,45,70,225
+123,Medium Slow,1,Amorphous,,50,20,45,70,270
+124,Medium Fast,1,Mineral,,50,25,45,70,77
+125,Medium Fast,1,Human-Like,,50,20,190,70,66
+126,Medium Fast,1,Human-Like,,50,20,75,70,169
+127,Medium Fast,1,Water 3,,50,20,225,70,65
+128,Medium Fast,1,Water 3,,50,20,60,70,166
+129,Medium Fast,1,Mineral,,,20,190,70,66
+130,Medium Fast,1,Mineral,,,20,60,70,172
+131,Slow,1,Grass,,50,20,90,70,65
+132,Slow,1,Grass,,50,20,45,70,186
+133,Slow,1,Grass,,50,20,45,70,186
+134,Medium Fast,1,Monster,,50,20,190,70,64
+135,Medium Fast,1,Monster,,50,20,75,70,149
+136,Medium Fast,1,Monster,,50,20,75,70,149
+137,Medium Fast,1,Human-Like,,100,25,45,70,159
+138,Medium Fast,1,Human-Like,,100,25,45,70,159
+139,Medium Fast,1,Monster,,50,20,45,70,77
+140,Medium Fast,1,Amorphous,,50,20,190,70,68
+141,Medium Fast,1,Amorphous,,50,20,60,70,172
+142,Medium Fast,1,Amorphous,,,20,,,
+143,Slow,2,Field,Monster,50,20,120,70,69
+144,Slow,2,Field,Monster,50,20,60,70,170
+145,Fast,1,Fairy,,0,40,30,140,395
+146,Medium Fast,1,Grass,,50,20,45,70,87
+147,Medium Fast,1,Monster,,0,20,45,70,172
+148,Medium Fast,1,Monster,,0,20,45,70,207
+149,Medium Fast,2,Dragon,Water 1,50,20,225,70,59
+150,Medium Fast,2,Dragon,Water 1,50,20,75,70,154
+151,Medium Fast,1,Water 2,,50,20,225,70,64
+152,Medium Fast,1,Water 2,,50,20,60,70,158
+153,Slow,1,Water 3,,,20,225,70,68
+154,Slow,1,Water 3,,,20,60,70,182
+155,Medium Fast,1,Human-Like,,50,25,45,70,161
+156,Medium Fast,1,Human-Like,,,25,,,
+157,Medium Fast,1,Bug,,50,25,45,70,100
+158,Medium Fast,1,Human-Like,,0,25,45,70,159
+159,Medium Fast,1,Human-Like,,75,25,45,70,172
+160,Medium Fast,1,Human-Like,,75,25,45,70,173
+161,Slow,1,Bug,,50,25,45,70,175
+162,Slow,1,Bug,,50,25,45,70,210
+163,Slow,1,Field,,100,20,45,70,172
+164,Slow,2,Dragon,Water 2,50,5,255,70,40
+165,Slow,2,Dragon,Water 2,50,5,45,70,189
+166,Slow,2,Dragon,Water 2,50,5,45,70,224
+167,Slow,2,Monster,Water 1,50,40,45,70,187
+168,Medium Fast,1,Ditto,,,20,35,70,101
+169,Medium Fast,1,Field,,87.5,35,45,70,65
+170,Medium Fast,0,,,87.5,35,45,70,65
+171,Medium Fast,1,Field,,87.5,35,45,70,184
+172,Medium Fast,1,Field,,87.5,35,45,70,184
+173,Medium Fast,1,Field,,87.5,35,45,70,184
+174,Medium Fast,1,Mineral,,,20,45,70,79
+175,Medium Fast,2,Water 1,Water 3,87.5,30,45,70,71
+176,Medium Fast,2,Water 1,Water 3,87.5,30,45,70,173
+177,Medium Fast,2,Water 1,Water 3,87.5,30,45,70,71
+178,Medium Fast,2,Water 1,Water 3,87.5,30,45,70,173
+179,Slow,1,Flying,,87.5,35,45,70,180
+180,Slow,1,Flying,,87.5,35,45,70,215
+181,Slow,1,Monster,,87.5,40,25,70,189
+182,Slow,1,Undiscovered,,,80,3,35,261
+183,Slow,1,Undiscovered,,,80,3,35,261
+184,Slow,1,Undiscovered,,,80,3,35,261
+185,Slow,2,Dragon,Water 1,50,40,45,35,60
+186,Slow,2,Dragon,Water 1,50,40,45,35,147
+187,Slow,2,Dragon,Water 1,50,40,45,35,270
+188,Slow,1,Undiscovered,,,120,3,0,306
+189,Slow,1,Undiscovered,,,120,3,0,351
+190,Slow,1,Undiscovered,,,120,3,0,351
+191,Medium Slow,1,Undiscovered,,,120,45,100,270
+192,Medium Slow,2,Grass,Monster,87.5,20,45,70,64
+193,Medium Slow,2,Grass,Monster,87.5,20,45,70,142
+194,Medium Slow,2,Grass,Monster,87.5,20,45,70,236
+195,Medium Slow,1,Field,,87.5,20,45,70,62
+196,Medium Slow,1,Field,,87.5,20,45,70,142
+197,Medium Slow,1,Field,,87.5,20,45,70,240
+198,Medium Slow,2,Monster,Water 1,87.5,20,45,70,63
+199,Medium Slow,2,Monster,Water 1,87.5,20,45,70,142
+200,Medium Slow,2,Monster,Water 1,87.5,20,45,70,239
+201,Medium Fast,1,Field,,50,15,255,70,43
+202,Medium Fast,1,Field,,50,15,90,70,145
+203,Medium Fast,1,Flying,,50,15,255,70,52
+204,Medium Fast,1,Flying,,50,15,90,70,158
+205,Fast,1,Bug,,50,15,255,70,53
+206,Fast,1,Bug,,50,15,90,70,137
+207,Fast,1,Bug,,50,15,255,70,50
+208,Fast,1,Bug,,50,15,90,70,140
+209,Medium Fast,1,Flying,,50,15,90,70,241
+210,Slow,1,Water 2,,50,20,190,70,66
+211,Slow,1,Water 2,,50,20,75,70,161
+212,Medium Fast,1,Undiscovered,,50,10,190,70,41
+213,Fast,1,Undiscovered,,25,10,150,140,44
+214,Fast,1,Undiscovered,,25,10,170,70,42
+215,Fast,1,Undiscovered,,87.5,10,190,70,49
+216,Fast,2,Fairy,Flying,87.5,10,75,70,142
+217,Medium Fast,1,Flying,,50,20,190,70,64
+218,Medium Fast,1,Flying,,50,20,75,70,165
+219,Medium Slow,2,Field,Monster,50,20,235,70,56
+220,Medium Slow,2,Field,Monster,50,20,120,70,128
+221,Medium Slow,2,Field,Monster,50,20,45,70,230
+222,Medium Slow,2,Field,Monster,50,20,45,70,275
+223,Medium Slow,1,Grass,,50,20,45,70,221
+224,Fast,2,Fairy,Water 1,50,10,190,70,88
+225,Fast,2,Fairy,Water 1,50,10,75,70,189
+226,Medium Fast,1,Mineral,,50,20,65,70,144
+227,Medium Slow,1,Water 1,,50,20,45,70,225
+228,Medium Slow,2,Fairy,Grass,50,20,255,70,50
+229,Medium Slow,2,Fairy,Grass,50,20,120,70,119
+230,Medium Slow,2,Fairy,Grass,50,20,45,70,207
+231,Fast,1,Field,,50,20,45,70,72
+232,Medium Slow,1,Grass,,50,20,235,70,36
+233,Medium Slow,1,Grass,,50,20,120,70,149
+234,Medium Fast,1,Bug,,50,20,75,70,78
+235,Medium Fast,2,Field,Water 1,50,20,255,70,42
+236,Medium Fast,2,Field,Water 1,50,20,90,70,151
+237,Medium Fast,1,Field,,87.5,35,45,70,184
+238,Medium Fast,1,Field,,87.5,35,45,35,184
+239,Medium Slow,1,Flying,,50,20,30,35,81
+240,Medium Fast,2,Monster,Water 1,50,20,70,70,172
+241,Fast,1,Amorphous,,50,25,45,35,87
+242,Medium Fast,1,Undiscovered,,,40,225,70,118
+243,Medium Fast,1,Amorphous,,50,20,45,70,142
+244,Medium Fast,1,Field,,50,20,60,70,159
+245,Medium Fast,1,Bug,,50,20,190,70,58
+246,Medium Fast,1,Bug,,50,20,75,70,163
+247,Medium Fast,1,Field,,50,20,190,70,145
+248,Medium Slow,1,Bug,,50,20,60,70,86
+249,Medium Fast,1,Mineral,,50,25,25,70,179
+250,Medium Fast,1,Mineral,,50,25,25,70,214
+251,Fast,2,Fairy,Field,25,20,190,70,60
+252,Fast,2,Fairy,Field,25,20,75,70,158
+253,Medium Fast,1,Water 2,,50,20,45,70,88
+254,Medium Fast,1,Bug,,50,25,25,70,175
+255,Medium Fast,1,Bug,,50,25,25,70,210
+256,Medium Slow,1,Bug,,50,20,190,70,177
+257,Slow,1,Bug,,50,25,45,70,175
+258,Slow,1,Bug,,50,25,45,70,210
+259,Medium Slow,1,Field,,50,20,60,35,86
+260,Medium Fast,1,Field,,50,20,120,70,66
+261,Medium Fast,1,Field,,50,20,60,70,175
+262,Medium Fast,1,Amorphous,,50,20,190,70,50
+263,Medium Fast,1,Amorphous,,50,20,75,70,151
+264,Slow,1,Field,,50,20,225,70,50
+265,Slow,1,Field,,50,20,75,70,158
+266,Fast,2,Water 1,Water 3,25,20,60,70,144
+267,Fast,2,Water 1,Water 3,,20,,,
+268,Medium Fast,2,Water 1,Water 2,50,20,190,70,60
+269,Medium Fast,2,Water 1,Water 2,50,20,75,70,168
+270,Fast,2,Field,Water 1,50,20,45,70,116
+271,Slow,1,Water 1,,50,25,25,70,170
+272,Slow,1,Flying,,50,25,25,70,163
+273,Slow,1,Field,,50,20,120,35,66
+274,Slow,1,Field,,50,20,45,35,175
+275,Slow,1,Field,,50,20,45,35,210
+276,Medium Fast,2,Dragon,Water 1,50,20,45,70,243
+277,Medium Fast,1,Field,,50,20,120,70,66
+278,Medium Fast,1,Field,,50,20,60,70,175
+279,Medium Fast,1,Mineral,,,20,45,70,180
+280,Slow,1,Field,,50,20,45,70,163
+281,Fast,1,Field,,50,20,45,70,88
+282,Medium Fast,1,Undiscovered,,100,25,75,70,42
+283,Medium Fast,1,Human-Like,,100,25,45,70,159
+284,Medium Fast,1,Undiscovered,,0,25,45,70,61
+285,Medium Fast,1,Undiscovered,,75,25,45,70,72
+286,Medium Fast,1,Undiscovered,,75,25,45,70,73
+287,Slow,1,Field,,0,20,45,70,172
+288,Fast,1,Fairy,,0,40,30,140,608
+289,Slow,1,Undiscovered,,,80,3,35,261
+290,Slow,1,Undiscovered,,,80,3,35,261
+291,Slow,1,Undiscovered,,,80,3,35,261
+292,Slow,1,Monster,,50,40,45,35,60
+293,Slow,1,Monster,,50,40,45,35,144
+294,Slow,1,Monster,,50,40,45,35,270
+295,Slow,1,Monster,,50,40,45,35,315
+296,Slow,1,Undiscovered,,,120,3,0,306
+297,Slow,1,Undiscovered,,,120,3,0,306
+298,Medium Slow,1,Undiscovered,,,120,45,100,270
+299,Medium Slow,2,Dragon,Monster,87.5,20,45,70,62
+300,Medium Slow,2,Dragon,Monster,87.5,20,45,70,142
+301,Medium Slow,2,Dragon,Monster,87.5,20,45,70,239
+302,Medium Slow,2,Dragon,Monster,87.5,20,45,70,284
+303,Medium Slow,1,Field,,87.5,20,45,70,62
+304,Medium Slow,1,Field,,87.5,20,45,70,142
+305,Medium Slow,1,Field,,87.5,20,45,70,239
+306,Medium Slow,1,Field,,87.5,20,45,70,284
+307,Medium Slow,2,Monster,Water 1,87.5,20,45,70,62
+308,Medium Slow,2,Monster,Water 1,87.5,20,45,70,142
+309,Medium Slow,2,Monster,Water 1,87.5,20,45,70,241
+310,Medium Slow,2,Monster,Water 1,87.5,20,45,70,286
+311,Medium Fast,1,Field,,50,15,255,70,56
+312,Medium Fast,1,Field,,50,15,127,70,147
+313,Medium Fast,1,Field,,50,15,255,70,56
+314,Medium Fast,1,Field,,,15,,,
+315,Medium Fast,1,Field,,50,15,90,70,147
+316,Medium Fast,1,Field,,,15,,,
+317,Medium Fast,1,Bug,,50,15,255,70,56
+318,Medium Fast,1,Bug,,50,15,120,70,72
+319,Medium Fast,1,Bug,,50,15,45,70,178
+320,Medium Fast,1,Bug,,50,15,120,70,72
+321,Medium Fast,1,Bug,,50,15,45,70,173
+322,Medium Slow,2,Grass,Water 1,50,15,255,70,44
+323,Medium Slow,2,Grass,Water 1,50,15,120,70,119
+324,Medium Slow,2,Grass,Water 1,50,15,45,70,216
+325,Medium Slow,2,Field,Grass,50,15,255,70,44
+326,Medium Slow,2,Field,Grass,50,15,120,70,119
+327,Medium Slow,2,Field,Grass,50,15,45,70,216
+328,Medium Slow,1,Flying,,50,15,200,70,54
+329,Medium Slow,1,Flying,,50,15,45,70,159
+330,Medium Fast,2,Flying,Water 1,50,20,190,70,54
+331,Medium Fast,2,Flying,Water 1,50,20,45,70,154
+332,Slow,2,Amorphous,Human-Like,50,20,235,35,40
+333,Slow,2,Amorphous,Human-Like,50,20,120,35,97
+334,Slow,2,Amorphous,Human-Like,50,20,45,35,233
+335,Slow,1,Amorphous,,50,20,45,35,278
+336,Medium Fast,2,Bug,Water 1,50,15,200,70,54
+337,Medium Fast,2,Bug,Water 1,50,15,75,70,159
+338,Fluctuating,2,Fairy,Grass,50,15,255,70,59
+339,Fluctuating,2,Fairy,Grass,50,15,90,70,161
+340,Slow,1,Field,,50,15,255,70,56
+341,Slow,1,Field,,50,15,120,70,154
+342,Slow,1,Field,,50,15,45,70,252
+343,Erratic,1,Bug,,50,15,255,70,53
+344,Erratic,1,Bug,,50,15,120,70,160
+345,Erratic,1,Mineral,,,15,45,70,83
+346,Medium Slow,2,Field,Monster,50,20,190,70,48
+347,Medium Slow,2,Field,Monster,50,20,120,70,126
+348,Medium Slow,2,Field,Monster,50,20,45,70,221
+349,Fluctuating,1,Human-Like,,75,20,180,70,47
+350,Fluctuating,1,Human-Like,,75,20,200,70,166
+351,Fast,1,Undiscovered,,25,10,150,70,38
+352,Medium Fast,1,Mineral,,50,20,255,70,75
+353,Fast,2,Fairy,Field,25,15,255,70,52
+354,Fast,2,Fairy,Field,25,15,60,70,140
+355,Medium Slow,1,Human-Like,,50,25,45,35,133
+356,Medium Slow,1,Human-Like,,50,25,45,35,168
+357,Fast,2,Fairy,Field,50,20,45,70,133
+358,Fast,2,Fairy,Field,50,20,45,70,168
+359,Slow,1,Monster,,50,35,180,35,66
+360,Slow,1,Monster,,50,35,90,35,151
+361,Slow,1,Monster,,50,35,45,35,239
+362,Slow,1,Monster,,50,35,45,35,284
+363,Medium Fast,1,Human-Like,,50,20,180,70,56
+364,Medium Fast,1,Human-Like,,50,20,90,70,144
+365,Medium Fast,1,Human-Like,,50,20,90,70,179
+366,Slow,1,Field,,50,20,120,70,59
+367,Slow,1,Field,,50,20,45,70,166
+368,Slow,1,Field,,50,20,45,70,201
+369,Medium Fast,1,Fairy,,50,20,200,70,142
+370,Medium Fast,1,Fairy,,50,20,200,70,142
+371,Erratic,2,Bug,Human-Like,100,15,150,70,151
+372,Fluctuating,2,Bug,Human-Like,0,15,150,70,151
+373,Medium Slow,2,Fairy,Grass,50,20,150,70,140
+374,Fluctuating,1,Amorphous,,50,20,225,70,60
+375,Fluctuating,1,Amorphous,,50,20,75,70,163
+376,Slow,1,Water 2,,50,20,225,35,61
+377,Slow,1,Water 2,,50,20,60,35,161
+378,Slow,1,Water 2,,50,20,60,35,196
+379,Fluctuating,2,Field,Water 2,50,40,125,70,80
+380,Fluctuating,2,Field,Water 2,50,40,60,70,175
+381,Medium Fast,1,Field,,50,20,255,70,61
+382,Medium Fast,1,Field,,50,20,150,70,161
+383,Medium Fast,1,Field,,50,20,150,70,196
+384,Medium Fast,1,Field,,50,20,90,70,165
+385,Fast,1,Field,,50,20,255,70,66
+386,Fast,1,Field,,50,20,60,70,165
+387,Fast,2,Field,Human-Like,50,15,255,70,126
+388,Medium Slow,2,Bug,Dragon,50,20,255,70,58
+389,Medium Slow,2,Bug,Dragon,50,20,120,70,119
+390,Medium Slow,2,Bug,Dragon,50,20,45,70,234
+391,Medium Slow,2,Grass,Human-Like,50,20,190,35,67
+392,Medium Slow,2,Grass,Human-Like,50,20,60,35,166
+393,Erratic,2,Dragon,Flying,50,20,255,70,62
+394,Erratic,2,Dragon,Flying,50,20,45,70,172
+395,Erratic,2,Dragon,Flying,50,20,45,70,207
+396,Erratic,1,Field,,50,20,90,70,160
+397,Fluctuating,2,Dragon,Field,50,20,90,70,160
+398,Fast,1,Mineral,,,25,45,70,161
+399,Fast,1,Mineral,,,25,45,70,161
+400,Medium Fast,1,Water 2,,50,20,190,70,58
+401,Medium Fast,1,Water 2,,50,20,75,70,164
+402,Fluctuating,2,Water 1,Water 3,50,15,205,70,62
+403,Fluctuating,2,Water 1,Water 3,50,15,155,70,164
+404,Medium Fast,1,Mineral,,,20,255,70,60
+405,Medium Fast,1,Mineral,,,20,90,70,175
+406,Erratic,1,Water 3,,87.5,30,45,70,71
+407,Erratic,1,Water 3,,87.5,30,45,70,173
+408,Erratic,1,Water 3,,87.5,30,45,70,71
+409,Erratic,1,Water 3,,87.5,30,45,70,173
+410,Erratic,2,Dragon,Water 1,50,20,255,70,40
+411,Erratic,2,Dragon,Water 1,50,20,60,70,189
+412,Medium Fast,2,Amorphous,Fairy,50,25,45,70,147
+413,Medium Fast,2,Amorphous,Fairy,50,25,45,70,147
+414,Medium Fast,2,Amorphous,Fairy,50,25,45,70,147
+415,Medium Fast,2,Amorphous,Fairy,50,25,45,70,147
+416,Medium Slow,1,Field,,50,20,200,70,154
+417,Fast,1,Amorphous,,50,25,225,35,59
+418,Fast,1,Amorphous,,50,25,45,35,159
+419,Fast,1,Amorphous,,50,25,45,35,194
+420,Fast,1,Amorphous,,50,25,190,35,59
+421,Fast,1,Amorphous,,50,25,90,35,159
+422,Slow,2,Grass,Monster,50,25,200,70,161
+423,Fast,1,Amorphous,,50,25,45,70,159
+424,Medium Slow,1,Field,,50,25,30,35,163
+425,Medium Slow,1,Field,,50,25,30,35,198
+426,Medium Fast,1,Undiscovered,,50,20,125,70,52
+427,Medium Fast,2,Fairy,Mineral,50,20,190,70,60
+428,Medium Fast,2,Fairy,Mineral,50,20,75,70,168
+429,Medium Fast,2,Fairy,Mineral,50,20,75,70,203
+430,Medium Slow,2,Field,Water 1,50,20,255,70,58
+431,Medium Slow,2,Field,Water 1,50,20,120,70,144
+432,Medium Slow,2,Field,Water 1,50,20,45,70,239
+433,Erratic,1,Water 1,,50,20,255,70,69
+434,Erratic,1,Water 1,,50,20,60,70,170
+435,Erratic,1,Water 1,,50,20,60,70,170
+436,Slow,2,Water 1,Water 2,87.5,40,25,70,170
+437,Fast,1,Water 2,,25,20,225,70,116
+438,Slow,1,Dragon,,50,40,45,35,60
+439,Slow,1,Dragon,,50,40,45,35,147
+440,Slow,1,Dragon,,50,40,45,35,270
+441,Slow,1,Dragon,,50,40,45,35,315
+442,Slow,1,Mineral,,,40,3,35,60
+443,Slow,1,Mineral,,,40,3,35,147
+444,Slow,1,Mineral,,,40,3,35,270
+445,Slow,1,Mineral,,,40,3,35,315
+446,Slow,1,Undiscovered,,,80,3,35,261
+447,Slow,1,Undiscovered,,,80,3,35,261
+448,Slow,1,Undiscovered,,,80,3,35,261
+449,Slow,1,Undiscovered,,0,120,3,90,270
+450,Slow,1,Undiscovered,,0,120,3,90,315
+451,Slow,1,Undiscovered,,100,120,3,90,270
+452,Slow,1,Undiscovered,,100,120,3,90,315
+453,Slow,1,Undiscovered,,,120,3,0,302
+454,Slow,1,Undiscovered,,,120,5,0,347
+455,Slow,1,Undiscovered,,,120,3,0,302
+456,Slow,1,Undiscovered,,,120,5,0,347
+457,Slow,1,Undiscovered,,,120,45,0,306
+458,Slow,1,Undiscovered,,,120,3,0,351
+459,Slow,1,Undiscovered,,,120,3,100,270
+460,Slow,1,Undiscovered,,,120,3,0,270
+461,Slow,1,Undiscovered,,,120,3,0,270
+462,Slow,1,Undiscovered,,,120,3,0,270
+463,Slow,1,Undiscovered,,,120,3,0,270
+464,Medium Slow,2,Grass,Monster,87.5,20,45,70,64
+465,Medium Slow,2,Grass,Monster,87.5,20,45,70,142
+466,Medium Slow,2,Grass,Monster,87.5,20,45,70,236
+467,Medium Slow,2,Field,Human-Like,87.5,20,45,70,62
+468,Medium Slow,2,Field,Human-Like,87.5,20,45,70,142
+469,Medium Slow,2,Field,Human-Like,87.5,20,45,70,240
+470,Medium Slow,2,Field,Water 1,87.5,20,45,70,63
+471,Medium Slow,2,Field,Water 1,87.5,20,45,70,142
+472,Medium Slow,2,Field,Water 1,87.5,20,45,70,239
+473,Medium Slow,1,Flying,,50,15,255,70,49
+474,Medium Slow,1,Flying,,50,15,120,70,119
+475,Medium Slow,1,Flying,,50,15,45,70,218
+476,Medium Fast,2,Field,Water 1,50,15,255,70,50
+477,Medium Fast,2,Field,Water 1,50,15,127,70,144
+478,Medium Slow,1,Bug,,50,15,255,70,39
+479,Medium Slow,1,Bug,,50,15,45,70,134
+480,Medium Slow,1,Field,,50,20,235,70,53
+481,Medium Slow,1,Field,,50,20,120,100,127
+482,Medium Slow,1,Field,,50,20,45,70,235
+483,Medium Slow,1,Undiscovered,,50,20,255,70,56
+484,Medium Slow,2,Fairy,Grass,50,20,75,70,232
+485,Erratic,1,Monster,,87.5,30,45,70,70
+486,Erratic,1,Monster,,87.5,30,45,70,173
+487,Erratic,1,Monster,,87.5,30,45,70,70
+488,Erratic,1,Monster,,87.5,30,45,70,173
+489,Medium Fast,1,Bug,,50,15,120,70,45
+490,Medium Fast,1,Bug,,0,15,45,70,148
+491,Medium Fast,1,Bug,,0,15,45,70,148
+492,Medium Fast,1,Bug,,0,15,45,70,148
+493,Medium Fast,1,Bug,,100,15,45,70,148
+494,Medium Slow,1,Bug,,87.5,15,120,70,49
+495,Medium Slow,1,Bug,,0,15,45,70,166
+496,Medium Fast,2,Fairy,Field,50,10,200,100,142
+497,Medium Fast,2,Field,Water 1,50,20,190,70,66
+498,Medium Fast,2,Field,Water 1,50,20,75,70,173
+499,Medium Fast,2,Fairy,Grass,50,20,190,70,55
+500,Medium Fast,2,Fairy,Grass,50,20,75,70,158
+501,Medium Fast,2,Amorphous,Water 1,50,20,190,70,65
+502,Medium Fast,2,Amorphous,Water 1,50,20,75,70,166
+503,Fast,1,Field,,50,20,45,100,169
+504,Fluctuating,1,Amorphous,,50,30,125,70,70
+505,Fluctuating,1,Amorphous,,50,30,60,70,174
+506,Medium Fast,2,Field,Human-Like,50,20,190,0,70
+507,Medium Fast,2,Field,Human-Like,50,20,60,140,168
+508,Medium Fast,2,Field,Human-Like,50,20,60,140,203
+509,Fast,1,Amorphous,,50,25,45,35,173
+510,Medium Slow,1,Flying,,50,20,30,35,177
+511,Fast,1,Field,,25,20,190,70,62
+512,Fast,1,Field,,25,20,75,70,158
+513,Fast,1,Undiscovered,,50,25,120,70,57
+514,Medium Fast,1,Field,,50,20,225,70,66
+515,Medium Fast,1,Field,,50,20,60,70,168
+516,Medium Fast,1,Mineral,,,20,255,70,60
+517,Medium Fast,1,Mineral,,,20,90,70,175
+518,Medium Fast,1,Undiscovered,,50,20,255,70,58
+519,Medium Fast,1,Undiscovered,,50,25,145,70,62
+520,Fast,1,Undiscovered,,0,40,130,140,110
+521,Medium Slow,1,Flying,,50,20,30,35,144
+522,Medium Fast,1,Amorphous,,50,30,100,70,170
+523,Slow,2,Dragon,Monster,50,40,45,70,60
+524,Slow,2,Dragon,Monster,50,40,45,70,144
+525,Slow,2,Dragon,Monster,50,40,45,70,270
+526,Slow,2,Dragon,Monster,50,40,45,70,315
+527,Slow,1,Undiscovered,,87.5,40,50,70,78
+528,Medium Slow,1,Undiscovered,,87.5,25,75,70,57
+529,Medium Slow,2,Field,Human-Like,87.5,25,45,70,184
+530,Medium Slow,2,Field,Human-Like,87.5,25,45,70,219
+531,Slow,1,Field,,50,30,140,70,66
+532,Slow,1,Field,,50,30,60,70,184
+533,Slow,2,Bug,Water 3,50,20,120,70,66
+534,Slow,2,Bug,Water 3,50,20,45,70,175
+535,Medium Fast,1,Human-Like,,50,10,140,100,60
+536,Medium Fast,1,Human-Like,,50,20,75,70,172
+537,Slow,1,Grass,,50,25,200,70,159
+538,Erratic,1,Water 2,,50,20,190,70,66
+539,Erratic,1,Water 2,,50,20,75,70,161
+540,Slow,1,Undiscovered,,50,25,25,70,69
+541,Slow,2,Grass,Monster,50,20,120,70,67
+542,Slow,2,Grass,Monster,50,20,60,70,173
+543,Slow,2,Grass,Monster,50,20,60,70,208
+544,Medium Slow,1,Field,,50,20,45,35,179
+545,Medium Fast,1,Mineral,,,20,30,70,241
+546,Medium Fast,1,Monster,,50,20,30,70,180
+547,Slow,2,Field,Monster,50,20,30,70,241
+548,Medium Fast,1,Grass,,50,20,30,70,187
+549,Medium Fast,1,Human-Like,,75,25,30,70,243
+550,Medium Fast,1,Human-Like,,75,25,30,70,243
+551,Fast,2,Fairy,Flying,87.5,10,30,70,245
+552,Medium Fast,1,Bug,,50,20,30,70,180
+553,Medium Fast,1,Field,,87.5,35,45,35,184
+554,Medium Fast,1,Field,,87.5,35,45,35,184
+555,Medium Slow,1,Bug,,50,20,30,70,179
+556,Slow,1,Field,,50,20,50,70,239
+557,Medium Fast,1,Mineral,,,20,30,70,241
+558,Slow,2,Amorphous,Human-Like,100,20,45,35,233
+559,Slow,1,Amorphous,,100,20,45,35,278
+560,Medium Fast,1,Mineral,,50,20,60,70,184
+561,Fast,1,Amorphous,,50,25,45,35,236
+562,Medium Fast,2,Fairy,Mineral,0,20,75,70,168
+563,Medium Fast,1,Amorphous,,,20,45,70,154
+564,Medium Fast,1,Amorphous,,,20,45,70,182
+565,Medium Fast,1,Amorphous,,,20,45,70,182
+566,Medium Fast,1,Amorphous,,,20,45,70,182
+567,Medium Fast,1,Amorphous,,,20,45,70,182
+568,Medium Fast,1,Amorphous,,,20,45,70,182
+569,Slow,1,Undiscovered,,,80,3,140,261
+570,Slow,1,Undiscovered,,,80,3,140,261
+571,Slow,1,Undiscovered,,,80,3,140,261
+572,Slow,1,Undiscovered,,,120,3,0,306
+573,Slow,1,Undiscovered,,,120,3,0,306
+574,Slow,1,Undiscovered,,50,10,3,100,270
+575,Slow,1,Undiscovered,,,120,3,0,302
+576,Slow,1,Undiscovered,,,120,3,0,306
+577,Slow,1,Undiscovered,,,120,3,0,306
+578,Slow,1,Undiscovered,,0,120,3,100,270
+579,Slow,2,Fairy,Water 1,,40,30,70,216
+580,Slow,2,Fairy,Water 1,,10,3,70,270
+581,Slow,1,Undiscovered,,,120,3,0,270
+582,Medium Slow,1,Undiscovered,,,120,45,100,270
+583,Medium Slow,1,Undiscovered,,,120,45,100,270
+584,Slow,1,Undiscovered,,,120,3,0,324
+585,Slow,1,Undiscovered,,,120,3,100,270
+586,Medium Slow,2,Field,Grass,87.5,20,45,70,62
+587,Medium Slow,2,Field,Grass,87.5,20,45,70,145
+588,Medium Slow,2,Field,Grass,87.5,20,45,70,238
+589,Medium Slow,1,Field,,87.5,20,45,70,62
+590,Medium Slow,1,Field,,87.5,20,45,70,146
+591,Medium Slow,1,Field,,87.5,20,45,70,238
+592,Medium Slow,1,Field,,87.5,20,45,70,62
+593,Medium Slow,1,Field,,87.5,20,45,70,145
+594,Medium Slow,1,Field,,87.5,20,45,70,238
+595,Medium Fast,1,Field,,50,15,255,70,51
+596,Medium Fast,1,Field,,50,20,255,70,147
+597,Medium Slow,1,Field,,50,15,255,70,55
+598,Medium Slow,1,Field,,50,15,120,70,130
+599,Medium Slow,1,Field,,50,15,45,70,225
+600,Medium Fast,1,Field,,50,20,255,70,56
+601,Medium Fast,1,Field,,50,20,90,70,156
+602,Medium Fast,1,Field,,87.5,20,190,70,63
+603,Medium Fast,1,Field,,87.5,20,75,70,174
+604,Medium Fast,1,Field,,87.5,20,190,70,63
+605,Medium Fast,1,Field,,87.5,20,75,70,174
+606,Medium Fast,1,Field,,87.5,20,190,70,63
+607,Medium Fast,1,Field,,87.5,20,75,70,174
+608,Fast,1,Field,,50,10,190,70,58
+609,Fast,1,Field,,50,10,75,70,170
+610,Medium Slow,1,Flying,,50,15,255,70,53
+611,Medium Slow,1,Flying,,50,15,120,70,125
+612,Medium Slow,1,Flying,,50,15,45,70,220
+613,Medium Fast,1,Field,,50,20,190,70,59
+614,Medium Fast,1,Field,,50,20,75,70,174
+615,Medium Slow,1,Mineral,,50,15,255,70,56
+616,Medium Slow,1,Mineral,,50,15,120,70,137
+617,Medium Slow,1,Mineral,,50,15,45,70,232
+618,Medium Fast,2,Field,Flying,50,15,190,70,65
+619,Medium Fast,2,Field,Flying,50,15,45,70,149
+620,Medium Fast,1,Field,,50,20,120,70,66
+621,Medium Fast,1,Field,,50,20,60,70,178
+622,Fast,1,Fairy,,50,20,255,70,390
+623,Fast,1,Fairy,,50,20,255,70,425
+624,Medium Slow,1,Human-Like,,75,20,180,70,61
+625,Medium Slow,1,Human-Like,,75,20,90,70,142
+626,Medium Slow,1,Human-Like,,75,20,45,70,227
+627,Medium Slow,1,Water 1,,50,20,255,70,59
+628,Medium Slow,1,Water 1,,50,20,120,70,134
+629,Medium Slow,1,Water 1,,50,20,45,70,229
+630,Medium Fast,1,Human-Like,,100,20,45,70,163
+631,Medium Fast,1,Human-Like,,100,20,45,70,163
+632,Medium Slow,1,Bug,,50,15,255,70,62
+633,Medium Slow,1,Bug,,50,15,120,70,133
+634,Medium Slow,1,Bug,,50,15,45,70,225
+635,Medium Slow,1,Bug,,50,15,255,70,52
+636,Medium Slow,1,Bug,,50,15,120,70,126
+637,Medium Slow,1,Bug,,50,20,45,70,218
+638,Medium Fast,2,Fairy,Grass,50,20,190,70,56
+639,Medium Fast,2,Fairy,Grass,50,20,75,70,168
+640,Medium Fast,1,Grass,,0,20,190,70,56
+641,Medium Fast,1,Grass,,0,20,75,70,168
+642,Medium Fast,1,Water 2,,50,40,25,70,161
+643,Medium Fast,1,Water 2,,50,40,25,70,161
+644,Medium Slow,1,Field,,50,20,180,70,58
+645,Medium Slow,1,Field,,50,20,90,70,123
+646,Medium Slow,1,Field,,50,20,45,70,234
+647,Medium Slow,1,Field,,50,20,120,70,63
+648,Medium Slow,1,Field,,,20,,,
+649,Medium Slow,1,Field,,50,20,60,70,168
+650,Medium Slow,1,Field,,50,20,60,70,189
+651,Medium Slow,1,Field,,,20,,,
+652,,0,,,,,,,
+653,Medium Fast,1,Grass,,50,20,255,70,161
+654,Medium Fast,2,Bug,Mineral,50,20,190,70,65
+655,Medium Fast,2,Bug,Mineral,50,20,75,70,170
+656,Medium Fast,2,Dragon,Field,50,15,180,35,70
+657,Medium Fast,2,Dragon,Field,50,15,90,70,171
+658,Medium Fast,1,Flying,,50,20,45,70,172
+659,Medium Fast,2,Amorphous,Mineral,50,25,190,70,61
+660,Medium Fast,2,Amorphous,Mineral,,25,,,
+661,Medium Fast,2,Amorphous,Mineral,50,25,90,70,169
+662,Medium Fast,2,Water 1,Water 3,87.5,30,45,70,71
+663,Medium Fast,2,Water 1,Water 3,87.5,30,45,70,173
+664,Medium Fast,2,Flying,Water 3,87.5,30,45,70,71
+665,Medium Fast,2,Flying,Water 3,87.5,30,45,70,177
+666,Medium Fast,1,Mineral,,50,20,190,70,66
+667,Medium Fast,1,Mineral,,50,20,60,70,166
+668,Medium Slow,1,Field,,87.5,25,75,70,66
+669,Medium Slow,1,Field,,87.5,20,45,70,179
+670,Fast,1,Field,,25,15,255,70,60
+671,Fast,1,Field,,25,15,60,70,165
+672,Medium Slow,1,Human-Like,,25,20,200,70,58
+673,Medium Slow,1,Human-Like,,25,20,100,70,137
+674,Medium Slow,1,Human-Like,,25,20,50,70,221
+675,Medium Slow,1,Amorphous,,50,20,200,70,58
+676,Medium Slow,1,Amorphous,,50,20,100,70,130
+677,Medium Slow,1,Amorphous,,50,20,50,70,221
+678,Medium Fast,2,Flying,Water 1,50,20,190,70,61
+679,Medium Fast,2,Flying,Water 1,50,20,45,70,166
+680,Slow,1,Mineral,,50,20,255,70,61
+681,Slow,1,Mineral,,50,20,120,70,138
+682,Slow,1,Mineral,,50,20,45,70,241
+683,Medium Fast,1,Field,,50,20,190,70,67
+684,Medium Fast,1,Field,,50,20,75,70,166
+685,Medium Fast,1,Field,,50,20,200,70,150
+686,Medium Fast,1,Bug,,50,15,200,70,63
+687,Medium Fast,1,Bug,,50,15,75,70,173
+688,Medium Fast,1,Grass,,50,20,190,70,59
+689,Medium Fast,1,Grass,,50,20,75,70,162
+690,Medium Fast,1,Amorphous,,50,20,190,70,67
+691,Medium Fast,1,Amorphous,,50,20,60,70,168
+692,Fast,2,Water 1,Water 2,50,40,75,70,165
+693,Medium Fast,1,Bug,,50,20,190,70,64
+694,Medium Fast,1,Bug,,50,20,75,70,165
+695,Medium Fast,2,Grass,Mineral,50,20,255,70,61
+696,Medium Fast,2,Grass,Mineral,50,20,90,70,171
+697,Medium Slow,1,Mineral,,,20,130,70,60
+698,Medium Slow,1,Mineral,,,20,60,70,154
+699,Medium Slow,1,Mineral,,,20,30,70,234
+700,Slow,1,Amorphous,,50,20,190,70,55
+701,Slow,1,Amorphous,,50,20,60,70,142
+702,Slow,1,Amorphous,,50,20,30,70,232
+703,Medium Fast,1,Human-Like,,50,20,255,70,67
+704,Medium Fast,1,Human-Like,,50,20,90,70,170
+705,Medium Slow,1,Amorphous,,50,20,190,70,55
+706,Medium Slow,1,Amorphous,,50,20,90,70,130
+707,Medium Slow,1,Amorphous,,50,20,45,70,234
+708,Slow,2,Dragon,Monster,50,40,75,35,64
+709,Slow,2,Dragon,Monster,50,40,60,35,144
+710,Slow,2,Dragon,Monster,50,40,45,35,243
+711,Medium Fast,1,Field,,50,20,120,70,61
+712,Medium Fast,1,Field,,50,20,60,70,177
+713,Medium Fast,1,Mineral,,,25,25,70,180
+714,Medium Fast,1,Bug,,50,15,200,70,61
+715,Medium Fast,1,Bug,,50,15,75,70,173
+716,Medium Fast,2,Amorphous,Water 1,50,20,75,70,165
+717,Medium Fast,2,Amorphous,Water 1,,20,,,
+718,Medium Slow,2,Field,Human-Like,50,25,180,70,70
+719,Medium Slow,2,Field,Human-Like,50,25,45,70,179
+720,Medium Fast,2,Dragon,Monster,50,30,45,70,170
+721,Medium Fast,1,Mineral,,,25,190,70,61
+722,Medium Fast,1,Mineral,,,25,90,70,169
+723,Medium Fast,1,Human-Like,,50,20,120,35,68
+724,Medium Fast,1,Human-Like,,50,20,45,35,172
+725,Medium Fast,1,Field,,50,20,45,70,172
+726,Slow,1,Flying,,100,20,190,70,70
+727,Slow,1,Flying,,100,20,60,70,179
+728,Slow,1,Flying,,0,20,190,35,74
+729,Slow,1,Flying,,0,20,60,35,179
+730,Medium Fast,1,Field,,50,20,90,70,169
+731,Medium Fast,1,Bug,,50,20,90,70,169
+732,Slow,1,Dragon,,50,40,45,35,60
+733,Slow,1,Dragon,,50,40,45,35,147
+734,Slow,1,Dragon,,50,40,45,35,270
+735,Slow,1,Bug,,50,40,45,70,72
+736,Slow,1,Bug,,50,40,15,70,248
+737,Slow,1,Undiscovered,,,80,3,35,261
+738,Slow,1,Undiscovered,,,80,3,35,261
+739,Slow,1,Undiscovered,,,80,3,35,261
+740,Slow,1,Undiscovered,,100,120,3,90,261
+741,Slow,1,Undiscovered,,100,120,3,90,261
+742,Slow,1,Undiscovered,,100,120,3,90,261
+743,Slow,1,Undiscovered,,100,120,3,90,261
+744,Slow,1,Undiscovered,,,120,3,0,306
+745,Slow,1,Undiscovered,,,120,3,0,306
+746,Slow,1,Undiscovered,,100,120,3,90,270
+747,Slow,1,Undiscovered,,100,120,3,90,270
+748,Slow,1,Undiscovered,,,120,3,0,297
+749,Slow,1,Undiscovered,,,120,3,0,315
+750,Slow,1,Undiscovered,,,120,3,0,315
+751,Slow,1,Undiscovered,,,80,3,35,261
+752,Slow,1,Undiscovered,,,80,3,35,261
+753,Slow,1,Undiscovered,,,120,3,100,270
+754,Slow,1,Undiscovered,,,120,3,100,270
+755,Slow,1,Undiscovered,,,120,3,0,270
+756,Medium Slow,1,Field,,87.5,20,45,70,63
+757,Medium Slow,1,Field,,87.5,20,45,70,142
+758,Medium Slow,1,Field,,87.5,20,45,70,239
+759,Medium Slow,1,Field,,87.5,20,45,70,61
+760,Medium Slow,1,Field,,87.5,20,45,70,143
+761,Medium Slow,1,Field,,87.5,20,45,70,240
+762,Medium Slow,1,Water 1,,87.5,20,45,70,63
+763,Medium Slow,1,Water 1,,87.5,20,45,70,142
+764,Medium Slow,1,Water 1,,87.5,20,45,70,239
+765,Medium Slow,1,Undiscovered,,100,20,45,70,288
+766,Medium Fast,1,Field,,50,15,255,70,47
+767,Medium Fast,1,Field,,50,15,127,70,148
+768,Medium Slow,1,Flying,,50,15,255,70,56
+769,Medium Slow,1,Flying,,50,15,120,70,134
+770,Medium Slow,1,Flying,,50,15,45,70,175
+771,Medium Fast,1,Bug,,50,15,255,70,40
+772,Medium Fast,1,Bug,,50,15,120,70,75
+773,Medium Fast,1,Bug,,50,15,45,70,185
+774,Medium Slow,1,Field,,25,20,220,70,74
+775,Medium Slow,1,Field,,25,20,65,70,177
+776,Medium Fast,1,Fairy,,0,20,225,70,61
+777,Medium Fast,1,Fairy,,0,20,120,70,130
+778,Medium Fast,1,Fairy,,0,20,45,70,248
+779,Medium Fast,1,Field,,50,20,200,70,70
+780,Medium Fast,1,Field,,50,20,45,70,186
+781,Medium Fast,2,Field,Human-Like,50,25,220,70,70
+782,Medium Fast,2,Field,Human-Like,50,25,65,70,173
+783,Medium Fast,1,Field,,50,20,160,70,165
+784,Medium Fast,1,Field,,50,20,190,70,71
+785,Medium Fast,1,Field,,50,20,75,70,163
+786,Medium Fast,1,Field,,50,20,75,70,163
+787,Medium Fast,1,Mineral,,50,20,180,70,65
+788,Medium Fast,1,Mineral,,50,20,90,70,157
+789,Medium Fast,1,Mineral,,50,20,45,70,234
+790,Medium Fast,1,Mineral,,50,20,45,70,234
+791,Medium Fast,1,Fairy,,50,20,200,70,68
+792,Medium Fast,1,Fairy,,50,20,140,70,162
+793,Medium Fast,1,Fairy,,50,20,200,70,68
+794,Medium Fast,1,Fairy,,50,20,140,70,168
+795,Medium Fast,2,Water 1,Water 2,50,20,190,70,58
+796,Medium Fast,2,Water 1,Water 2,50,20,80,70,169
+797,Medium Fast,1,Water 3,,50,20,120,70,61
+798,Medium Fast,1,Water 3,,50,20,45,70,175
+799,Medium Fast,2,Dragon,Water 1,50,20,225,70,64
+800,Medium Fast,2,Dragon,Water 1,50,20,55,70,173
+801,Slow,2,Water 1,Water 3,50,15,225,70,66
+802,Slow,2,Water 1,Water 3,50,15,55,70,100
+803,Medium Fast,2,Dragon,Monster,50,20,190,70,58
+804,Medium Fast,2,Dragon,Monster,50,20,75,70,168
+805,Medium Fast,2,Dragon,Monster,87.5,30,45,70,72
+806,Medium Fast,2,Dragon,Monster,87.5,30,45,70,182
+807,Medium Fast,1,Monster,,87.5,30,45,70,72
+808,Medium Fast,1,Monster,,87.5,30,45,70,104
+809,Medium Fast,1,Field,,87.5,35,45,70,184
+810,Medium Fast,2,Flying,Human-Like,50,20,100,70,175
+811,Medium Fast,2,Fairy,Field,50,20,180,70,151
+812,Slow,2,Fairy,Mineral,,25,60,70,100
+813,Slow,1,Dragon,,50,40,45,35,60
+814,Slow,1,Dragon,,50,40,45,35,158
+815,Slow,1,Dragon,,50,40,45,35,270
+816,Fast,1,Mineral,,50,20,75,70,165
+817,Medium Fast,2,Amorphous,Grass,50,20,120,70,62
+818,Medium Fast,2,Amorphous,Grass,50,20,60,70,166
+819,Medium Fast,1,Amorphous,,50,20,120,70,67
+820,Medium Fast,1,Amorphous,,50,20,120,70,67
+821,Medium Fast,1,Amorphous,,50,20,120,70,67
+822,Medium Fast,1,Amorphous,,50,20,120,70,67
+823,Medium Fast,1,Amorphous,,50,20,60,70,173
+824,Medium Fast,1,Amorphous,,50,20,60,70,173
+825,Medium Fast,1,Amorphous,,50,20,60,70,173
+826,Medium Fast,1,Amorphous,,50,20,60,70,173
+827,Medium Fast,2,Mineral,Monster,50,20,190,70,61
+828,Medium Fast,2,Mineral,Monster,50,20,55,70,180
+829,Medium Fast,2,Dragon,Flying,50,20,190,70,49
+830,Medium Fast,2,Dragon,Flying,50,20,45,70,187
+831,Slow,1,Undiscovered,,,120,45,0,306
+832,Slow,1,Undiscovered,,,120,45,0,306
+833,Slow,1,Undiscovered,,,120,3,0,270
+834,Slow,1,Undiscovered,,,120,3,0,219
+835,Slow,1,Undiscovered,,,120,3,0,319
+836,Slow,1,Undiscovered,,,25,3,70,270
+837,Slow,1,Undiscovered,,,25,3,70,315
+838,Slow,1,Undiscovered,,,120,3,100,270
+839,Slow,1,Undiscovered,,,120,3,100,306
+840,Slow,1,Undiscovered,,,120,3,100,270
+841,Medium Slow,1,Flying,,87.5,15,45,70,64
+842,Medium Slow,1,Flying,,87.5,15,45,70,147
+843,Medium Slow,1,Flying,,87.5,15,45,70,239
+844,Medium Slow,1,Field,,87.5,15,45,70,64
+845,Medium Slow,1,Field,,87.5,15,45,70,147
+846,Medium Slow,1,Field,,87.5,15,45,70,239
+847,Medium Slow,2,Field,Water 1,87.5,15,45,70,64
+848,Medium Slow,2,Field,Water 1,87.5,15,45,70,147
+849,Medium Slow,2,Field,Water 1,87.5,15,45,70,239
+850,Medium Fast,1,Flying,,50,15,255,70,53
+851,Medium Fast,1,Flying,,50,15,120,70,124
+852,Medium Fast,1,Flying,,50,15,45,70,218
+853,Medium Fast,1,Field,,50,15,255,70,51
+854,Medium Fast,1,Field,,50,15,127,70,146
+855,Medium Fast,1,Bug,,50,15,255,70,60
+856,Medium Fast,1,Bug,,50,15,120,70,140
+857,Medium Fast,1,Bug,,50,15,45,70,225
+858,Medium Fast,1,Water 3,,50,20,225,70,68
+859,Medium Fast,1,Water 3,,50,20,60,70,167
+860,Medium Fast,1,Flying,,25,20,45,70,167
+861,Medium Fast,1,Flying,,25,20,45,70,167
+862,Medium Fast,1,Flying,,25,20,45,70,167
+863,Medium Fast,1,Flying,,25,20,45,70,167
+864,Medium Fast,2,Bug,Fairy,50,20,190,70,61
+865,Medium Fast,2,Bug,Fairy,50,20,75,70,162
+866,Medium Fast,1,Field,,50,15,190,70,56
+867,Medium Fast,1,Field,,50,15,190,70,56
+868,Medium Fast,1,Field,,50,15,90,70,170
+869,Medium Fast,1,Field,,50,15,90,70,170
+870,Medium Fast,1,Field,,50,15,90,70,170
+871,Fast,1,Water 2,,50,15,60,70,61
+872,Fast,1,Water 2,,50,15,60,70,217
+873,Medium Fast,1,Water 1,,50,20,190,70,61
+874,Medium Fast,1,Water 1,,50,20,75,70,173
+875,Medium Fast,1,Field,,50,20,190,70,77
+876,Medium Fast,1,Field,,50,20,60,70,175
+877,Medium Fast,2,Bug,Water 1,50,15,200,70,54
+878,Medium Fast,2,Bug,Water 1,50,15,100,70,159
+879,Medium Fast,1,Grass,,50,20,190,70,50
+880,Medium Fast,1,Grass,,50,20,75,70,168
+881,Medium Fast,1,Grass,,50,20,190,70,57
+882,Medium Fast,1,Grass,,50,20,75,70,142
+883,Medium Fast,2,Dragon,Monster,87.5,20,120,70,64
+884,Medium Fast,2,Dragon,Monster,0,20,45,70,168
+885,Medium Fast,1,Field,,50,15,140,70,68
+886,Medium Fast,1,Field,,50,15,70,70,175
+887,Medium Slow,1,Grass,,0,20,235,70,42
+888,Medium Slow,1,Grass,,0,20,120,70,102
+889,Medium Slow,1,Grass,,0,20,45,70,230
+890,Fast,1,Grass,,25,20,60,70,170
+891,Slow,1,Field,,50,20,45,70,172
+892,Slow,1,Field,,50,20,45,70,172
+893,Medium Fast,2,Bug,Water 3,50,20,90,70,46
+894,Medium Fast,2,Bug,Water 3,50,20,45,70,186
+895,Medium Fast,1,Amorphous,,50,15,140,70,64
+896,Medium Fast,1,Amorphous,,50,15,60,70,168
+897,Fast,1,Water 1,,50,15,60,70,144
+898,Slow,1,Undiscovered,,,120,3,0,107
+899,Slow,1,Undiscovered,,,120,3,0,257
+900,Medium Slow,1,Mineral,,,25,30,70,154
+901,Medium Slow,1,Mineral,,,25,30,70,175
+902,Slow,1,Field,,50,20,45,70,168
+903,Medium Fast,2,Dragon,Monster,50,20,70,70,170
+904,Medium Fast,2,Fairy,Field,50,10,180,70,152
+905,Medium Fast,1,Amorphous,,50,20,45,70,167
+906,Medium Fast,1,Water 2,,50,15,80,70,166
+907,Medium Fast,2,Dragon,Monster,50,20,70,70,170
+908,Medium Fast,1,Mineral,,,25,25,70,181
+909,Slow,1,Dragon,,50,40,45,70,60
+910,Slow,1,Dragon,,50,40,45,70,147
+911,Slow,1,Dragon,,50,40,45,70,270
+912,Slow,1,Undiscovered,,,15,3,70,257
+913,Slow,1,Undiscovered,,,15,3,70,257
+914,Slow,1,Undiscovered,,,15,3,70,257
+915,Slow,1,Undiscovered,,,15,3,70,257
+916,Slow,1,Undiscovered,,,120,45,0,40
+917,Slow,1,Undiscovered,,,120,45,0,140
+918,Slow,1,Undiscovered,,,120,45,0,306
+919,Slow,1,Undiscovered,,,120,45,0,306
+920,Slow,1,Undiscovered,,,120,45,0,257
+921,Slow,1,Undiscovered,,,120,45,0,257
+922,Slow,1,Undiscovered,,,120,45,0,257
+923,Slow,1,Undiscovered,,,120,45,0,257
+924,Slow,1,Undiscovered,,,120,45,0,257
+925,Slow,1,Undiscovered,,,120,45,0,257
+926,Slow,1,Undiscovered,,,120,45,0,257
+927,Slow,1,Undiscovered,,,120,255,0,270
+928,Slow,1,Undiscovered,,,120,3,0,306
+929,Slow,1,Undiscovered,,,120,3,0,306
+930,Slow,1,Undiscovered,,,120,3,0,339
+931,Slow,1,Undiscovered,,,120,3,0,270
+932,Slow,1,Undiscovered,,,120,3,0,270
+933,Slow,1,Undiscovered,,,120,45,0,189
+934,Slow,1,Undiscovered,,,120,45,0,243
+935,Slow,1,Undiscovered,,,120,30,0,257
+936,Slow,1,Undiscovered,,,120,30,0,257
+937,Slow,1,Undiscovered,,,120,3,0,270
+938,Slow,1,Undiscovered,,,120,,,
+939,Slow,1,Undiscovered,,,120,,,
+940,Medium Slow,2,Field,Grass,,20,,,
+941,Medium Slow,2,Field,Grass,,20,,,
+942,Medium Slow,2,Field,Grass,,20,,,
+943,Medium Slow,2,Field,Human-Like,,20,,,
+944,Medium Slow,2,Field,Human-Like,,20,,,
+945,Medium Slow,2,Field,Human-Like,,20,,,
+946,Medium Slow,2,Field,Water 1,,20,,,
+947,Medium Slow,2,Field,Water 1,,20,,,
+948,Medium Slow,2,Field,Water 1,,20,,,
+949,Medium Fast,1,Field,,,20,,,
+950,Medium Fast,1,Field,,,20,,,
+951,Medium Slow,1,Flying,,,15,,,
+952,Medium Slow,1,Flying,,,15,,,
+953,Medium Slow,1,Flying,,,15,,,
+954,Medium Fast,1,Bug,,,15,,,
+955,Medium Fast,1,Bug,,,15,,,
+956,Medium Fast,1,Bug,,,15,,,
+957,Fast,1,Field,,,15,,,
+958,Fast,1,Field,,,15,,,
+959,Medium Fast,1,Grass,,,20,,,
+960,Medium Fast,1,Grass,,,20,,,
+961,Medium Fast,1,Field,,,15,,,
+962,Medium Fast,1,Field,,,15,,,
+963,Medium Fast,2,Monster,Water 1,,20,,,
+964,Medium Fast,2,Monster,Water 1,,20,,,
+965,Fast,1,Field,,,20,,,
+966,Fast,1,Field,,,20,,,
+967,Medium Slow,1,Mineral,,,15,,,
+968,Medium Slow,1,Mineral,,,15,,,
+969,Medium Slow,1,Mineral,,,15,,,
+970,Erratic,2,Dragon,Grass,,20,,,
+971,Erratic,2,Dragon,Grass,,20,,,
+972,Erratic,2,Dragon,Grass,,20,,,
+973,Medium Fast,2,Dragon,Field,,20,,,
+974,Medium Fast,2,Dragon,Field,,20,,,
+975,Medium Fast,2,Flying,Water 1,,20,,,
+976,Slow,1,Water 2,,,20,,,
+977,Slow,1,Water 2,,,20,,,
+978,Medium Slow,1,Undiscovered,,,25,,,
+979,Medium Slow,1,Human-Like,,,25,,,
+980,Medium Slow,1,Human-Like,,,25,,,
+981,Medium Fast,1,Bug,,,20,,,
+982,Medium Fast,1,Bug,,,20,,,
+983,Medium Slow,2,Human-Like,Water 1,,25,,,
+984,Medium Slow,2,Human-Like,Water 1,,25,,,
+985,Medium Fast,2,Amorphous,Mineral,,20,,,
+986,Medium Fast,2,Amorphous,Mineral,,20,,,
+987,Slow,1,Fairy,,,20,,,
+988,Slow,1,Fairy,,,20,,,
+989,Slow,1,Fairy,,,20,,,
+990,Medium Fast,2,Fairy,Human-Like,,20,,,
+991,Medium Fast,2,Fairy,Human-Like,,20,,,
+992,Medium Fast,2,Fairy,Human-Like,,20,,,
+993,Medium Fast,1,Field,,,15,,,
+994,Medium Fast,1,Field,,,20,,,
+995,Fast,2,Water 1,Water 3,,20,,,
+996,Medium Fast,2,Field,Flying,,20,,,
+997,Medium Fast,1,Human-Like,,,25,,,
+998,Medium Fast,2,Amorphous,Mineral,,25,,,
+999,Medium Fast,2,Amorphous,Fairy,,20,,,
+1000,Medium Fast,2,Amorphous,Fairy,,20,,,
+1001,Medium Fast,2,Fairy,Mineral,,25,,,
+1002,Medium Fast,2,Amorphous,Water 1,,20,,,
+1003,Medium Fast,1,Bug,,,20,,,
+1004,Medium Fast,1,Bug,,,20,,,
+1005,Slow,1,Mineral,,,25,,,
+1006,Slow,2,Field,Water 1,,25,,,
+1007,Slow,2,Field,Water 1,,25,,,
+1008,Fast,1,Fairy,,,40,,,
+1009,Fast,1,Fairy,,,40,,,
+1010,Medium Fast,2,Fairy,Field,,10,,,
+1011,Medium Fast,2,Fairy,Field,,10,,,
+1012,Medium Fast,2,Field,Mineral,,25,,,
+1013,Medium Fast,2,Field,Mineral,,25,,,
+1014,Slow,1,Undiscovered,,,35,,,
+1015,Slow,1,Undiscovered,,,35,,,
+1016,Slow,1,Undiscovered,,,35,,,
+1017,Slow,1,Undiscovered,,,35,,,
+1018,Medium Fast,2,Dragon,Mineral,,30,,,
+1019,Slow,2,Amorphous,Dragon,,40,,,
+1020,Slow,2,Amorphous,Dragon,,40,,,
+1021,Slow,2,Amorphous,Dragon,,40,,,
+1022,Slow,1,Undiscovered,,,120,,,
+1023,Slow,1,Undiscovered,,,120,,,
+1024,Slow,1,Undiscovered,,,120,,,
+1025,Slow,1,Undiscovered,,,120,,,
+1026,Slow,1,Undiscovered,,,120,,,
+1027,Slow,1,Undiscovered,,,120,,,
