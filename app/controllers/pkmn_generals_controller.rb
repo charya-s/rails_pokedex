@@ -24,7 +24,7 @@ class PkmnGeneralsController < ApplicationController
 
   # GET /search_abilities/search
   def search_abilities 
-    @general_search = PkmnGeneral.joins(:pkmn_abilities).where("pkmn_abilities.ability_1 LIKE ? or pkmn_abilities.ability_2 LIKE ? or pkmn_abilities.ability_hidden LIKE ?", "%" + params[:q] + "%", "%" + params[:q] + "%", "%" + params[:q] + "%")
+    @general_search = PkmnGeneral.joins(:pkmn_abilities).where("lower(pkmn_abilities.ability_1) LIKE ? or lower(pkmn_abilities.ability_2) LIKE ? or lower(pkmn_abilities.ability_hidden) LIKE ?", "%" + params[:q].downcase + "%", "%" + params[:q].downcase + "%", "%" + params[:q].downcase + "%")
     render json: @general_search.to_json
   end
 
@@ -37,7 +37,7 @@ class PkmnGeneralsController < ApplicationController
 
   # GET /search_abilities_good/search
   def search_abilities_good
-    @good_search = PkmnGeneral.joins(:pkmn_stats, :pkmn_abilities).where("pkmn_stats.total_points > 499 and pkmn_abilities.abilities_num > 1").where("pkmn_abilities.ability_1 LIKE ? or pkmn_abilities.ability_2 LIKE ? or pkmn_abilities.ability_hidden LIKE ?", "%" + params[:q] + "%", "%" + params[:q] + "%", "%" + params[:q] + "%")
+    @good_search = PkmnGeneral.joins(:pkmn_stats, :pkmn_abilities).where("pkmn_stats.total_points > 499 and pkmn_abilities.abilities_num > 1").where("lower(pkmn_abilities.ability_1) LIKE ? or lower(pkmn_abilities.ability_2) LIKE ? or lower(pkmn_abilities.ability_hidden) LIKE ?", "%" + params[:q].downcase + "%", "%" + params[:q].downcase + "%", "%" + params[:q].downcase + "%")
     render json: @good_search.to_json
   end
 
