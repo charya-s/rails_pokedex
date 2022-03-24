@@ -1,4 +1,4 @@
-# README
+# Pokédex App by Charya S.
 
 This app uses Ruby 3.1.1, Rails 7.0.2.3, NodeJS 17.7.2. The database uses PostgreSQL 14.2 and the app is deployed on Heroku (see below).
 
