@@ -6,6 +6,7 @@ This app uses Ruby 3.1.1, Rails 7.0.2.3, NodeJS 17.7.2. The database uses Postgr
 https://pkmn-table.herokuapp.com/
 
 - Click on any Pokémon on the table to open a popup with more information including stats and breeding information.
+  - The sprite of the Pokémon and the icons for it's typing are sourced from an online database, and will not load without an internet connection.
 - Click on the table behind the popup to close it.
 - The table can be filtered using the checkbox and the search bar.
   - When the checkbox is ticked, only Pokémon considered "good" are displayed. The requirement for this classification is having two or more abilities and a total stat count of over 500. 
